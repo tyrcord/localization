@@ -1,0 +1,22 @@
+{
+    "finance": {
+        "select": {
+            "financial_instrument": "Select a financial instrument",
+            "pip_precision": "Select a decimal place"
+        },
+        "label": {
+            "pip_precision": "Pip Decimal Place",
+            "financial_instrument": "Financial Instrument"
+        },
+        "disclaimer": {
+            "incorrect_results": "If you feel that the results are incorrect, it's possible that the parameters may vary depending on your broker and the financial instruments you are using. If necessary, you can adjust the parameters in the advanced section.",
+            "intervening_markets": "Intervening in financial markets carries risks that may result in financial losses. Please do not make trading or investment decisions based solely on this information."
+        },
+        "title": {
+            "results_information": "Results Information"
+        },
+        "error": {
+            "quote_refresh": "Can't update the quote for the selected financial instrument. Please try again later."
+        }
+    }
+}
