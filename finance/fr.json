@@ -16,7 +16,7 @@
             "results_information": "Informations sur les résultats"
         },
         "error": {
-            "quote_refresh": "Impossible de mettre à jour le cours de l'instrument financier sélectionné. Veuillez réessayer ultérieurement."
+            "quote_refresh": "La cotation de l'instrument financier sélectionné ne peut pas être mise à jour. Veuillez réessayer plus tard."
         }
     }
 }
