@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "labels": {
+            "appearance": "Apparence",
+            "default": "Par défaut",
+            "light": "Clair",
+            "dark": "Sombre",
+            "language": "Langue",
+            "languages": "Langues",
+            "system": "Système"
+        }
+    }
+}
