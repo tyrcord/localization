@@ -2,7 +2,8 @@
     "apps": {
         "fx_pos_qal": {
             "promo": {
-                "short": "Determinar o tamanho das suas posições nunca foi tão fácil!"
+                "short": "Determinar o tamanho das suas posições nunca foi tão fácil!",
+                "comply_risk_management": "Respeite facilmente a sua gestão de riscos"
             },
             "intro": {
                 "title": "Vamos gerir riscos, e não perdas!",

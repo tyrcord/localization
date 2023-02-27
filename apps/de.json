@@ -10,7 +10,8 @@
                 "promo": "Sie möchten nicht Ihr gesamtes Kapital bei einer einzigen Transaktion riskieren!"
             },
             "promo": {
-                "short": "Die Bestimmung der Größe Ihrer Positionen war noch nie so einfach!"
+                "short": "Die Bestimmung der Größe Ihrer Positionen war noch nie so einfach!",
+                "comply_risk_management": "Managen Sie ganz einfach Ihr Risikomanagement"
             }
         }
     }

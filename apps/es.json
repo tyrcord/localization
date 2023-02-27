@@ -10,7 +10,8 @@
                 "promo": "¡No es cuestión de que pierdas todo tu capital en una sola transacción!"
             },
             "promo": {
-                "short": "¡Determinar el volumen de tus posiciones nunca fue tan fácil!"
+                "short": "¡Determinar el volumen de tus posiciones nunca fue tan fácil!",
+                "comply_risk_management": "Respeta fácilmente tu gestión del riesgo"
             }
         }
     }

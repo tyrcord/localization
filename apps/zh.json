@@ -2,7 +2,8 @@
     "apps": {
         "fx_pos_qal": {
             "promo": {
-                "short": "确定头寸规模从未如此简单！"
+                "short": "确定头寸规模从未如此简单！",
+                "comply_risk_management": "轻松满足您的风险管理要求"
             },
             "intro": {
                 "title": "我们助您管理风险，而非损失！",
