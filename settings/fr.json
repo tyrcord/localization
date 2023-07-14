@@ -4,37 +4,45 @@
       "about": "À propos",
       "app": {
         "preferences": "Préférences de l'application",
-        "settings": "Préférences de l'application"
+        "settings": "Paramètres de l'application"
       },
       "appearance": "Apparence",
-      "customer_support": "Service Client",
+      "change": {
+        "language": "Changer de langue",
+        "theme": "Changer de thème"
+      },
+      "customer_support": "Service client",
       "dark": "Sombre",
       "default": "Par défaut",
-      "disclaimer": "Avertissement",
-      "help_and_support": "Aide & Soutien",
+      "disclaimer": "Clause de non-responsabilité",
+      "help_and_support": "Aide et support",
       "homepage": "Accueil",
       "language": "Langue",
       "languages": "Langues",
-      "legal": "Légal",
+      "legal": "Mentions légales",
       "light": "Clair",
       "preferences": "Préférences",
       "privacy_policy": "Politique de confidentialité",
-      "rate_us": "Notez nous",
-      "reset_settings": "Restaurer les paramètres par défaut",
-      "settings": "Préférences",
-      "submit_bug_report": "Soumettre un rapport de bogue",
+      "rate_us": "Évaluez-nous",
+      "reset_settings": "Rétablir les paramètres",
+      "settings": "Paramètres",
+      "submit_bug_report": "Soumettre un rapport de bug",
       "system": "Système",
       "terms_of_service": "Conditions d'utilisation",
+      "user_input": "Entrée utilisateur",
+      "user_inputs": "Entrées utilisateur",
+      "user_settings": "Paramètres utilisateur",
       "version": "Version : {version}"
     },
     "messages": {
-      "change_later_note": "Notez que vous pouvez toujours le modifier plus tard.",
+      "change_later_note": "Notez que vous pouvez toujours le modifier ultérieurement.",
       "select_language": "Sélectionnez la langue que vous souhaitez utiliser.",
+      "set_settings_info": "Améliorez votre expérience d'application en ajustant vos préférences.",
       "thanks_support": "Merci pour votre soutien !"
     },
     "questions": {
-      "do_you_enjoy_our_app": "Si vous trouvez notre application utile, seriez-vous prêt(e) à prendre quelques instants pour lui attribuer une note ?",
-      "do_you_like_our_app": "Aimez-vous notre application ?"
+      "do_you_enjoy_our_app": "Si vous trouvez notre application utile, seriez-vous prêt à prendre quelques instants pour la noter ?",
+      "do_you_like_our_app": "Appréciez-vous notre application ?"
     }
   }
 }
