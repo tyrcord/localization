@@ -1,39 +1,40 @@
 {
-    "settings": {
-        "labels": {
-            "appearance": "Aussehen",
-            "default": "Standard",
-            "light": "Helligkeit",
-            "dark": "Dunkel",
-            "language": "Sprache",
-            "languages": "Sprachen",
-            "system": "System",
-            "app_settings": "Anwendungseinstellungen",
-            "customer_support": "Kundenservice",
-            "help_and_support": "Hilfe & Support",
-            "reset_settings": "Voreinstellung wiederherstellen",
-            "share_this_app": "Diese App freigeben",
-            "submit_bug_report": "Problembericht einreichen",
-            "terms_of_service": "Nutzungsbedingungen",
-            "version": "Version: {version}",
-            "about": "Über uns",
-            "disclaimer": "Haftungsausschluss",
-            "homepage": "Home",
-            "legal": "Rechtliches",
-            "preferences": "Präferenzen",
-            "settings": "Einstellungen",
-            "privacy_policy": "Datenschutzerklärung",
-            "app_preferences": "Anwendungspräferenzen",
-            "rate_us": "Bewerten Sie uns"
-        },
-        "questions": {
-            "do_you_enjoy_our_app": "Wenn Sie unsere App nützlich finden, würden Sie sich einen Moment Zeit nehmen, um sie zu bewerten?",
-            "do_you_like_our_app": "Gefällt Ihnen unsere App?"
-        },
-        "messages": {
-            "thanks_support": "Danke für Ihre Unterstützung!",
-            "select_language": "Wählen Sie die Sprache, die Sie verwenden möchten.",
-            "change_later_note": "Sie können es später jederzeit anpassen."
-        }
+  "settings": {
+    "labels": {
+      "about": "Über uns",
+      "app": {
+        "preferences": "Anwendungspräferenzen",
+        "settings": "Anwendungseinstellungen"
+      },
+      "appearance": "Aussehen",
+      "customer_support": "Kundenservice",
+      "dark": "Dunkel",
+      "default": "Standard",
+      "disclaimer": "Haftungsausschluss",
+      "help_and_support": "Hilfe & Support",
+      "homepage": "Home",
+      "language": "Sprache",
+      "languages": "Sprachen",
+      "legal": "Rechtliches",
+      "light": "Helligkeit",
+      "preferences": "Präferenzen",
+      "privacy_policy": "Datenschutzerklärung",
+      "rate_us": "Bewerten Sie uns",
+      "reset_settings": "Voreinstellung wiederherstellen",
+      "settings": "Einstellungen",
+      "submit_bug_report": "Problembericht einreichen",
+      "system": "System",
+      "terms_of_service": "Nutzungsbedingungen",
+      "version": "Version: {version}"
+    },
+    "messages": {
+      "change_later_note": "Sie können es später jederzeit anpassen.",
+      "select_language": "Wählen Sie die Sprache, die Sie verwenden möchten.",
+      "thanks_support": "Danke für Ihre Unterstützung!"
+    },
+    "questions": {
+      "do_you_enjoy_our_app": "Wenn Sie unsere App nützlich finden, würden Sie sich einen Moment Zeit nehmen, um sie zu bewerten?",
+      "do_you_like_our_app": "Gefällt Ihnen unsere App?"
     }
+  }
 }
