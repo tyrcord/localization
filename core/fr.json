@@ -1,0 +1,92 @@
+{
+  "core": {
+    "errors": {
+      "cannot_reach_server": "Nous nous excusons pour la gêne occasionnée, mais il y a actuellement un problème de connexion avec le serveur. Veuillez réessayer ultérieurement.",
+      "error_occurred": "Désolé, une erreur s'est produite. Veuillez réessayer ultérieurement."
+    },
+    "labels": {
+      "advanced": "Avancé",
+      "all": {
+        "female": "Toutes",
+        "male": "Tous",
+        "other": "Tous"
+      },
+      "at": "À",
+      "auto_save": "Sauvegarde automatique",
+      "back": "Retour",
+      "behavior": "Comportement",
+      "cancel": "Annuler",
+      "clear": {
+        "selection": "Effacer la sélection",
+        "text": "Effacer"
+      },
+      "close": "Fermer",
+      "confirm": "Confirmer",
+      "confirmation": "Confirmation",
+      "continue": "Continuer",
+      "date": "Date",
+      "default": {
+        "text": "Par défaut",
+        "values": "Valeurs par défaut"
+      },
+      "delete": "Supprimer",
+      "description": "Description",
+      "details": "Détails",
+      "display": "Affichage",
+      "done": "Terminé",
+      "error": "Erreur",
+      "favorites": "Favoris",
+      "home": "Accueil",
+      "learn_more": "En savoir plus",
+      "menu": "Menu",
+      "method": "Méthode",
+      "next": "Suivant",
+      "no": "Non",
+      "none": {
+        "female": "Aucune",
+        "male": "Aucun",
+        "other": "Aucun"
+      },
+      "offline_mode": "Mode hors ligne",
+      "ok": "OK",
+      "optional": "Optionnel",
+      "search": "Rechercher",
+      "share": "Partager",
+      "skip": "Passer",
+      "try_again": "Réessayer",
+      "unlocked": "Débloqué",
+      "yes": "Oui"
+    },
+    "messages": {
+      "action": {
+        "canceled": "Action annulée.",
+        "completed": "Action terminée."
+      },
+      "bugs_fixes_improvements": "Correction de bugs mineurs et améliorations.",
+      "congratulations": "Félicitations !",
+      "dark_mode_support": "Prise en charge du mode sombre.",
+      "finally": "Enfin !",
+      "have_wonderful_day": "Passez une merveilleuse journée !",
+      "last_updated_on": "Dernière mise à jour le {date}",
+      "let_get_started": "Commençons !",
+      "loading": "Chargement...",
+      "modern_design": "Design moderne.",
+      "no_favorites": "Aucun favori.",
+      "please_wait": "Veuillez patienter...",
+      "search": "Rechercher...",
+      "sorry": "Désolé...",
+      "success": "Succès !",
+      "thank_you": "Merci !",
+      "warning": "Attention !",
+      "welcome": "Bienvenue !",
+      "whats_new": "Quoi de neuf ?",
+      "whoops": "Oups !"
+    },
+    "questions": {
+      "are_you_sure": "Êtes-vous sûr(e) ?"
+    },
+    "warnings": {
+      "offline": "L'application fonctionne actuellement en mode hors ligne, ce qui signifie que les données peuvent ne pas être à jour."
+    }
+  }
+}
