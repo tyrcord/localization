@@ -1,0 +1,42 @@
+{
+  "forex": {
+    "labels": {
+      "count": {
+        "pips": {
+          "few": "{} Pips",
+          "many": "{} Pips",
+          "one": "{} Pip",
+          "other": "{} Pips",
+          "zero": "{} Pip"
+        }
+      },
+      "lot": {
+        "micro": "Mikro-Lot",
+        "mini": "Mini-Lot",
+        "nano": "Nano-Lot",
+        "size": "Lot-Größe",
+        "standard": "Standard-Lot",
+        "text": "Lot"
+      },
+      "pip": {
+        "calculator": "Pip-Rechner",
+        "difference": "Pip-Differenz",
+        "precision": "Pip Dezimalzeichen",
+        "value": "Pip-Wert"
+      },
+      "pips": {
+        "number": "Anzahl der Pips",
+        "text": "Pips"
+      },
+      "stop_loss": {
+        "pips": "Stop-Loss (Pips)"
+      },
+      "take_profit": {
+        "pips": "Take Profit (Pips)"
+      }
+    },
+    "selects": {
+      "pip_precision": "Dezimalstelle auswählen"
+    }
+  }
+}

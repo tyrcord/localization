@@ -1,0 +1,42 @@
+{
+  "forex": {
+    "labels": {
+      "count": {
+        "pips": {
+          "few": "{} Pips",
+          "many": "{} Pips",
+          "one": "{} Pip",
+          "other": "{} Pips",
+          "zero": "{} Pips"
+        }
+      },
+      "lot": {
+        "micro": "マイクロロット",
+        "mini": "ミニロット",
+        "nano": "ナノロット",
+        "size": "ロットサイズ",
+        "standard": "スタンダードロット",
+        "text": "ロット"
+      },
+      "pip": {
+        "calculator": "ピップ計算機",
+        "difference": "ピップの違い",
+        "precision": "ピップ小数点",
+        "value": "ピップの価値"
+      },
+      "pips": {
+        "number": "ピップ数",
+        "text": "Pips"
+      },
+      "stop_loss": {
+        "pips": "ストップロス (Pips)"
+      },
+      "take_profit": {
+        "pips": "テイクプロフィット (Pips)"
+      }
+    },
+    "selects": {
+      "pip_precision": "小数を選択する"
+    }
+  }
+}
