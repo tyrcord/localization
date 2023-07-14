@@ -1,0 +1,13 @@
+{
+  "share": {
+    "messages": {
+      "invite": "Hey, ich habe diese erstaunliche App entdeckt, die dein Leben einfacher macht. Schau sie dir an!"
+    },
+    "labels": {
+      "share": {
+        "text": "Teilen",
+        "app": "Diese App teilen"
+      }
+    }
+  }
+}
