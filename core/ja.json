@@ -29,6 +29,18 @@
         "text": "デフォルト",
         "values": "デフォルト値"
       },
+      "frequency": "頻度",
+      "annually": "毎年",
+      "quarterly": "四半期ごとに",
+      "yearly": "毎年",
+      "monthly": "毎月",
+      "weekly": "毎週",
+      "daily": "毎日",
+      "minors": "未成年",
+      "majors": "成人",
+      "exotics": "エキゾチック",
+      "quantity": "数量",
+      "results": "結果",
       "delete": "削除",
       "description": "説明",
       "details": "詳細",
@@ -87,6 +99,10 @@
     },
     "warnings": {
       "offline": "アプリは現在オフラインモードで動作しています。データが最新でない場合があります。"
+    },
+    "select": {
+      "frequency": "頻度を選択",
+      "method": "方法を選択"
     }
   }
 }

@@ -11,6 +11,7 @@
         "male": "Alle",
         "other": "Alle"
       },
+      "annually": "Jährlich",
       "at": "Bei",
       "auto_save": "Automatisch speichern",
       "back": "Zurück",
@@ -24,6 +25,7 @@
       "confirm": "Bestätigen",
       "confirmation": "Bestätigung",
       "continue": "Weiter",
+      "daily": "Täglich",
       "date": "Datum",
       "default": {
         "text": "Standard",
@@ -35,11 +37,16 @@
       "display": "Anzeige",
       "done": "Fertig",
       "error": "Fehler",
+      "exotics": "Exotische",
       "favorites": "Favoriten",
+      "frequency": "Häufigkeit",
       "home": "Startseite",
       "learn_more": "Weitere Informationen",
+      "majors": "Volljährige",
       "menu": "Menü",
       "method": "Methode",
+      "minors": "Minderjährige",
+      "monthly": "Monatlich",
       "next": "Weiter",
       "no": "Nein",
       "none": {
@@ -50,11 +57,16 @@
       "offline_mode": "Offline-Modus",
       "ok": "OK",
       "optional": "Optional",
+      "quantity": "Menge",
+      "quarterly": "Vierteljährlich",
+      "results": "Ergebnisse",
       "search": "Suche",
       "share": "Teilen",
       "skip": "Überspringen",
       "try_again": "Erneut versuchen",
       "unlocked": "Entsperrt",
+      "weekly": "Wöchentlich",
+      "yearly": "Jährlich",
       "yes": "Ja"
     },
     "messages": {
@@ -84,6 +96,10 @@
     },
     "questions": {
       "are_you_sure": "Sind Sie sicher?"
+    },
+    "select": {
+      "frequency": "Wählen Sie eine Häufigkeit",
+      "method": "Wählen Sie eine Methode"
     },
     "warnings": {
       "offline": "Die Anwendung arbeitet derzeit im Offline-Modus. Die Daten sind möglicherweise nicht auf dem neuesten Stand."

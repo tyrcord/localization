@@ -11,6 +11,7 @@
         "male": "Todos",
         "other": "Todos"
       },
+      "annually": "Anualmente",
       "at": "Em",
       "auto_save": "Salvar automaticamente",
       "back": "Voltar",
@@ -24,6 +25,7 @@
       "confirm": "Confirmar",
       "confirmation": "Confirmação",
       "continue": "Continuar",
+      "daily": "Diariamente",
       "date": "Data",
       "default": {
         "text": "Padrão",
@@ -35,11 +37,16 @@
       "display": "Exibição",
       "done": "Concluído",
       "error": "Erro",
+      "exotics": "Exóticas",
       "favorites": "Favoritos",
+      "frequency": "Frequência",
       "home": "Início",
       "learn_more": "Saiba mais",
+      "majors": "Maiores",
       "menu": "Menu",
       "method": "Método",
+      "minors": "Menores",
+      "monthly": "Mensalmente",
       "next": "Próximo",
       "no": "Não",
       "none": {
@@ -50,11 +57,16 @@
       "offline_mode": "Modo offline",
       "ok": "OK",
       "optional": "Opcional",
+      "quantity": "Quantidade",
+      "quarterly": "Trimestralmente",
+      "results": "Resultados",
       "search": "Pesquisar",
       "share": "Compartilhar",
       "skip": "Pular",
       "try_again": "Tentar novamente",
       "unlocked": "Desbloqueado",
+      "weekly": "Semanalmente",
+      "yearly": "Anualmente",
       "yes": "Sim"
     },
     "messages": {
@@ -84,6 +96,10 @@
     },
     "questions": {
       "are_you_sure": "Tem certeza?"
+    },
+    "select": {
+      "frequency": "Selecione uma frequência",
+      "method": "Selecione um método"
     },
     "warnings": {
       "offline": "O aplicativo está atualmente operando no modo offline, o que significa que os dados podem não estar atualizados."

@@ -11,6 +11,7 @@
         "male": "Tous",
         "other": "Tous"
       },
+      "annually": "Annuellement",
       "at": "À",
       "auto_save": "Sauvegarde automatique",
       "back": "Retour",
@@ -24,6 +25,7 @@
       "confirm": "Confirmer",
       "confirmation": "Confirmation",
       "continue": "Continuer",
+      "daily": "Quotidiennement",
       "date": "Date",
       "default": {
         "text": "Par défaut",
@@ -35,11 +37,16 @@
       "display": "Affichage",
       "done": "Terminé",
       "error": "Erreur",
+      "exotics": "Exotiques",
       "favorites": "Favoris",
+      "frequency": "Fréquence",
       "home": "Accueil",
       "learn_more": "En savoir plus",
+      "majors": "Majeures",
       "menu": "Menu",
       "method": "Méthode",
+      "minors": "Mineures",
+      "monthly": "Mensuellement",
       "next": "Suivant",
       "no": "Non",
       "none": {
@@ -50,11 +57,16 @@
       "offline_mode": "Mode hors ligne",
       "ok": "OK",
       "optional": "Optionnel",
+      "quantity": "Quantité",
+      "quarterly": "Trimestriellement",
+      "results": "Résultats",
       "search": "Rechercher",
       "share": "Partager",
       "skip": "Passer",
       "try_again": "Réessayer",
       "unlocked": "Débloqué",
+      "weekly": "Hebdomadairement",
+      "yearly": "Annuellement",
       "yes": "Oui"
     },
     "messages": {
@@ -84,6 +96,10 @@
     },
     "questions": {
       "are_you_sure": "Êtes-vous sûr(e) ?"
+    },
+    "select": {
+      "frequency": "Sélectionnez une fréquence",
+      "method": "Sélectionnez une méthode"
     },
     "warnings": {
       "offline": "L'application fonctionne actuellement en mode hors ligne, ce qui signifie que les données peuvent ne pas être à jour."

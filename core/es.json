@@ -29,6 +29,18 @@
         "text": "Predeterminado",
         "values": "Valores predeterminados"
       },
+      "frequency": "Frecuencia",
+      "annually": "Anualmente",
+      "quarterly": "Trimestralmente",
+      "yearly": "Anualmente",
+      "monthly": "Mensualmente",
+      "weekly": "Semanalmente",
+      "daily": "Diariamente",
+      "minors": "Menores",
+      "majors": "Mayores",
+      "exotics": "Exóticas",
+      "quantity": "Cantidad",
+      "results": "Resultados",
       "delete": "Eliminar",
       "description": "Descripción",
       "details": "Detalles",
@@ -87,6 +99,10 @@
     },
     "warnings": {
       "offline": "La aplicación se encuentra en modo sin conexión, lo que significa que los datos pueden no estar actualizados."
+    },
+    "select": {
+      "frequency": "Selecciona una frecuencia",
+      "method": "Selecciona un método"
     }
   }
 }

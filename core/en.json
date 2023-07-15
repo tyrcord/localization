@@ -11,6 +11,7 @@
         "male": "All",
         "other": "All"
       },
+      "annually": "Annually",
       "at": "At",
       "auto_save": "Auto-save",
       "back": "Back",
@@ -24,6 +25,7 @@
       "confirm": "Confirm",
       "confirmation": "Confirmation",
       "continue": "Continue",
+      "daily": "Daily",
       "date": "Date",
       "default": {
         "text": "Default",
@@ -35,11 +37,16 @@
       "display": "Display",
       "done": "Done",
       "error": "Error",
+      "exotics": "Exotic",
       "favorites": "Favorites",
+      "frequency": "Frequency",
       "home": "Home",
       "learn_more": "Learn more",
+      "majors": "Major",
       "menu": "Menu",
       "method": "Method",
+      "minors": "Minor",
+      "monthly": "Monthly",
       "next": "Next",
       "no": "No",
       "none": {
@@ -50,11 +57,16 @@
       "offline_mode": "Offline Mode",
       "ok": "OK",
       "optional": "Optional",
+      "quantity": "Quantity",
+      "quarterly": "Quarterly",
+      "results": "Results",
       "search": "Search",
       "share": "Share",
       "skip": "Skip",
       "try_again": "Try Again",
       "unlocked": "Unlocked",
+      "weekly": "Weekly",
+      "yearly": "Yearly",
       "yes": "Yes"
     },
     "messages": {
@@ -84,6 +96,10 @@
     },
     "questions": {
       "are_you_sure": "Are you sure?"
+    },
+    "select": {
+      "frequency": "Select a frequency",
+      "method": "Select a method"
     },
     "warnings": {
       "offline": "The application is currently operating in offline mode, which means that the data may not be up to date"

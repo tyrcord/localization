@@ -29,6 +29,18 @@
         "text": "默认",
         "values": "默认值"
       },
+      "frequency": "频率",
+      "annually": "每年",
+      "quarterly": "每季度",
+      "yearly": "每年",
+      "monthly": "每月",
+      "weekly": "每周",
+      "daily": "每天",
+      "minors": "未成年人",
+      "majors": "成年人",
+      "exotics": "异国情调",
+      "quantity": "数量",
+      "results": "结果",
       "delete": "删除",
       "description": "描述",
       "details": "详细信息",
@@ -87,6 +99,10 @@
     },
     "warnings": {
       "offline": "该应用当前处于离线模式，这意味着数据可能不是最新的。"
+    },
+    "select": {
+      "frequency": "选择频率",
+      "method": "选择方法"
     }
   }
 }
