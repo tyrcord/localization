@@ -1,6 +1,7 @@
 {
   "forex": {
     "labels": {
+      "commodities": "コモディティ",
       "count": {
         "pips": {
           "few": "{} Pips",
@@ -9,6 +10,12 @@
           "other": "{} Pips",
           "zero": "{} Pips"
         }
+      },
+      "cryptos": "仮想通貨",
+      "currency": {
+        "base": "ベースカレンシー",
+        "counter": "カウンターカレンシー",
+        "pair": "通貨ペア"
       },
       "lot": {
         "micro": "マイクロロット",
@@ -36,6 +43,7 @@
       }
     },
     "selects": {
+      "currency_pair": "通貨ペアを選択してください",
       "pip_precision": "小数を選択する"
     }
   }

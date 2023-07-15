@@ -1,6 +1,7 @@
 {
   "forex": {
     "labels": {
+      "commodities": "Товары",
       "count": {
         "pips": {
           "few": "{} Pips",
@@ -9,6 +10,12 @@
           "other": "{} Pips",
           "zero": "{} Pips"
         }
+      },
+      "cryptos": "Криптовалюты",
+      "currency": {
+        "base": "Базовая валюта",
+        "counter": "Контрольная валюта",
+        "pair": "Валютная пара"
       },
       "lot": {
         "micro": "Микро-лот",
@@ -36,6 +43,7 @@
       }
     },
     "selects": {
+      "currency_pair": "Выберите валютную пару",
       "pip_precision": "Выберите десятичный знак"
     }
   }

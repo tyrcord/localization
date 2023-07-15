@@ -1,6 +1,7 @@
 {
   "forex": {
     "labels": {
+      "commodities": "Rohstoffe",
       "count": {
         "pips": {
           "few": "{} Pips",
@@ -9,6 +10,12 @@
           "other": "{} Pips",
           "zero": "{} Pip"
         }
+      },
+      "cryptos": "Kryptowährungen",
+      "currency": {
+        "base": "Hauptwährung",
+        "counter": "Gegenwährung",
+        "pair": "Währungspaar"
       },
       "lot": {
         "micro": "Mikro-Lot",
@@ -36,6 +43,7 @@
       }
     },
     "selects": {
+      "currency_pair": "Wählen Sie ein Währungspaar",
       "pip_precision": "Dezimalstelle auswählen"
     }
   }
