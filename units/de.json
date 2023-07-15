@@ -1,0 +1,44 @@
+{
+  "units": {
+    "labels": {
+      "ounce": "oz",
+      "pound": "lb",
+      "gram": "g",
+      "kilogram": "kg",
+      "barrel": "Fass",
+      "mmbtu": "MMBtu",
+      "gallon": "Gallone",
+      "unit": "Einheit",
+      "count": {
+        "barrel": {
+          "few": "{} Fässer",
+          "many": "{} Fässer",
+          "one": "{} Fass",
+          "other": "{} Fässer",
+          "zero": "{} Fass"
+        },
+        "mmbtu": {
+          "few": "{} MMBtus",
+          "many": "{} MMBtus",
+          "one": "{} MMBtu",
+          "other": "{} MMBtus",
+          "zero": "{} MMBtu"
+        },
+        "ounce": {
+          "few": "{} Unzen",
+          "many": "{} Unzen",
+          "one": "{} Unze",
+          "other": "{} Unzen",
+          "zero": "{} Unze"
+        },
+        "unit": {
+          "few": "{} Einheiten",
+          "many": "{} Einheiten",
+          "one": "{} Einheit",
+          "other": "{} Einheiten",
+          "zero": "{} Einheit"
+        }
+      }
+    }
+  }
+}

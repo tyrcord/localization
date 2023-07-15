@@ -1,0 +1,44 @@
+{
+  "units": {
+    "labels": {
+      "ounce": "oz",
+      "pound": "lb",
+      "gram": "g",
+      "kilogram": "kg",
+      "barrel": "barril",
+      "mmbtu": "MMBtu",
+      "gallon": "galão",
+      "unit": "unidade",
+      "count": {
+        "barrel": {
+          "few": "{} barris",
+          "many": "{} barris",
+          "one": "{} barril",
+          "other": "{} barris",
+          "zero": "{} barris"
+        },
+        "mmbtu": {
+          "few": "{} MMBtus",
+          "many": "{} MMBtus",
+          "one": "{} MMBtu",
+          "other": "{} MMBtus",
+          "zero": "{} MMBtus"
+        },
+        "ounce": {
+          "few": "{} onças",
+          "many": "{} onças",
+          "one": "{} onça",
+          "other": "{} onças",
+          "zero": "{} onças"
+        },
+        "unit": {
+          "few": "{} unidades",
+          "many": "{} unidades",
+          "one": "{} unidade",
+          "other": "{} unidades",
+          "zero": "{} unidades"
+        }
+      }
+    }
+  }
+}
