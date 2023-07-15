@@ -1,0 +1,9 @@
+{
+  "stock": {
+    "expected_annual_share_price_appreciation": "Valorização esperada anual das ações",
+    "share_price": "Preço da ação",
+    "shares_owned": "Ações possuídas",
+    "number_of_shares": "Número de ações",
+    "stock": "Ação"
+  }
+}
