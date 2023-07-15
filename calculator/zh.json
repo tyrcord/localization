@@ -1,0 +1,12 @@
+{
+  "calculator": {
+    "titles": {
+      "instructions": "使用此计算器的说明",
+      "results": "有关结果的信息"
+    },
+    "labels": {
+      "calculators": "计算器",
+      "calculator": "计算器"
+    }
+  }
+}

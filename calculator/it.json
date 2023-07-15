@@ -1,0 +1,12 @@
+{
+  "calculator": {
+    "titles": {
+      "instructions": "Istruzioni per l'uso di questa Calcolatrice",
+      "results": "Informazioni sui risultati"
+    },
+    "labels": {
+      "calculators": "Calcolatrici",
+      "calculator": "Calcolatrice"
+    }
+  }
+}
