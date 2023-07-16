@@ -1,17 +1,17 @@
 {
   "finance": {
-    "disclaimers": {
+    "disclaimer": {
       "incorrect_results": "Si considera que los resultados son incorrectos, es posible que ciertos parámetros varíen según su corredor y los instrumentos financieros que esté utilizando. Si es necesario, puede ajustar estas configuraciones en la sección avanzada.",
       "intervening_markets": "Participar en los mercados financieros conlleva riesgos que pueden generar pérdidas financieras. Por favor, no tome decisiones de trading o inversión basadas únicamente en esta información.",
       "trading": "Los mercados financieros conllevan riesgos significativos para su capital invertido. La información y los resultados proporcionados por esta aplicación solo deben considerarse como una indicación y no constituyen asesoramiento ni recomendaciones. {company} declina toda responsabilidad por las pérdidas incurridas por cualquier persona que actúe en función de esta información o estos resultados."
     },
-    "errors": {
+    "error": {
       "close_price_between_low_high_price": "El precio de cierre debe estar entre el precio más bajo y el precio más alto.",
       "high_price_higher_low_price": "El precio más alto debe superar al precio más bajo.",
       "open_price_between_low_high_price": "El precio de apertura debe estar entre el precio más bajo y el precio más alto.",
       "quote_refresh": "No se puede actualizar la cotización del instrumento financiero seleccionado. Por favor, inténtelo de nuevo más tarde."
     },
-    "labels": {
+    "label": {
       "account": {
         "balance": {
           "help": "Especifique el valor actual de su capital.",
@@ -195,7 +195,7 @@
       },
       "user_currency": "Moneda del usuario"
     },
-    "selects": {
+    "select": {
       "account_currency": "Seleccione la moneda de su cuenta",
       "currency": "Seleccione una moneda",
       "interest_rate": "Seleccione una tasa de interés",

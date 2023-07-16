@@ -1,9 +1,9 @@
 {
   "purchases": {
-    "errors": {
+    "error": {
       "cannot_connect_store": "不便之处，我们深感抱歉。商店当前不可用，因此您暂时无法进行购买。"
     },
-    "features": {
+    "feature": {
       "auto": {
         "refresh_exchange_rates": "自动刷新汇率",
         "refresh_stock_prices": "自动刷新股票价格"
@@ -15,7 +15,7 @@
         "pdf": "体验无限的PDF生成。"
       }
     },
-    "labels": {
+    "label": {
       "available_products": "可用产品",
       "free_version": "免费版本",
       "go_premium": "升级到高级版！",
@@ -25,7 +25,7 @@
       "purchases": "购买",
       "restore_purchases": "恢复购买"
     },
-    "messages": {
+    "message": {
       "enjoy_premium_version": "通过高级功能发挥该应用程序的全部潜力，提供卓越的用户体验！",
       "go_premium_description": "升级到高级版不仅支持持续开发，还能获得额外功能。",
       "item": {

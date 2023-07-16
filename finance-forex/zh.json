@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "大宗商品",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "止盈（Pips）"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "选择货币对",
       "pip_precision": "请选择一个小数"
     }

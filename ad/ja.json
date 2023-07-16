@@ -1,12 +1,12 @@
 {
   "ad": {
-    "labels": {
+    "label": {
       "ad": "広告",
       "advertisement": "広告",
       "personalized_ads": "パーソナライズ広告",
       "sponsored": "スポンサー"
     },
-    "messages": {
+    "message": {
       "disclaimer": {
         "user_tracking": "この識別子は、あなたの興味に基づいてターゲット広告を提案するために使用されます。"
       },

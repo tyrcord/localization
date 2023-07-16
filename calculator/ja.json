@@ -1,10 +1,10 @@
 {
   "calculator": {
-    "labels": {
+    "label": {
       "calculator": "計算機",
       "calculators": "計算機"
     },
-    "titles": {
+    "title": {
       "instructions": "この計算機の使用方法",
       "results": "結果に関する情報"
     }

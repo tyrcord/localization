@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "Wir entschuldigen uns für die Unannehmlichkeiten, aber es besteht derzeit ein Verbindungsproblem mit dem Server. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
       "error_occurred": "Entschuldigung, es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
     },
-    "labels": {
+    "label": {
       "advanced": "Erweitert",
       "all": {
         "female": "Alle",
@@ -70,7 +70,7 @@
       "yearly": "Jährlich",
       "yes": "Ja"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "Aktion abgebrochen.",
         "completed": "Aktion abgeschlossen."
@@ -95,14 +95,14 @@
       "whats_new": "Was gibt's Neues?",
       "whoops": "Hoppla!"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "Sind Sie sicher?"
     },
     "select": {
       "frequency": "Wählen Sie eine Häufigkeit",
       "method": "Wählen Sie eine Methode"
     },
-    "warnings": {
+    "warning": {
       "offline": "Die Anwendung arbeitet derzeit im Offline-Modus. Die Daten sind möglicherweise nicht auf dem neuesten Stand."
     }
   }

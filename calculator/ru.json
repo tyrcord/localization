@@ -1,10 +1,10 @@
 {
   "calculator": {
-    "labels": {
+    "label": {
       "calculator": "Калькулятор",
       "calculators": "Калькуляторы"
     },
-    "titles": {
+    "title": {
       "instructions": "Инструкции по использованию этого Калькулятора",
       "results": "Информация о результатах"
     }

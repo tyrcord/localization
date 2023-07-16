@@ -1,9 +1,9 @@
 {
   "purchases": {
-    "errors": {
+    "error": {
       "cannot_connect_store": "Pedimos desculpas pelo inconveniente. A loja está indisponível no momento e, portanto, você não poderá fazer compras neste momento."
     },
-    "features": {
+    "feature": {
       "auto": {
         "refresh_exchange_rates": "Atualização automática das taxas de câmbio",
         "refresh_stock_prices": "Atualização automática dos preços das ações"
@@ -15,7 +15,7 @@
         "pdf": "Experimente a geração ilimitada de PDF."
       }
     },
-    "labels": {
+    "label": {
       "available_products": "Produtos disponíveis",
       "free_version": "Versão gratuita",
       "go_premium": "Obtenha Premium!",
@@ -25,7 +25,7 @@
       "purchases": "Compras",
       "restore_purchases": "Restaurar compras"
     },
-    "messages": {
+    "message": {
       "enjoy_premium_version": "Libere todo o potencial deste aplicativo com seus recursos Premium, garantindo uma experiência aprimorada para o usuário!",
       "go_premium_description": "Ao fazer o upgrade para a versão premium, você não apenas apoia o desenvolvimento contínuo, mas também obtém acesso a recursos adicionais.",
       "item": {

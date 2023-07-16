@@ -1,12 +1,12 @@
 {
   "ad": {
-    "labels": {
+    "label": {
       "ad": "广告",
       "advertisement": "广告",
       "personalized_ads": "个性化广告",
       "sponsored": "赞助"
     },
-    "messages": {
+    "message": {
       "disclaimer": {
         "user_tracking": "此标识符将根据您的兴趣为您推荐定向广告。"
       },

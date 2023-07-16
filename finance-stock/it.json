@@ -1,9 +1,11 @@
 {
   "stock": {
-    "expected_annual_share_price_appreciation": "Apprezzamento annuale previsto del prezzo delle azioni",
-    "number_of_shares": "Numero di azioni",
-    "share_price": "Prezzo azione",
-    "shares_owned": "Azioni possedute",
-    "stock": "Azione"
+    "label": {
+      "expected_annual_share_price_appreciation": "Apprezzamento annuale previsto del prezzo delle azioni",
+      "number_of_shares": "Numero di azioni",
+      "share_price": "Prezzo azione",
+      "shares_owned": "Azioni possedute",
+      "stock": "Azione"
+    }
   }
 }

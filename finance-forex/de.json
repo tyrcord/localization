@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "Rohstoffe",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "Take Profit (Pips)"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "Wählen Sie ein Währungspaar",
       "pip_precision": "Dezimalstelle auswählen"
     }

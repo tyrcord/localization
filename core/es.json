@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "Lamentamos las molestias, pero actualmente hay un problema de conexión con el servidor. Por favor, inténtalo de nuevo más tarde.",
       "error_occurred": "Disculpa, ha ocurrido un error. Por favor, inténtalo nuevamente más tarde."
     },
-    "labels": {
+    "label": {
       "advanced": "Avanzado",
       "all": {
         "female": "Todas",
@@ -70,7 +70,7 @@
       "yearly": "Anualmente",
       "yes": "Sí"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "Acción cancelada.",
         "completed": "Acción completada."
@@ -95,14 +95,14 @@
       "whats_new": "¿Qué hay de nuevo?",
       "whoops": "¡Ups!"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "¿Estás seguro?"
     },
     "select": {
       "frequency": "Selecciona una frecuencia",
       "method": "Selecciona un método"
     },
-    "warnings": {
+    "warning": {
       "offline": "La aplicación se encuentra en modo sin conexión, lo que significa que los datos pueden no estar actualizados."
     }
   }

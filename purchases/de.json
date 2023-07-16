@@ -1,9 +1,9 @@
 {
   "purchases": {
-    "errors": {
+    "error": {
       "cannot_connect_store": "Wir entschuldigen uns für die Unannehmlichkeiten. Der Store ist derzeit nicht verfügbar, und daher können Sie derzeit keine Käufe tätigen."
     },
-    "features": {
+    "feature": {
       "auto": {
         "refresh_exchange_rates": "Automatisches Aktualisieren der Wechselkurse",
         "refresh_stock_prices": "Automatisches Aktualisieren der Aktienkurse"
@@ -15,7 +15,7 @@
         "pdf": "Erleben Sie grenzenlose PDF-Erstellung."
       }
     },
-    "labels": {
+    "label": {
       "available_products": "Verfügbare Produkte",
       "free_version": "Kostenlose Version",
       "go_premium": "Premium aktivieren!",
@@ -25,7 +25,7 @@
       "purchases": "Käufe",
       "restore_purchases": "Käufe wiederherstellen"
     },
-    "messages": {
+    "message": {
       "enjoy_premium_version": "Entfesseln Sie das volle Potenzial dieser Anwendung mit ihren Premium-Funktionen und gewährleisten Sie ein verbessertes Benutzererlebnis!",
       "go_premium_description": "Durch ein Upgrade auf die Premium-Version unterstützen Sie nicht nur die laufende Entwicklung, sondern erhalten auch Zugriff auf zusätzliche Funktionen.",
       "item": {

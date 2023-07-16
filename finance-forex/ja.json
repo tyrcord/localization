@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "コモディティ",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "テイクプロフィット (Pips)"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "通貨ペアを選択してください",
       "pip_precision": "小数を選択する"
     }

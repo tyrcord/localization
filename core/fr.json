@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "Nous nous excusons pour la gêne occasionnée, mais il y a actuellement un problème de connexion avec le serveur. Veuillez réessayer ultérieurement.",
       "error_occurred": "Désolé, une erreur s'est produite. Veuillez réessayer ultérieurement."
     },
-    "labels": {
+    "label": {
       "advanced": "Avancé",
       "all": {
         "female": "Toutes",
@@ -70,7 +70,7 @@
       "yearly": "Annuellement",
       "yes": "Oui"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "Action annulée.",
         "completed": "Action terminée."
@@ -95,14 +95,14 @@
       "whats_new": "Quoi de neuf ?",
       "whoops": "Oups !"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "Êtes-vous sûr(e) ?"
     },
     "select": {
       "frequency": "Sélectionnez une fréquence",
       "method": "Sélectionnez une méthode"
     },
-    "warnings": {
+    "warning": {
       "offline": "L'application fonctionne actuellement en mode hors ligne, ce qui signifie que les données peuvent ne pas être à jour."
     }
   }

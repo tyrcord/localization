@@ -1,9 +1,9 @@
 {
   "purchases": {
-    "errors": {
+    "error": {
       "cannot_connect_store": "ご迷惑をおかけして申し訳ありません。現在、ストアは利用できませんので、この時点では購入をすることができません。"
     },
-    "features": {
+    "feature": {
       "auto": {
         "refresh_exchange_rates": "為替レートを自動更新",
         "refresh_stock_prices": "株価を自動更新"
@@ -15,7 +15,7 @@
         "pdf": "無制限のPDF生成を体験しましょう。"
       }
     },
-    "labels": {
+    "label": {
       "available_products": "利用可能な商品",
       "free_version": "無料版",
       "go_premium": "プレミアムにアップグレード！",
@@ -25,7 +25,7 @@
       "purchases": "購入",
       "restore_purchases": "購入を復元"
     },
-    "messages": {
+    "message": {
       "enjoy_premium_version": "プレミアム機能を備えたこのアプリケーションのフルポテンシャルを引き出し、より充実したユーザーエクスペリエンスをお楽しみください！",
       "go_premium_description": "プレミアム版にアップグレードすることで、継続的な開発をサポートするだけでなく、追加の機能にアクセスすることもできます。",
       "item": {

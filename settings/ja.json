@@ -1,6 +1,6 @@
 {
   "settings": {
-    "labels": {
+    "label": {
       "about": "について",
       "app": {
         "preferences": "アプリの設定",
@@ -34,13 +34,13 @@
       "user_settings": "ユーザー設定",
       "version": "バージョン: {version}"
     },
-    "messages": {
+    "message": {
       "change_later_note": "後でいつでも変更できることに注意してください。",
       "select_language": "使用する言語を選択してください。",
       "set_settings_info": "好みに合わせてアプリの設定を調整して、アプリの体験を向上させましょう。",
       "thanks_support": "ご支援ありがとうございます！"
     },
-    "questions": {
+    "question": {
       "do_you_enjoy_our_app": "当社のアプリがお役に立つ場合、数分お時間をいただき、評価していただけますか？",
       "do_you_like_our_app": "当社のアプリをお楽しみいただいていますか？"
     }

@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "Товары",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "Тейк-профит (Pips)"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "Выберите валютную пару",
       "pip_precision": "Выберите десятичный знак"
     }

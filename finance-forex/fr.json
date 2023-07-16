@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "Matières premières",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "Prise de bénéfices (Pips)"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "Sélectionnez une paire de devises",
       "pip_precision": "Sélectionnez une décimale"
     }

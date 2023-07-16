@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "对不起，目前与服务器的连接存在问题。请稍后再试。",
       "error_occurred": "抱歉，发生错误。请稍后再试。"
     },
-    "labels": {
+    "label": {
       "advanced": "高级",
       "all": {
         "female": "全部",
@@ -70,7 +70,7 @@
       "yearly": "每年",
       "yes": "是"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "操作已取消。",
         "completed": "操作已完成。"
@@ -95,14 +95,14 @@
       "whats_new": "有什么新功能？",
       "whoops": "哎呀！"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "确定吗？"
     },
     "select": {
       "frequency": "选择频率",
       "method": "选择方法"
     },
-    "warnings": {
+    "warning": {
       "offline": "该应用当前处于离线模式，这意味着数据可能不是最新的。"
     }
   }

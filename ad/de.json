@@ -1,12 +1,12 @@
 {
   "ad": {
-    "labels": {
+    "label": {
       "ad": "Anzeige",
       "advertisement": "Werbeanzeige",
       "personalized_ads": "Personalisierte Anzeigen",
       "sponsored": "Gesponsert"
     },
-    "messages": {
+    "message": {
       "disclaimer": {
         "user_tracking": "Diese Kennung wird verwendet, um Ihnen basierend auf Ihren Interessen gezielte Werbung vorzuschlagen."
       },

@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "We apologize for the inconvenience, but there is currently a connection issue with the server. Please try again at a later time.",
       "error_occurred": "Apologies, an error has occurred. Please try again later."
     },
-    "labels": {
+    "label": {
       "advanced": "Advanced",
       "all": {
         "female": "All",
@@ -70,7 +70,7 @@
       "yearly": "Yearly",
       "yes": "Yes"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "Action canceled.",
         "completed": "Action completed."
@@ -95,14 +95,14 @@
       "whats_new": "What's new?",
       "whoops": "Whoops!"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "Are you sure?"
     },
     "select": {
       "frequency": "Select a frequency",
       "method": "Select a method"
     },
-    "warnings": {
+    "warning": {
       "offline": "The application is currently operating in offline mode, which means that the data may not be up to date"
     }
   }

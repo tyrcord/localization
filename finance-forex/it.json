@@ -1,6 +1,6 @@
 {
   "forex": {
-    "labels": {
+    "label": {
       "commodities": "Commodities",
       "count": {
         "pips": {
@@ -42,7 +42,7 @@
         "pips": "Take Profit (Pips)"
       }
     },
-    "selects": {
+    "select": {
       "currency_pair": "Seleziona una coppia di valute",
       "pip_precision": "Seleziona un decimale"
     }

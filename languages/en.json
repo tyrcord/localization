@@ -1,6 +1,6 @@
 {
   "languages": {
-    "labels": {
+    "label": {
       "english_or_french": "English or French"
     },
     "locale": {
@@ -30,7 +30,7 @@
         "tr": "Türkçe",
         "zh": "中文"
       },
-      "names": {
+      "name": {
         "arabic": "العربية",
         "chinese_simplified": "简体中文",
         "chinese_traditional": "繁體中文",

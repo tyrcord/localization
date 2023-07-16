@@ -1,10 +1,10 @@
 {
   "core": {
-    "errors": {
+    "error": {
       "cannot_reach_server": "Ci scusiamo per l'inconveniente, ma al momento c'è un problema di connessione con il server. Per favore, riprova più tardi.",
       "error_occurred": "Spiacenti, si è verificato un errore. Per favore, riprova più tardi."
     },
-    "labels": {
+    "label": {
       "advanced": "Avanzate",
       "all": {
         "female": "Tutte",
@@ -70,7 +70,7 @@
       "yearly": "Annualmente",
       "yes": "Sì"
     },
-    "messages": {
+    "message": {
       "action": {
         "canceled": "Azione annullata.",
         "completed": "Azione completata."
@@ -95,14 +95,14 @@
       "whats_new": "Cosa c'è di nuovo?",
       "whoops": "Ops!"
     },
-    "questions": {
+    "question": {
       "are_you_sure": "Sei sicuro?"
     },
     "select": {
       "frequency": "Seleziona una frequenza",
       "method": "Seleziona un metodo"
     },
-    "warnings": {
+    "warning": {
       "offline": "L'applicazione è attualmente in modalità offline, il che significa che i dati potrebbero non essere aggiornati."
     }
   }

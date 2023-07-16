@@ -1,12 +1,12 @@
 {
   "share": {
-    "labels": {
+    "label": {
       "share": {
         "app": "Compartilhar este aplicativo",
         "text": "Compartilhar"
       }
     },
-    "messages": {
+    "message": {
       "invite": "Oi, descobri este incrível aplicativo que vai facilitar a sua vida. Confira!"
     }
   }

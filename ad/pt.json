@@ -1,12 +1,12 @@
 {
   "ad": {
-    "labels": {
+    "label": {
       "ad": "Anúncio",
       "advertisement": "Publicidade",
       "personalized_ads": "Anúncios personalizados",
       "sponsored": "Patrocinado"
     },
-    "messages": {
+    "message": {
       "disclaimer": {
         "user_tracking": "Este identificador será usado para sugerir publicidade direcionada a você com base em seus interesses."
       },

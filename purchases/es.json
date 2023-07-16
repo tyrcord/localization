@@ -1,9 +1,9 @@
 {
   "purchases": {
-    "errors": {
+    "error": {
       "cannot_connect_store": "Lamentamos las molestias. La tienda no está disponible en este momento, por lo que no podrá realizar compras en este momento."
     },
-    "features": {
+    "feature": {
       "auto": {
         "refresh_exchange_rates": "Actualizar automáticamente los tipos de cambio",
         "refresh_stock_prices": "Actualizar automáticamente los precios de las acciones"
@@ -15,7 +15,7 @@
         "pdf": "Disfruta de la generación ilimitada de PDF."
       }
     },
-    "labels": {
+    "label": {
       "available_products": "Productos disponibles",
       "free_version": "Versión gratuita",
       "go_premium": "¡Obtén Premium!",
@@ -25,7 +25,7 @@
       "purchases": "Compras",
       "restore_purchases": "Restaurar compras"
     },
-    "messages": {
+    "message": {
       "enjoy_premium_version": "¡Libera todo el potencial de esta aplicación con sus funciones Premium, asegurando una experiencia de usuario mejorada!",
       "go_premium_description": "Al actualizar a la versión Premium, no solo apoyas el desarrollo continuo, sino que también obtienes acceso a funciones adicionales.",
       "item": {
