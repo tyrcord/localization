@@ -60,14 +60,26 @@
         "principal": "Capital final"
       },
       "entry": {
-        "fees": "Comisiones de entrada",
-        "price": "Precio de entrada",
-        "price_at": "Precio de entrada en"
+        "fees": {
+          "amount": "Monto de las tarifas de entrada",
+          "text": "Tarifas de entrada"
+        },
+        "price": {
+          "at": "Precio de entrada en",
+          "text": "Precio de entrada",
+          "with_slippage": "Precio de entrada con deslizamiento"
+        }
       },
       "exit": {
-        "fees": "Comisiones de salida",
-        "price": "Precio de salida",
-        "price_at": "Precio de salida en"
+        "fees": {
+          "amount": "Monto de las tarifas de salida",
+          "text": "Tarifas de salida"
+        },
+        "price": {
+          "at": "Precio de salida en",
+          "text": "Precio de salida",
+          "with_slippage": "Precio de salida con deslizamiento"
+        }
       },
       "expected_unit_sales": "Ventas unitarias esperadas",
       "extension": "Extensión",
@@ -84,6 +96,7 @@
       "indices": "Índices",
       "initial_investment": "Inversión inicial",
       "interest_rate": "Tasa de interés",
+      "involved_capital": "Capital involucrado",
       "leverage": "Apalancamiento",
       "loss": "Pérdida",
       "loss_per_trade": "Pérdida por operación",
@@ -114,6 +127,7 @@
       },
       "pivot_points": "Puntos pivote",
       "position": {
+        "amount": "Monto de la posición",
         "long": "Largo",
         "short": "Corto",
         "size": "Tamaño de la posición",
@@ -138,10 +152,18 @@
       "resistance_level": "Nivel de resistencia {level}",
       "retracement": "Retracción",
       "return_on_investment": "Retorno de la inversión",
-      "risk": "Riesgo",
-      "risk_amount": "Monto de riesgo",
-      "risk_ratio": "Ratio de riesgo",
-      "risk_reward_ratio": "Ratio riesgo-recompensa",
+      "risk": {
+        "amount": "Monto en riesgo",
+        "effective": "Riesgo Efectivo",
+        "in_percentage": "Riesgo en Porcentaje",
+        "ratio": "Ratio de Riesgo",
+        "reward": {
+          "ratio": "Ratio Riesgo-Recompensa",
+          "text": "Riesgo-Recompensa"
+        },
+        "text": "Riesgo",
+        "tolerated": "Riesgo Tolerado"
+      },
       "secondary_currency": "Moneda secundaria",
       "sell": {
         "commission": "Comisión de venta",
@@ -156,15 +178,37 @@
         "principal": "Capital inicial"
       },
       "stop_loss": {
-        "amount": "Monto de stop loss",
+        "amount": "Monto de Stop Loss",
         "at": "Stop Loss en",
+        "fees": {
+          "amount": "Monto de comisiones de Stop Loss",
+          "text": "Comisiones de Stop Loss"
+        },
+        "in_percentage": {
+          "text": "Stop Loss en porcentaje",
+          "with_slippage": "Stop Loss en porcentaje con deslizamiento"
+        },
+        "price": {
+          "at": "Stop Loss en",
+          "text": "Stop Loss",
+          "with_slippage": "Stop Loss con deslizamiento"
+        },
         "text": "Stop Loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
       "support_level": "Nivel de soporte {level}",
       "take_profit": {
-        "amount": "Monto de take profit",
+        "amount": "Monto de Take Profit",
         "at": "Take Profit en",
+        "fees": {
+          "amount": "Monto de las tarifas de Take Profit",
+          "text": "Tarifas de Take Profit"
+        },
+        "price": {
+          "at": "Take Profit en",
+          "text": "Take Profit",
+          "with_slippage": "Take Profit con Slippage"
+        },
         "text": "Take Profit"
       },
       "tax": {
@@ -173,7 +217,11 @@
         "rate": "Tasa de impuestos"
       },
       "total": {
-        "costs": "Costos totales",
+        "costs": {
+          "losing_position": "Costos totales para una posición perdedora.",
+          "profit_position": "Costos totales para una posición ganadora.",
+          "text": "Costos totales"
+        },
         "gain": "Ganancia total",
         "loss": "Pérdida total",
         "return": "Retorno total",

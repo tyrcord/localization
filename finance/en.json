@@ -60,14 +60,26 @@
         "principal": "Ending Principal"
       },
       "entry": {
-        "fees": "Entry Fees",
-        "price": "Entry Price",
-        "price_at": "Entry Price at"
+        "fees": {
+          "amount": "Amount of entry fees",
+          "text": "Entry Fees"
+        },
+        "price": {
+          "at": "Entry Price at",
+          "text": "Entry Price",
+          "with_slippage": "Entry Price with Slippage"
+        }
       },
       "exit": {
-        "fees": "Exit Fees",
-        "price": "Exit Price",
-        "price_at": "Exit Price at"
+        "fees": {
+          "amount": "Amount of exit fees",
+          "text": "Exit Fees"
+        },
+        "price": {
+          "at": "Exit Price at",
+          "text": "Exit Price",
+          "with_slippage": "Exit Price with Slippage"
+        }
       },
       "expected_unit_sales": "Expected Unit Sales",
       "extension": "Extension",
@@ -81,6 +93,7 @@
       "gain_per_trade": "Gain per Trade",
       "gross_profit": "Gross Profit",
       "high_price": "High Price",
+      "iinvolved_capital": "Involved Capital",
       "indices": "Indices",
       "initial_investment": "Initial Investment",
       "interest_rate": "Interest Rate",
@@ -114,6 +127,7 @@
       },
       "pivot_points": "Pivot Points",
       "position": {
+        "amount": "Position Amount",
         "long": "Long",
         "short": "Short",
         "size": "Position Size",
@@ -138,10 +152,18 @@
       "resistance_level": "Resistance {level}",
       "retracement": "Retracement",
       "return_on_investment": "Return on Investment",
-      "risk": "Risk",
-      "risk_amount": "Risk Amount",
-      "risk_ratio": "Risk Ratio",
-      "risk_reward_ratio": "Risk-Reward Ratio",
+      "risk": {
+        "amount": "Amount at risk",
+        "effective": "Effective Risk",
+        "in_percentage": "Risk in Percentage",
+        "ratio": "Risk Ratio",
+        "reward": {
+          "ratio": "Risk-Reward Ratio",
+          "text": "Risk-Reward"
+        },
+        "text": "Risk",
+        "tolerated": "Tolerated Risk"
+      },
       "secondary_currency": "Secondary Currency",
       "sell": {
         "commission": "Sell Commission",
@@ -158,6 +180,19 @@
       "stop_loss": {
         "amount": "Stop Loss Amount",
         "at": "Stop Loss at",
+        "fees": {
+          "amount": "Stop Loss Fees Amount",
+          "text": "Stop Loss Fees"
+        },
+        "in_percentage": {
+          "text": "Stop Loss in Percentage",
+          "with_slippage": "Stop Loss in Percentage with Slippage"
+        },
+        "price": {
+          "at": "Stop Loss at",
+          "text": "Stop Loss",
+          "with_slippage": "Stop Loss with Slippage"
+        },
         "text": "Stop Loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
@@ -165,6 +200,15 @@
       "take_profit": {
         "amount": "Take Profit Amount",
         "at": "Take Profit at",
+        "fees": {
+          "amount": "Amount of take profit fees",
+          "text": "Take Profit Fees"
+        },
+        "price": {
+          "at": "Take Profit at",
+          "text": "Take Profit",
+          "with_slippage": "Take Profit with Slippage"
+        },
         "text": "Take Profit"
       },
       "tax": {
@@ -173,7 +217,11 @@
         "rate": "Tax Rate"
       },
       "total": {
-        "costs": "Total Costs",
+        "costs": {
+          "losing_position": "Total costs for a losing position.",
+          "profit_position": "Total costs for a winning position",
+          "text": "Total Costs"
+        },
         "gain": "Total Gain",
         "loss": "Total Loss",
         "return": "Total Return",

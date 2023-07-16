@@ -60,14 +60,26 @@
         "principal": "最終元本"
       },
       "entry": {
-        "fees": "入場手数料",
-        "price": "入場価格",
-        "price_at": "次の価格での入場"
+        "fees": {
+          "amount": "参加費の金額",
+          "text": "参加費"
+        },
+        "price": {
+          "at": "参加価格（現在）",
+          "text": "参加価格",
+          "with_slippage": "スリッページを考慮した参加価格"
+        }
       },
       "exit": {
-        "fees": "出場手数料",
-        "price": "出場価格",
-        "price_at": "次の価格での出場"
+        "fees": {
+          "amount": "退出費の金額",
+          "text": "退出費"
+        },
+        "price": {
+          "at": "退出価格（現在）",
+          "text": "退出価格",
+          "with_slippage": "スリッページを考慮した退出価格"
+        }
       },
       "expected_unit_sales": "予想ユニット売上高",
       "extension": "延長",
@@ -84,6 +96,7 @@
       "indices": "インデックス",
       "initial_investment": "初期投資",
       "interest_rate": "利率",
+      "involved_capital": "関与する資本",
       "leverage": "レバレッジ",
       "loss": "損失",
       "loss_per_trade": "トレードごとの損失",
@@ -114,9 +127,10 @@
       },
       "pivot_points": "ピボットポイント",
       "position": {
+        "amount": "ポジションの金額",
         "long": "ロング",
         "short": "ショート",
-        "size": "ポジションのサイズ",
+        "size": "ポジションサイズ",
         "text": "ポジション"
       },
       "price": {
@@ -138,10 +152,18 @@
       "resistance_level": "抵抗レベル{level}",
       "retracement": "リトレースメント",
       "return_on_investment": "投資利益率",
-      "risk": "リスク",
-      "risk_amount": "リスク金額",
-      "risk_ratio": "リスク比率",
-      "risk_reward_ratio": "リスクリワード比率",
+      "risk": {
+        "amount": "リスク額",
+        "effective": "有効リスク",
+        "in_percentage": "パーセンテージ表示のリスク",
+        "ratio": "リスク比率",
+        "reward": {
+          "ratio": "リスクリワード比率",
+          "text": "リスクリワード"
+        },
+        "text": "リスク",
+        "tolerated": "許容リスク"
+      },
       "secondary_currency": "副次通貨",
       "sell": {
         "commission": "売却手数料",
@@ -157,14 +179,36 @@
       },
       "stop_loss": {
         "amount": "ストップロス金額",
-        "at": "ストップロス時",
+        "at": "ストップロス位置",
+        "fees": {
+          "amount": "ストップロス手数料金額",
+          "text": "ストップロス手数料"
+        },
+        "in_percentage": {
+          "text": "パーセンテージでのストップロス",
+          "with_slippage": "スリッページ付きパーセンテージでのストップロス"
+        },
+        "price": {
+          "at": "ストップロス位置",
+          "text": "ストップロス",
+          "with_slippage": "スリッページ付きストップロス"
+        },
         "text": "ストップロス"
       },
       "stop_loss_take_profit": "ストップロス/利益確定",
       "support_level": "サポートレベル{level}",
       "take_profit": {
-        "amount": "利益確定金額",
-        "at": "利益確定時",
+        "amount": "利益確定額",
+        "at": "利益確定",
+        "fees": {
+          "amount": "利益確定手数料額",
+          "text": "利益確定手数料"
+        },
+        "price": {
+          "at": "利益確定",
+          "text": "利益確定",
+          "with_slippage": "スリッページを考慮した利益確定"
+        },
         "text": "利益確定"
       },
       "tax": {
@@ -173,7 +217,11 @@
         "rate": "税率"
       },
       "total": {
-        "costs": "総コスト",
+        "costs": {
+          "losing_position": "敗北したポジションの総コスト。",
+          "profit_position": "勝利したポジションの総コスト。",
+          "text": "総コスト"
+        },
         "gain": "総利益",
         "loss": "総損失",
         "return": "総収益",

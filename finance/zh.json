@@ -60,14 +60,26 @@
         "principal": "结余本金"
       },
       "entry": {
-        "fees": "入场费用",
-        "price": "入场价格",
-        "price_at": "入场价位"
+        "fees": {
+          "amount": "入场费金额",
+          "text": "入场费"
+        },
+        "price": {
+          "at": "入场价格为",
+          "text": "入场价格",
+          "with_slippage": "带滑点的入场价格"
+        }
       },
       "exit": {
-        "fees": "出场费用",
-        "price": "出场价格",
-        "price_at": "出场价位"
+        "fees": {
+          "amount": "退出费用金额",
+          "text": "退出费用"
+        },
+        "price": {
+          "at": "退出价格为",
+          "text": "退出价格",
+          "with_slippage": "带滑点的退出价格"
+        }
       },
       "expected_unit_sales": "预期销售单位",
       "extension": "扩展",
@@ -84,6 +96,7 @@
       "indices": "指数",
       "initial_investment": "初始投资",
       "interest_rate": "利率",
+      "involved_capital": "参与资本",
       "leverage": "杠杆",
       "loss": "亏损",
       "loss_per_trade": "每笔交易亏损",
@@ -114,10 +127,11 @@
       },
       "pivot_points": "中枢点",
       "position": {
+        "amount": "持仓金额",
         "long": "多头",
         "short": "空头",
-        "size": "仓位规模",
-        "text": "仓位"
+        "size": "持仓规模",
+        "text": "持仓"
       },
       "price": {
         "a": "价格A",
@@ -138,10 +152,18 @@
       "resistance_level": "阻力位 {level}",
       "retracement": "回撤",
       "return_on_investment": "投资回报率",
-      "risk": "风险",
-      "risk_amount": "风险金额",
-      "risk_ratio": "风险比例",
-      "risk_reward_ratio": "风险-回报比",
+      "risk": {
+        "amount": "风险金额",
+        "effective": "有效风险",
+        "in_percentage": "百分比风险",
+        "ratio": "风险比率",
+        "reward": {
+          "ratio": "风险-回报比",
+          "text": "风险-回报"
+        },
+        "text": "风险",
+        "tolerated": "可容忍风险"
+      },
       "secondary_currency": "次要货币",
       "sell": {
         "commission": "卖出佣金",
@@ -157,15 +179,37 @@
       },
       "stop_loss": {
         "amount": "止损金额",
-        "at": "止损于",
+        "at": "止损位置",
+        "fees": {
+          "amount": "止损费用金额",
+          "text": "止损费用"
+        },
+        "in_percentage": {
+          "text": "百分比止损",
+          "with_slippage": "带滑点的百分比止损"
+        },
+        "price": {
+          "at": "止损位置",
+          "text": "止损",
+          "with_slippage": "滑点止损"
+        },
         "text": "止损"
       },
       "stop_loss_take_profit": "止损/获利",
       "support_level": "支撑位 {level}",
       "take_profit": {
-        "amount": "获利金额",
-        "at": "获利于",
-        "text": "获利"
+        "amount": "止盈金额",
+        "at": "止盈于",
+        "fees": {
+          "amount": "止盈费用金额",
+          "text": "止盈费用"
+        },
+        "price": {
+          "at": "止盈于",
+          "text": "止盈",
+          "with_slippage": "含滑点的止盈"
+        },
+        "text": "止盈"
       },
       "tax": {
         "amount": "税额",
@@ -173,7 +217,11 @@
         "rate": "税率"
       },
       "total": {
-        "costs": "总成本",
+        "costs": {
+          "losing_position": "亏损头寸的总成本。",
+          "profit_position": "盈利头寸的总成本。",
+          "text": "总成本"
+        },
         "gain": "总盈利",
         "loss": "总亏损",
         "return": "总回报",

@@ -4,8 +4,10 @@
       "expected_annual_share_price_appreciation": "Erwartete jährliche Aktienkurssteigerung",
       "number_of_shares": "Anzahl der Aktien",
       "share_price": "Aktienkurs",
+      "shares": "Anteile",
       "shares_owned": "Gehaltene Aktien",
-      "stock": "Aktie"
+      "stock": "Aktien",
+      "stock_options": "Aktienoptionen"
     }
   }
 }

@@ -60,14 +60,26 @@
         "principal": "Principal final"
       },
       "entry": {
-        "fees": "Taxas de entrada",
-        "price": "Preço de entrada",
-        "price_at": "Preço de entrada em"
+        "fees": {
+          "amount": "Valor das taxas de entrada",
+          "text": "Taxas de entrada"
+        },
+        "price": {
+          "at": "Preço de entrada em",
+          "text": "Preço de entrada",
+          "with_slippage": "Preço de entrada com deslizamento"
+        }
       },
       "exit": {
-        "fees": "Taxas de saída",
-        "price": "Preço de saída",
-        "price_at": "Preço de saída em"
+        "fees": {
+          "amount": "Valor das taxas de saída",
+          "text": "Taxas de saída"
+        },
+        "price": {
+          "at": "Preço de saída em",
+          "text": "Preço de saída",
+          "with_slippage": "Preço de saída com deslizamento"
+        }
       },
       "expected_unit_sales": "Vendas unitárias esperadas",
       "extension": "Extensão",
@@ -84,6 +96,7 @@
       "indices": "Índices",
       "initial_investment": "Investimento inicial",
       "interest_rate": "Taxa de juros",
+      "involved_capital": "Capital envolvido",
       "leverage": "Alavancagem",
       "loss": "Perda",
       "loss_per_trade": "Perda por operação",
@@ -114,6 +127,7 @@
       },
       "pivot_points": "Pontos de Pivô",
       "position": {
+        "amount": "Valor da posição",
         "long": "Longo",
         "short": "Curto",
         "size": "Tamanho da posição",
@@ -138,10 +152,18 @@
       "resistance_level": "Nível de resistência {level}",
       "retracement": "Retração",
       "return_on_investment": "Retorno sobre o investimento",
-      "risk": "Risco",
-      "risk_amount": "Valor do risco",
-      "risk_ratio": "Razão de risco",
-      "risk_reward_ratio": "Razão de Risco-Retorno",
+      "risk": {
+        "amount": "Valor em risco",
+        "effective": "Risco Efetivo",
+        "in_percentage": "Risco em Percentagem",
+        "ratio": "Razão de Risco",
+        "reward": {
+          "ratio": "Razão Risco-Recompensa",
+          "text": "Risco-Recompensa"
+        },
+        "text": "Risco",
+        "tolerated": "Risco Tolerado"
+      },
       "secondary_currency": "Moeda secundária",
       "sell": {
         "commission": "Comissão de venda",
@@ -156,15 +178,37 @@
         "principal": "Principal inicial"
       },
       "stop_loss": {
-        "amount": "Valor do stop loss",
+        "amount": "Valor de Stop Loss",
         "at": "Stop Loss em",
+        "fees": {
+          "amount": "Valor de taxas de Stop Loss",
+          "text": "Taxas de Stop Loss"
+        },
+        "in_percentage": {
+          "text": "Stop Loss em porcentagem",
+          "with_slippage": "Stop Loss em porcentagem com derrapagem"
+        },
+        "price": {
+          "at": "Stop Loss em",
+          "text": "Stop Loss",
+          "with_slippage": "Stop Loss com derrapagem"
+        },
         "text": "Stop Loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
       "support_level": "Nível de suporte {level}",
       "take_profit": {
-        "amount": "Valor do take profit",
+        "amount": "Valor de Take Profit",
         "at": "Take Profit em",
+        "fees": {
+          "amount": "Valor das taxas de Take Profit",
+          "text": "Taxas de Take Profit"
+        },
+        "price": {
+          "at": "Take Profit em",
+          "text": "Take Profit",
+          "with_slippage": "Take Profit com Deslizamento"
+        },
         "text": "Take Profit"
       },
       "tax": {
@@ -173,7 +217,11 @@
         "rate": "Taxa de imposto"
       },
       "total": {
-        "costs": "Custos totais",
+        "costs": {
+          "losing_position": "Custos totais para uma posição perdedora.",
+          "profit_position": "Custos totais para uma posição vencedora.",
+          "text": "Custos Totais"
+        },
         "gain": "Ganho total",
         "loss": "Perda total",
         "return": "Retorno total",

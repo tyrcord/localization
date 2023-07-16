@@ -60,14 +60,26 @@
         "principal": "Endkapital"
       },
       "entry": {
-        "fees": "Einstiegsgebühren",
-        "price": "Einstiegspreis",
-        "price_at": "Einstiegspreis bei"
+        "fees": {
+          "amount": "Höhe der Einstiegsgebühren",
+          "text": "Einstiegsgebühren"
+        },
+        "price": {
+          "at": "Einstiegspreis bei",
+          "text": "Einstiegspreis",
+          "with_slippage": "Einstiegspreis mit Schlupf"
+        }
       },
       "exit": {
-        "fees": "Ausstiegsgebühren",
-        "price": "Ausstiegspreis",
-        "price_at": "Ausstiegspreis bei"
+        "fees": {
+          "amount": "Höhe der Ausstiegsgebühren",
+          "text": "Ausstiegsgebühren"
+        },
+        "price": {
+          "at": "Ausstiegspreis bei",
+          "text": "Ausstiegspreis",
+          "with_slippage": "Ausstiegspreis mit Schlupf"
+        }
       },
       "expected_unit_sales": "Erwartete Stückverkäufe",
       "extension": "Erweiterung",
@@ -84,6 +96,7 @@
       "indices": "Indizes",
       "initial_investment": "Erstinvestition",
       "interest_rate": "Zinssatz",
+      "involved_capital": "Investiertes Kapital",
       "leverage": "Hebelwirkung",
       "loss": "Verlust",
       "loss_per_trade": "Verlust pro Trade",
@@ -114,9 +127,10 @@
       },
       "pivot_points": "Pivot-Punkte",
       "position": {
+        "amount": "Positionsgröße",
         "long": "Long",
         "short": "Short",
-        "size": "Positionsgröße",
+        "size": "Positionsumfang",
         "text": "Position"
       },
       "price": {
@@ -138,10 +152,18 @@
       "resistance_level": "Widerstand {level}",
       "retracement": "Retracement",
       "return_on_investment": "Return on Investment",
-      "risk": "Risiko",
-      "risk_amount": "Risikobetrag",
-      "risk_ratio": "Risikoverhältnis",
-      "risk_reward_ratio": "Risiko-Rendite-Verhältnis",
+      "risk": {
+        "amount": "Risikobetrag",
+        "effective": "Effektives Risiko",
+        "in_percentage": "Risiko in Prozent",
+        "ratio": "Risikoverhältnis",
+        "reward": {
+          "ratio": "Risiko-Rendite-Verhältnis",
+          "text": "Risiko-Rendite"
+        },
+        "text": "Risiko",
+        "tolerated": "Akzeptiertes Risiko"
+      },
       "secondary_currency": "Sekundärwährung",
       "sell": {
         "commission": "Verkaufskommission",
@@ -158,14 +180,36 @@
       "stop_loss": {
         "amount": "Stop-Loss-Betrag",
         "at": "Stop-Loss bei",
+        "fees": {
+          "amount": "Stop-Loss-Gebührenbetrag",
+          "text": "Stop-Loss-Gebühren"
+        },
+        "in_percentage": {
+          "text": "Stop-Loss in Prozent",
+          "with_slippage": "Stop-Loss in Prozent mit Slippage"
+        },
+        "price": {
+          "at": "Stop-Loss bei",
+          "text": "Stop-Loss",
+          "with_slippage": "Stop-Loss mit Slippage"
+        },
         "text": "Stop-Loss"
       },
       "stop_loss_take_profit": "Stop-Loss/Take-Profit",
       "support_level": "Unterstützung {level}",
       "take_profit": {
-        "amount": "Take-Profit-Betrag",
-        "at": "Take-Profit bei",
-        "text": "Take-Profit"
+        "amount": "Take Profit Betrag",
+        "at": "Take Profit bei",
+        "fees": {
+          "amount": "Höhe der Take Profit Gebühren",
+          "text": "Take Profit Gebühren"
+        },
+        "price": {
+          "at": "Take Profit bei",
+          "text": "Take Profit",
+          "with_slippage": "Take Profit mit Slippage"
+        },
+        "text": "Take Profit"
       },
       "tax": {
         "amount": "Steuerbetrag",
@@ -173,7 +217,11 @@
         "rate": "Steuersatz"
       },
       "total": {
-        "costs": "Gesamtkosten",
+        "costs": {
+          "losing_position": "Gesamtkosten für eine Verlustposition.",
+          "profit_position": "Gesamtkosten für eine Gewinnposition.",
+          "text": "Gesamtkosten"
+        },
         "gain": "Gesamtgewinn",
         "loss": "Gesamtverlust",
         "return": "Gesamtrendite",

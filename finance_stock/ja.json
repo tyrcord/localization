@@ -1,11 +1,13 @@
 {
   "stock": {
     "label": {
-      "expected_annual_share_price_appreciation": "予想年間株価上昇",
+      "expected_annual_share_price_appreciation": "予想される年間株価上昇",
       "number_of_shares": "株式数",
       "share_price": "株価",
-      "shares_owned": "保有株数",
-      "stock": "株"
+      "shares": "株式",
+      "shares_owned": "保有株式",
+      "stock": "株式",
+      "stock_options": "株式オプション"
     }
   }
 }

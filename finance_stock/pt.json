@@ -1,11 +1,13 @@
 {
   "stock": {
     "label": {
-      "expected_annual_share_price_appreciation": "Valorização esperada anual das ações",
+      "expected_annual_share_price_appreciation": "Valorização anual esperada das ações",
       "number_of_shares": "Número de ações",
       "share_price": "Preço da ação",
+      "shares": "Cotas",
       "shares_owned": "Ações possuídas",
-      "stock": "Ação"
+      "stock": "Ações",
+      "stock_options": "Opções de ações"
     }
   }
 }

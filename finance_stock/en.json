@@ -4,8 +4,10 @@
       "expected_annual_share_price_appreciation": "Expected Annual Share Price Appreciation",
       "number_of_shares": "Number of shares",
       "share_price": "Share Price",
+      "shares": "Shares",
       "shares_owned": "Shares Owned",
-      "stock": "Stock"
+      "stock": "Stock",
+      "stock_options": "Stock Options"
     }
   }
 }
