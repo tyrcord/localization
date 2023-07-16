@@ -1,13 +1,13 @@
 {
   "share": {
-    "messages": {
-      "invite": "Hé, j'ai découvert cette application incroyable qui facilitera votre vie. Jetez-y un coup d'œil !"
-    },
     "labels": {
       "share": {
-        "text": "Partager",
-        "app": "Partager cette application"
+        "app": "Partager cette application",
+        "text": "Partager"
       }
+    },
+    "messages": {
+      "invite": "Hé, j'ai découvert cette application incroyable qui facilitera votre vie. Jetez-y un coup d'œil !"
     }
   }
 }

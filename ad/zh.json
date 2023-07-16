@@ -3,8 +3,8 @@
     "labels": {
       "ad": "广告",
       "advertisement": "广告",
-      "sponsored": "赞助",
-      "personalized_ads": "个性化广告"
+      "personalized_ads": "个性化广告",
+      "sponsored": "赞助"
     },
     "messages": {
       "disclaimer": {

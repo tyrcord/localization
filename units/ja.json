@@ -1,14 +1,7 @@
 {
   "units": {
     "labels": {
-      "ounce": "オンス",
-      "pound": "ポンド",
-      "gram": "グラム",
-      "kilogram": "キログラム",
       "barrel": "バレル",
-      "mmbtu": "MMBtu",
-      "gallon": "ガロン",
-      "unit": "ユニット",
       "count": {
         "barrel": {
           "few": "{} バレル",
@@ -38,7 +31,14 @@
           "other": "{} ユニット",
           "zero": "{} ユニット"
         }
-      }
+      },
+      "gallon": "ガロン",
+      "gram": "グラム",
+      "kilogram": "キログラム",
+      "mmbtu": "MMBtu",
+      "ounce": "オンス",
+      "pound": "ポンド",
+      "unit": "ユニット"
     }
   }
 }

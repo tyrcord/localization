@@ -3,8 +3,8 @@
     "labels": {
       "ad": "Объявление",
       "advertisement": "Реклама",
-      "sponsored": "Спонсируется",
-      "personalized_ads": "Персонализированная реклама"
+      "personalized_ads": "Персонализированная реклама",
+      "sponsored": "Спонсируется"
     },
     "messages": {
       "disclaimer": {

@@ -3,8 +3,8 @@
     "labels": {
       "ad": "広告",
       "advertisement": "広告",
-      "sponsored": "スポンサー",
-      "personalized_ads": "パーソナライズ広告"
+      "personalized_ads": "パーソナライズ広告",
+      "sponsored": "スポンサー"
     },
     "messages": {
       "disclaimer": {

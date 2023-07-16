@@ -1,23 +1,29 @@
 {
   "apps": {
+    "div_qal": {
+      "intro": {
+        "description": "Diese App soll Ihnen bei der Auswahl von Dividendenaktien helfen.",
+        "title": "Entdecken Sie das Potenzial Ihrer Finanzen und sehen Sie Ihren Wohlstand erblühen!"
+      }
+    },
+    "expressions_quebecoises": {
+      "intro": {
+        "description": "Entdecken Sie über 500 einzigartige Quebecer Ausdrücke, die auf Sie warten!",
+        "title": "Begleiten Sie uns auf eine Reise des Lernens!"
+      }
+    },
     "fx_pos_qal": {
       "intro": {
         "description": "Diese App schlägt Ihnen einen optimalen Betrag vor, um Ihre Gewinne zu maximieren und Verluste zu minimieren.",
         "title": "Konzentrieren wir uns auf Risikomanagement anstatt Verluste einzufahren!"
       },
+      "promo": {
+        "comply_risk_management": "Einfach Ihr Risikomanagement einhalten",
+        "short": "Die Bestimmung der Positionsgröße war noch nie so einfach!"
+      },
       "store": {
         "description": "Der Erfolg Ihrer zukünftigen Trades hängt weitgehend von Ihrer Fähigkeit ab, das Risiko effektiv zu managen. Es ist in der Tat wichtig, nicht das gesamte Kapital bei einer einzigen Transaktion zu riskieren. Dafür ist es wichtig, die Positionsgröße vor jedem Trade zu berechnen. Um Ihnen dabei zu helfen, Ihre Wachsamkeit im Risikomanagement nicht zu vernachlässigen, steht Ihnen unser Taschenrechner zur Seite! Füllen Sie einfach die Felder in unserem Tool aus, und es wird Ihnen einen optimalen Betrag vorschlagen, um Ihre Gewinne zu maximieren und Verluste zu minimieren.",
         "promo": "Sie möchten nicht Ihr gesamtes Kapital bei einer einzigen Transaktion verlieren!"
-      },
-      "promo": {
-        "short": "Die Bestimmung der Positionsgröße war noch nie so einfach!",
-        "comply_risk_management": "Einfach Ihr Risikomanagement einhalten"
-      }
-    },
-    "div_qal": {
-      "intro": {
-        "description": "Diese App soll Ihnen bei der Auswahl von Dividendenaktien helfen.",
-        "title": "Entdecken Sie das Potenzial Ihrer Finanzen und sehen Sie Ihren Wohlstand erblühen!"
       }
     },
     "fx_qal": {
@@ -36,12 +42,6 @@
       "intro": {
         "description": "Unsere App ermöglicht es Ihnen, schnell festzustellen, ob Ihr Einkommen ausreicht, um Ihre Ausgaben zu decken.",
         "title": "Konzentrieren wir uns auf die Minimierung von Verlusten und die Maximierung von Gewinnen für optimale Ergebnisse!"
-      }
-    },
-    "expressions_quebecoises": {
-      "intro": {
-        "description": "Entdecken Sie über 500 einzigartige Quebecer Ausdrücke, die auf Sie warten!",
-        "title": "Begleiten Sie uns auf eine Reise des Lernens!"
       }
     }
   }

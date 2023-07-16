@@ -1,14 +1,7 @@
 {
   "units": {
     "labels": {
-      "ounce": "унция",
-      "pound": "фунт",
-      "gram": "г",
-      "kilogram": "кг",
       "barrel": "баррель",
-      "mmbtu": "MMBtu",
-      "gallon": "галлон",
-      "unit": "единица",
       "count": {
         "barrel": {
           "few": "{} барреля",
@@ -38,7 +31,14 @@
           "other": "{} единицы",
           "zero": "{} единиц"
         }
-      }
+      },
+      "gallon": "галлон",
+      "gram": "г",
+      "kilogram": "кг",
+      "mmbtu": "MMBtu",
+      "ounce": "унция",
+      "pound": "фунт",
+      "unit": "единица"
     }
   }
 }

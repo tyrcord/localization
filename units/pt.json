@@ -1,14 +1,7 @@
 {
   "units": {
     "labels": {
-      "ounce": "oz",
-      "pound": "lb",
-      "gram": "g",
-      "kilogram": "kg",
       "barrel": "barril",
-      "mmbtu": "MMBtu",
-      "gallon": "galão",
-      "unit": "unidade",
       "count": {
         "barrel": {
           "few": "{} barris",
@@ -38,7 +31,14 @@
           "other": "{} unidades",
           "zero": "{} unidades"
         }
-      }
+      },
+      "gallon": "galão",
+      "gram": "g",
+      "kilogram": "kg",
+      "mmbtu": "MMBtu",
+      "ounce": "oz",
+      "pound": "lb",
+      "unit": "unidade"
     }
   }
 }

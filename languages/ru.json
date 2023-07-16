@@ -5,15 +5,6 @@
     },
     "locale": {
       "iso_639_1": {
-        "ko": "한국어",
-        "nl": "Nederlands",
-        "no": "Norsk",
-        "pl": "Polski",
-        "pt": "Português",
-        "ru": "Русский",
-        "sv": "Svenska",
-        "tr": "Türkçe",
-        "zh": "中文",
         "ar": "العربية",
         "cs": "Čeština",
         "da": "Dansk",
@@ -28,7 +19,16 @@
         "hu": "Magyar",
         "id": "Bahasa Indonesia",
         "it": "Italiano",
-        "ja": "日本語"
+        "ja": "日本語",
+        "ko": "한국어",
+        "nl": "Nederlands",
+        "no": "Norsk",
+        "pl": "Polski",
+        "pt": "Português",
+        "ru": "Русский",
+        "sv": "Svenska",
+        "tr": "Türkçe",
+        "zh": "中文"
       },
       "names": {
         "arabic": "العربية",

@@ -1,23 +1,29 @@
 {
   "apps": {
+    "div_qal": {
+      "intro": {
+        "description": "Esta aplicación está diseñada para ayudarte a elegir acciones que repartan dividendos.",
+        "title": "¡Desbloquea el potencial de tus finanzas y observa cómo crece tu riqueza!"
+      }
+    },
+    "expressions_quebecoises": {
+      "intro": {
+        "description": "¡Descubre más de 500 expresiones únicas de Quebec que te esperan!",
+        "title": "¡Embárcate en un viaje de aprendizaje!"
+      }
+    },
     "fx_pos_qal": {
       "intro": {
         "description": "Esta aplicación te sugerirá la cantidad óptima para invertir con el fin de maximizar tus ganancias y minimizar tus pérdidas.",
         "title": "¡Enfoquémonos en la gestión de riesgos en lugar de incurrir en pérdidas!"
       },
+      "promo": {
+        "comply_risk_management": "Cumple fácilmente con la gestión de riesgos",
+        "short": "¡Determinar el tamaño de tus posiciones nunca ha sido tan fácil!"
+      },
       "store": {
         "description": "El éxito de tus futuras operaciones dependerá en gran medida de tu capacidad para gestionar el riesgo de manera efectiva. De hecho, es esencial no arriesgar todo tu capital en una sola transacción. Para ello, es importante calcular el tamaño de tu posición antes de cada operación. ¡Nuestra calculadora está ahí para acompañarte y ayudarte a no descuidar la gestión del riesgo! Simplemente completa los campos de nuestra herramienta y te sugerirá la cantidad óptima para invertir con el fin de maximizar tus ganancias y minimizar tus pérdidas.",
         "promo": "¡No quieres perder todo tu capital en una sola transacción!"
-      },
-      "promo": {
-        "short": "¡Determinar el tamaño de tus posiciones nunca ha sido tan fácil!",
-        "comply_risk_management": "Cumple fácilmente con la gestión de riesgos"
-      }
-    },
-    "div_qal": {
-      "intro": {
-        "description": "Esta aplicación está diseñada para ayudarte a elegir acciones que repartan dividendos.",
-        "title": "¡Desbloquea el potencial de tus finanzas y observa cómo crece tu riqueza!"
       }
     },
     "fx_qal": {
@@ -36,12 +42,6 @@
       "intro": {
         "description": "Nuestra aplicación te permite determinar rápidamente si tus ingresos son suficientes para cubrir tus gastos.",
         "title": "¡Enfoquémonos en minimizar las pérdidas y maximizar las ganancias para obtener resultados óptimos!"
-      }
-    },
-    "expressions_quebecoises": {
-      "intro": {
-        "description": "¡Descubre más de 500 expresiones únicas de Quebec que te esperan!",
-        "title": "¡Embárcate en un viaje de aprendizaje!"
       }
     }
   }

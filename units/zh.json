@@ -1,14 +1,7 @@
 {
   "units": {
     "labels": {
-      "ounce": "盎司",
-      "pound": "磅",
-      "gram": "克",
-      "kilogram": "千克",
       "barrel": "桶",
-      "mmbtu": "MMBtu",
-      "gallon": "加仑",
-      "unit": "单位",
       "count": {
         "barrel": {
           "few": "{} 桶",
@@ -38,7 +31,14 @@
           "other": "{} 单位",
           "zero": "{} 单位"
         }
-      }
+      },
+      "gallon": "加仑",
+      "gram": "克",
+      "kilogram": "千克",
+      "mmbtu": "MMBtu",
+      "ounce": "盎司",
+      "pound": "磅",
+      "unit": "单位"
     }
   }
 }

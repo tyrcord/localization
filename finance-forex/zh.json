@@ -1,6 +1,7 @@
 {
   "forex": {
     "labels": {
+      "commodities": "大宗商品",
       "count": {
         "pips": {
           "few": "{} Pips",
@@ -9,6 +10,12 @@
           "other": "{} Pips",
           "zero": "{} Pips"
         }
+      },
+      "cryptos": "加密货币",
+      "currency": {
+        "base": "基础货币",
+        "counter": "交易货币",
+        "pair": "货币对"
       },
       "lot": {
         "micro": "微型手",
@@ -33,18 +40,11 @@
       },
       "take_profit": {
         "pips": "止盈（Pips）"
-      },
-      "commodities": "大宗商品",
-      "currency": {
-        "counter": "交易货币",
-        "base": "基础货币",
-        "pair": "货币对"
-      },
-      "cryptos": "加密货币"
+      }
     },
     "selects": {
-      "pip_precision": "请选择一个小数",
-      "currency_pair": "选择货币对"
+      "currency_pair": "选择货币对",
+      "pip_precision": "请选择一个小数"
     }
   }
 }

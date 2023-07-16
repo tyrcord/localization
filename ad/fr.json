@@ -3,8 +3,8 @@
     "labels": {
       "ad": "Annonce",
       "advertisement": "Publicité",
-      "sponsored": "Sponsorisé",
-      "personalized_ads": "Publicités personnalisées"
+      "personalized_ads": "Publicités personnalisées",
+      "sponsored": "Sponsorisé"
     },
     "messages": {
       "disclaimer": {

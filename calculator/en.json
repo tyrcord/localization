@@ -1,12 +1,12 @@
 {
   "calculator": {
+    "labels": {
+      "calculator": "Calculator",
+      "calculators": "Calculators"
+    },
     "titles": {
       "instructions": "Instructions for using this Calculator",
       "results": "Information regarding the results"
-    },
-    "labels": {
-      "calculators": "Calculators",
-      "calculator": "Calculator"
     }
   }
 }

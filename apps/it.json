@@ -1,23 +1,29 @@
 {
   "apps": {
+    "div_qal": {
+      "intro": {
+        "description": "Questa app è progettata per aiutarti nella scelta di azioni che distribuiscono dividendi.",
+        "title": "Sfrutta il potenziale delle tue finanze e guarda crescere la tua ricchezza!"
+      }
+    },
+    "expressions_quebecoises": {
+      "intro": {
+        "description": "Scopri oltre 500 espressioni uniche del Quebec che ti aspettano!",
+        "title": "Intraprendiamo un viaggio di apprendimento!"
+      }
+    },
     "fx_pos_qal": {
       "intro": {
         "description": "Questa app ti suggerirà un importo ottimale da investire per massimizzare i tuoi guadagni e ridurre al minimo le tue perdite.",
         "title": "Concentriamoci sulla gestione del rischio piuttosto che subire perdite!"
       },
+      "promo": {
+        "comply_risk_management": "Rispetta facilmente la gestione del rischio",
+        "short": "Determinare la dimensione delle tue posizioni non è mai stato così facile!"
+      },
       "store": {
         "description": "Il successo delle tue future operazioni dipenderà in gran parte dalla tua capacità di gestire il rischio in modo efficace. Infatti, è essenziale non rischiare tutto il tuo capitale in una singola transazione. Per questo, è importante calcolare la dimensione della tua posizione prima di ogni operazione. Per aiutarti a non abbassare la guardia nella gestione del rischio, il nostro calcolatore è lì per accompagnarti! Basta compilare i campi nel nostro strumento e ti suggerirà un importo ottimale da investire per massimizzare i tuoi guadagni e ridurre al minimo le tue perdite.",
         "promo": "Non vuoi perdere tutto il tuo capitale in una singola transazione!"
-      },
-      "promo": {
-        "short": "Determinare la dimensione delle tue posizioni non è mai stato così facile!",
-        "comply_risk_management": "Rispetta facilmente la gestione del rischio"
-      }
-    },
-    "div_qal": {
-      "intro": {
-        "description": "Questa app è progettata per aiutarti nella scelta di azioni che distribuiscono dividendi.",
-        "title": "Sfrutta il potenziale delle tue finanze e guarda crescere la tua ricchezza!"
       }
     },
     "fx_qal": {
@@ -36,12 +42,6 @@
       "intro": {
         "description": "La nostra app ti consente di determinare rapidamente se il tuo reddito è sufficiente a coprire le tue spese.",
         "title": "Concentriamoci sulla riduzione delle perdite e sulla massimizzazione dei guadagni per risultati ottimali!"
-      }
-    },
-    "expressions_quebecoises": {
-      "intro": {
-        "description": "Scopri oltre 500 espressioni uniche del Quebec che ti aspettano!",
-        "title": "Intraprendiamo un viaggio di apprendimento!"
       }
     }
   }

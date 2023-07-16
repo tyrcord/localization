@@ -1,9 +1,9 @@
 {
   "stock": {
     "expected_annual_share_price_appreciation": "Ожидаемый ежегодный рост цены акций",
+    "number_of_shares": "Количество акций",
     "share_price": "Цена акции",
     "shares_owned": "Владеемые акции",
-    "number_of_shares": "Количество акций",
     "stock": "Акция"
   }
 }

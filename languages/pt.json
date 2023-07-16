@@ -5,6 +5,8 @@
     },
     "locale": {
       "iso_639_1": {
+        "ar": "العربية",
+        "cs": "Čeština",
         "da": "Dansk",
         "de": "Deutsch",
         "el": "Ελληνικά",
@@ -26,9 +28,7 @@
         "ru": "Русский",
         "sv": "Svenska",
         "tr": "Türkçe",
-        "zh": "中文",
-        "ar": "العربية",
-        "cs": "Čeština"
+        "zh": "中文"
       },
       "names": {
         "arabic": "العربية",
