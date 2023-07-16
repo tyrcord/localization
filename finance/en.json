@@ -54,6 +54,7 @@
         "label": "Discount",
         "per_unit": "Discount per Unit"
       },
+      "duration_years": "Duration in years",
       "ending": {
         "balance": "Ending Balance",
         "principal": "Ending Principal"
@@ -192,8 +193,7 @@
         "text": "Trend",
         "up": "Up"
       },
-      "user_currency": "User Currency",
-      "years_to_grow": "Years to Grow"
+      "user_currency": "User Currency"
     },
     "selects": {
       "account_currency": "Select your account currency",

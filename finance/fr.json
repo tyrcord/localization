@@ -1,7 +1,7 @@
 {
   "finance": {
     "disclaimers": {
-      "incorrect_results": "Si vous pensez que les résultats sont incorrects, il est possible que certains paramètres diffèrent en fonction de votre courtier et des instruments financiers que vous utilisez. Si nécessaire, vous pouvez ajuster ces paramètres dans la section avancée.",
+      "incorrect_results": "Si vous estimez que les résultats sont incorrects, il est possible que certains paramètres diffèrent en fonction de votre courtier et des instruments financiers que vous utilisez. Si nécessaire, vous pouvez ajuster ces paramètres dans la section avancée.",
       "intervening_markets": "La participation aux marchés financiers comporte des risques pouvant entraîner des pertes financières. Veuillez ne pas prendre de décisions de trading ou d'investissement basées uniquement sur ces informations.",
       "trading": "Les marchés financiers comportent des risques importants pour votre capital investi. Les informations et les résultats fournis par cette application ne doivent être considérés que comme une indication et ne constituent pas des conseils ou des recommandations. {company} décline toute responsabilité en cas de pertes encourues par toute personne agissant sur la base de ces informations ou résultats."
     },
@@ -9,7 +9,7 @@
       "close_price_between_low_high_price": "Le prix de clôture doit être compris entre le prix le plus bas et le prix le plus élevé.",
       "high_price_higher_low_price": "Le prix le plus élevé doit dépasser le prix le plus bas.",
       "open_price_between_low_high_price": "Le prix d'ouverture doit être compris entre le prix le plus bas et le prix le plus élevé.",
-      "quote_refresh": "La cotation de l'instrument financier sélectionné ne peut pas être mise à jour. Veuillez réessayer ultérieurement."
+      "quote_refresh": "La cotation de l'instrument financier sélectionné ne peut pas être actualisée. Veuillez réessayer ultérieurement."
     },
     "labels": {
       "account": {
@@ -22,8 +22,8 @@
       },
       "after": {
         "tax": {
-          "amount": "Montant après taxes",
-          "price": "Prix après taxes"
+          "amount": "Montant après impôts",
+          "price": "Prix après impôts"
         }
       },
       "amount_at_risk": "Montant à risque",
@@ -31,17 +31,17 @@
       "average_annual_return": "Rendement annuel moyen",
       "before": {
         "tax": {
-          "amount": "Montant avant taxes",
-          "price": "Prix avant taxes"
+          "amount": "Montant avant impôts",
+          "price": "Prix avant impôts"
         }
       },
       "break_even": {
-        "price": "Prix de seuil de rentabilité",
-        "units": "Unités de seuil de rentabilité"
+        "price": "Prix de rentabilité",
+        "units": "Unités de rentabilité"
       },
       "buy": {
         "commission": "Commission d'achat",
-        "costs": "Coûts d'achat",
+        "costs": "Frais d'achat",
         "price": "Prix d'achat",
         "price_per_unit": "Prix d'achat par unité"
       },
@@ -50,10 +50,11 @@
       "currencies": "Devises",
       "currency": "Devise",
       "discount": {
-        "amount": "Montant de la réduction",
+        "amount": "Montant de réduction",
         "label": "Réduction",
         "per_unit": "Réduction par unité"
       },
+      "duration_years": "Durée en années",
       "ending": {
         "balance": "Solde final",
         "principal": "Capital final"
@@ -92,8 +93,8 @@
         "buy_price": "Prix net d'achat",
         "income": "Revenu net",
         "profit": {
-          "after_tax": "Bénéfice net après taxes",
-          "before_tax": "Bénéfice net avant taxes",
+          "after_tax": "Bénéfice net après impôts",
+          "before_tax": "Bénéfice net avant impôts",
           "text": "Bénéfice net"
         }
       },
@@ -106,24 +107,24 @@
         "camarilla": "Camarilla",
         "demark": "DeMark",
         "fibonacci": "Fibonacci",
-        "method": "Méthode du point pivot",
+        "method": "Méthode des points pivots",
         "standard": "Standard",
         "text": "Point pivot",
         "woodie": "Woodie"
       },
       "pivot_points": "Points pivots",
       "position": {
-        "long": "Long",
-        "short": "Court",
-        "size": "Taille de position",
+        "long": "Achat",
+        "short": "Vente à découvert",
+        "size": "Taille de la position",
         "text": "Position"
       },
       "price": {
         "a": "Prix A",
         "b": "Prix B",
         "per_unit": "Prix par unité",
-        "per_unit_after_tax": "Prix par unité après taxes",
-        "per_unit_before_tax": "Prix par unité avant taxes",
+        "per_unit_after_tax": "Prix par unité après impôts",
+        "per_unit_before_tax": "Prix par unité avant impôts",
         "text": "Prix"
       },
       "primary_currency": "Devise principale",
@@ -136,17 +137,17 @@
       "required_margin": "Marge requise",
       "resistance_level": "Niveau de résistance {level}",
       "retracement": "Retracement",
-      "return_on_investment": "Rendement sur investissement",
+      "return_on_investment": "Retour sur investissement",
       "risk": "Risque",
       "risk_amount": "Montant du risque",
       "risk_ratio": "Ratio de risque",
-      "risk_reward_ratio": "Ratio risque/rendement",
+      "risk_reward_ratio": "Ratio risque-rendement",
       "secondary_currency": "Devise secondaire",
       "sell": {
         "commission": "Commission de vente",
+        "costs": "Frais de vente",
+        "costs_per_unit": "Frais de vente par unité",
         "price": "Prix de vente",
-        "costs": "Coûts de vente",
-        "costs_per_unit": "Coûts de vente par unité",
         "price_per_unit": "Prix de vente par unité"
       },
       "slippage": "Glissement",
@@ -167,9 +168,9 @@
         "text": "Prise de bénéfices"
       },
       "tax": {
-        "amount": "Montant de la taxe",
-        "exempt_amount_per_year": "Montant exonéré de taxes par an",
-        "rate": "Taux de la taxe"
+        "amount": "Montant de l'impôt",
+        "exempt_amount_per_year": "Montant exonéré d'impôt par an",
+        "rate": "Taux d'imposition"
       },
       "total": {
         "costs": "Coûts totaux",
@@ -177,7 +178,7 @@
         "loss": "Perte totale",
         "return": "Rendement total",
         "revenue": "Revenu total",
-        "taxes": "Montant total des taxes"
+        "taxes": "Montant total des impôts"
       },
       "trade": {
         "size": {
@@ -192,8 +193,7 @@
         "text": "Tendance",
         "up": "Haussière"
       },
-      "user_currency": "Devise de l'utilisateur",
-      "years_to_grow": "Années de croissance"
+      "user_currency": "Devise de l'utilisateur"
     },
     "selects": {
       "account_currency": "Sélectionnez la devise de votre compte",
