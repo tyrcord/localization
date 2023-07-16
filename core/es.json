@@ -11,6 +11,7 @@
         "male": "Todos",
         "other": "Todos"
       },
+      "annually": "Anualmente",
       "at": "En",
       "auto_save": "Guardar automáticamente",
       "back": "Volver",
@@ -24,34 +25,28 @@
       "confirm": "Confirmar",
       "confirmation": "Confirmación",
       "continue": "Continuar",
+      "daily": "Diariamente",
       "date": "Fecha",
       "default": {
         "text": "Predeterminado",
         "values": "Valores predeterminados"
       },
-      "frequency": "Frecuencia",
-      "annually": "Anualmente",
-      "quarterly": "Trimestralmente",
-      "yearly": "Anualmente",
-      "monthly": "Mensualmente",
-      "weekly": "Semanalmente",
-      "daily": "Diariamente",
-      "minors": "Menores",
-      "majors": "Mayores",
-      "exotics": "Exóticas",
-      "quantity": "Cantidad",
-      "results": "Resultados",
       "delete": "Eliminar",
       "description": "Descripción",
       "details": "Detalles",
       "display": "Mostrar",
       "done": "Hecho",
       "error": "Error",
+      "exotics": "Exóticas",
       "favorites": "Favoritos",
+      "frequency": "Frecuencia",
       "home": "Inicio",
       "learn_more": "Más información",
+      "majors": "Mayores",
       "menu": "Menú",
       "method": "Método",
+      "minors": "Menores",
+      "monthly": "Mensualmente",
       "next": "Siguiente",
       "no": "No",
       "none": {
@@ -62,11 +57,17 @@
       "offline_mode": "Modo sin conexión",
       "ok": "OK",
       "optional": "Opcional",
+      "quantity": "Cantidad",
+      "quarterly": "Trimestralmente",
+      "results": "Resultados",
       "search": "Buscar",
+      "semi_annually": "semestralmente",
       "share": "Compartir",
       "skip": "Omitir",
       "try_again": "Reintentar",
       "unlocked": "Desbloqueado",
+      "weekly": "Semanalmente",
+      "yearly": "Anualmente",
       "yes": "Sí"
     },
     "messages": {
@@ -97,12 +98,12 @@
     "questions": {
       "are_you_sure": "¿Estás seguro?"
     },
-    "warnings": {
-      "offline": "La aplicación se encuentra en modo sin conexión, lo que significa que los datos pueden no estar actualizados."
-    },
     "select": {
       "frequency": "Selecciona una frecuencia",
       "method": "Selecciona un método"
+    },
+    "warnings": {
+      "offline": "La aplicación se encuentra en modo sin conexión, lo que significa que los datos pueden no estar actualizados."
     }
   }
 }

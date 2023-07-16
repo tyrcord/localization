@@ -11,6 +11,7 @@
         "male": "全て",
         "other": "全て"
       },
+      "annually": "毎年",
       "at": "場所",
       "auto_save": "自動保存",
       "back": "戻る",
@@ -24,34 +25,28 @@
       "confirm": "確認",
       "confirmation": "確認",
       "continue": "続ける",
+      "daily": "毎日",
       "date": "日付",
       "default": {
         "text": "デフォルト",
         "values": "デフォルト値"
       },
-      "frequency": "頻度",
-      "annually": "毎年",
-      "quarterly": "四半期ごとに",
-      "yearly": "毎年",
-      "monthly": "毎月",
-      "weekly": "毎週",
-      "daily": "毎日",
-      "minors": "未成年",
-      "majors": "成人",
-      "exotics": "エキゾチック",
-      "quantity": "数量",
-      "results": "結果",
       "delete": "削除",
       "description": "説明",
       "details": "詳細",
       "display": "表示",
       "done": "完了",
       "error": "エラー",
+      "exotics": "エキゾチック",
       "favorites": "お気に入り",
+      "frequency": "頻度",
       "home": "ホーム",
       "learn_more": "詳細を確認",
+      "majors": "成人",
       "menu": "メニュー",
       "method": "メソッド",
+      "minors": "未成年",
+      "monthly": "毎月",
       "next": "次へ",
       "no": "いいえ",
       "none": {
@@ -62,11 +57,17 @@
       "offline_mode": "オフラインモード",
       "ok": "OK",
       "optional": "任意",
+      "quantity": "数量",
+      "quarterly": "四半期ごとに",
+      "results": "結果",
       "search": "検索",
+      "semi_annually": "半年ごとに",
       "share": "共有",
       "skip": "スキップ",
       "try_again": "再試行",
       "unlocked": "ロック解除",
+      "weekly": "毎週",
+      "yearly": "毎年",
       "yes": "はい"
     },
     "messages": {
@@ -97,12 +98,12 @@
     "questions": {
       "are_you_sure": "本当によろしいですか？"
     },
-    "warnings": {
-      "offline": "アプリは現在オフラインモードで動作しています。データが最新でない場合があります。"
-    },
     "select": {
       "frequency": "頻度を選択",
       "method": "方法を選択"
+    },
+    "warnings": {
+      "offline": "アプリは現在オフラインモードで動作しています。データが最新でない場合があります。"
     }
   }
 }
