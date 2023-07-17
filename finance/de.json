@@ -11,12 +11,43 @@
       "open_price_between_low_high_price": "Der Eröffnungspreis muss zwischen dem niedrigsten und dem höchsten Preis liegen.",
       "quote_refresh": "Das Angebot für das ausgewählte Finanzinstrument kann nicht aktualisiert werden. Bitte versuchen Sie es später erneut."
     },
+    "help": {
+      "account_balance": {
+        "example": "Wenn Sie $50.000 für den Handel zur Verfügung haben, geben Sie bitte diesen Betrag hier ein.",
+        "text": "Geben Sie den aktuellen Wert Ihres Kapitals an."
+      },
+      "amount_at_risk": {
+        "example": "Wenn Ihr Gesamtkapital $50.000 beträgt und Sie $1.000 riskieren möchten, geben Sie $1.000 als Wert ein.",
+        "text": "Dies stellt den spezifischen Betrag des Risikos dar, den Sie für diesen Trade eingehen möchten, ausgedrückt als Geldbetrag in Bezug auf Ihr Kapital."
+      },
+      "entry_fees": {
+        "example": "Wenn Ihr Broker 0,1% des Gesamtwerts der Position berechnet, wenn Sie eintreten, geben Sie 0,1 als Wert ein.",
+        "text": "Stellt den Prozentsatz der Gebühren dar, die Ihr Broker beim Eröffnen einer Position erhebt."
+      },
+      "entry_price": {
+        "example": "Wenn Sie zum aktuellen Preis in den Markt eintreten möchten, geben Sie bitte den aktuellen Preis als Wert ein. Wenn jedoch der aktuelle Marktpreis $50 pro Aktie beträgt und Sie zu einem anderen Preis, z. B. $55 pro Aktie, eintreten möchten, geben Sie bitte $55 als Wert ein.",
+        "text": "Stellt den Preis dar, zu dem Sie beabsichtigen, in den Markt einzusteigen, unabhängig davon, ob es sich um den aktuellen Preis oder den Preis handelt, zu dem Sie eintreten möchten."
+      },
+      "exit_fees": {
+        "example": "Wenn Ihr Broker 0,1% des Gesamtwerts der Position berechnet, wenn Sie austreten, geben Sie 0,1 als Wert ein.",
+        "text": "Stellt den Prozentsatz der Gebühren dar, die Ihr Broker beim Verlassen einer Position erhebt."
+      },
+      "risk": {
+        "example": "Wenn Sie bereit sind, 2% Ihres Kapitals zu riskieren und Ihr Gesamtkapital $50.000 beträgt, geben Sie 2% ($1.000) als Wert ein.",
+        "text": "Bezieht sich auf das Risikoniveau, das Sie für diese Transaktion eingehen möchten, ausgedrückt als Prozentsatz in Bezug auf Ihr Kapital."
+      },
+      "risk_reward_ratio": {
+        "example": "Wenn Sie z. B. 2 eingeben, bedeutet dies, dass Sie bereit sind, $1 zu riskieren, um potenziell $2 zu gewinnen.",
+        "text": "Stellt das Verhältnis zwischen dem Risiko und der Belohnung dar, die Sie für diesen Trade eingehen möchten."
+      },
+      "slippage": {
+        "example": "Nehmen wir an, Sie möchten in den Markt eintreten, indem Sie eine Stop-Order zum Kauf einer Aktie zu $100 pro Aktie platzieren. Aufgrund der vorherrschenden Marktbedingungen und der begrenzten Verfügbarkeit von Verkäufern wird die Order jedoch zu einem leicht höheren Preis von $101 pro Aktie ausgeführt. In einem solchen Szenario beträgt die Slippage 1% ([$101 - $100] / $100 * 100%). Wenn Sie also eine Slippage von 1% beim Eintritt in den Markt erwarten, geben Sie bitte den Wert 1 ein.",
+        "text": "Stellt die erwartete Abweichung dar, auf die Sie beim Ein- oder Ausstieg aus dem Markt stoßen können. Bei Aufträgen mit Stop-Orders oder Stop-Losses kommt es häufig vor, dass sie nicht zum angegebenen Preis ausgeführt werden. Die Slippage, die als Prozentsatz ausgedrückt wird, berücksichtigt potenzielle Abweichungen, die sowohl für Ihre Einstiegs- als auch Ausstiegspreise auftreten können."
+      }
+    },
     "label": {
       "account": {
-        "balance": {
-          "help": "Geben Sie den aktuellen Wert Ihres Kapitals an.",
-          "label": "Kontostand"
-        },
+        "balance": "Kontostand",
         "currency": "Kontowährung",
         "size": "Kontogröße"
       },

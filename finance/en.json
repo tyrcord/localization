@@ -11,12 +11,43 @@
       "open_price_between_low_high_price": "The opening price must be between the lowest price and the highest price.",
       "quote_refresh": "The quote for the selected financial instrument cannot be updated. Please try again later."
     },
+    "help": {
+      "account_balance": {
+        "example": "If you have $50,000 allocated for trading, please enter that amount here.",
+        "text": "Specify the current value of your capital."
+      },
+      "amount_at_risk": {
+        "example": "If your total capital is $50,000 and you wish to risk $1,000, enter $1,000 as the value",
+        "text": "This represents the specific amount of risk you desire to undertake for this trade, expressed as a monetary value relative to your capital."
+      },
+      "entry_fees": {
+        "example": "If your broker charges 0.1% of the total value of the position when you enter, enter 0.1 as the value.",
+        "text": "Represents the percentage of fees charged by your broker when opening a position."
+      },
+      "entry_price": {
+        "example": "If you intend to enter the market at the current price, please enter the current price as the value. However, if the current market price is $50 per share and you plan to enter at a different price, such as $55 per share, please enter $55 as the value.",
+        "text": "Represents the price at which you intend to enter the market, whether it is the current price or the price at which you plan to enter."
+      },
+      "exit_fees": {
+        "example": "If your broker charges 0.1% of the total value of the position when you exit, enter 0.1 as the value.",
+        "text": "Represents the percentage of fees charged by your broker when leaving a position."
+      },
+      "risk": {
+        "example": "If you are willing to risk 2% of your capital, and your total capital is $50,000, enter 2% ($1,000) as the value.",
+        "text": "Refers to the level of risk you are willing to assume for this transaction, expressed as a percentage relative to your capital."
+      },
+      "risk_reward_ratio": {
+        "example": "For example, if you enter 2, it means you are willing to risk $1 to potentially gain $2.",
+        "text": "Represents the ratio between the amount of risk and the amount of reward you are willing to assume for this trade."
+      },
+      "slippage": {
+        "example": "Let's suppose you intend to enter the market by placing a stop order to buy a stock at $100 per share. However, due to prevailing market conditions and the limited availability of sellers, the order ends up being executed at a slightly higher price of $101 per share. In such a scenario, the slippage would amount to 1% ([$101 - $100] / $100 * 100%). Therefore, if you anticipate a 1% slippage when entering the market, please enter the value 1",
+        "text": "Represents the expected deviation you may encounter when entering or exiting the market. It is common for orders placed with stop orders or stop losses to not be executed at the exact indicated price. Slippage, expressed as a percentage, considers the potential deviations that can occur for both your entry and exit prices."
+      }
+    },
     "label": {
       "account": {
-        "balance": {
-          "help": "Specify the current value of your capital.",
-          "label": "Account Balance"
-        },
+        "balance": "Account Balance",
         "currency": "Account Currency",
         "size": "Account Size"
       },

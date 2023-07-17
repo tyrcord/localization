@@ -11,12 +11,43 @@
       "open_price_between_low_high_price": "Il prezzo di apertura deve essere compreso tra il prezzo più basso e il prezzo più alto.",
       "quote_refresh": "La quotazione dello strumento finanziario selezionato non può essere aggiornata. Riprova più tardi."
     },
+    "help": {
+      "account_balance": {
+        "example": "Se hai $50.000 destinati al trading, inserisci qui tale importo.",
+        "text": "Specifica il valore attuale del tuo capitale."
+      },
+      "amount_at_risk": {
+        "example": "Se il tuo capitale totale è di $50.000 e desideri rischiare $1.000, inserisci $1.000 come valore.",
+        "text": "Rappresenta la specifica quantità di rischio che desideri assumere per questo trade, espressa come valore monetario relativo al tuo capitale."
+      },
+      "entry_fees": {
+        "example": "Se il tuo broker addebita lo 0,1% del valore totale della posizione all'ingresso, inserisci 0,1 come valore.",
+        "text": "Rappresenta la percentuale di commissioni addebitate dal tuo broker all'apertura di una posizione."
+      },
+      "entry_price": {
+        "example": "Se intendi entrare sul mercato al prezzo corrente, inserisci il prezzo corrente come valore. Tuttavia, se il prezzo di mercato corrente è di $50 per azione e prevedi di entrare a un prezzo diverso, come $55 per azione, inserisci $55 come valore.",
+        "text": "Rappresenta il prezzo a cui intendi entrare sul mercato, che sia il prezzo corrente o il prezzo a cui prevedi di entrare."
+      },
+      "exit_fees": {
+        "example": "Se il tuo broker addebita lo 0,1% del valore totale della posizione all'uscita, inserisci 0,1 come valore.",
+        "text": "Rappresenta la percentuale di commissioni addebitate dal tuo broker all'uscita di una posizione."
+      },
+      "risk": {
+        "example": "Se sei disposto a rischiare il 2% del tuo capitale e il tuo capitale totale è di $50.000, inserisci il 2% ($1.000) come valore.",
+        "text": "Si riferisce al livello di rischio che sei disposto ad assumere per questa transazione, espresso come percentuale relativa al tuo capitale."
+      },
+      "risk_reward_ratio": {
+        "example": "Ad esempio, se inserisci 2, significa che sei disposto a rischiare $1 per potenzialmente guadagnare $2.",
+        "text": "Rappresenta il rapporto tra la quantità di rischio e la quantità di ricompensa che sei disposto ad assumere per questo trade."
+      },
+      "slippage": {
+        "example": "Supponiamo che tu intenda entrare sul mercato inserendo un ordine di stop per acquistare un'azione a $100 per azione. Tuttavia, a causa delle condizioni di mercato prevalenti e della disponibilità limitata di venditori, l'ordine viene eseguito a un prezzo leggermente più alto, a $101 per azione. In uno scenario del genere, la slippage ammonta al 1% ([$101 - $100] / $100 * 100%). Pertanto, se prevedi una slippage del 1% durante l'ingresso sul mercato, inserisci il valore 1.",
+        "text": "Rappresenta la deviazione attesa che potresti incontrare durante l'ingresso o l'uscita dal mercato. È comune che gli ordini effettuati con ordini di stop o stop loss non vengano eseguiti al prezzo indicato esattamente. La slippage, espressa come percentuale, considera le deviazioni potenziali che possono verificarsi sia per i prezzi di ingresso che di uscita."
+      }
+    },
     "label": {
       "account": {
-        "balance": {
-          "help": "Specifica il valore attuale del tuo capitale.",
-          "label": "Saldo conto"
-        },
+        "balance": "Saldo conto",
         "currency": "Valuta del conto",
         "size": "Dimensione conto"
       },
