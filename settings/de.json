@@ -49,6 +49,9 @@
     },
     "select": {
       "language": "Wählen Sie die gewünschte Sprache aus."
+    },
+    "disclaimer": {
+      "accept_risk": "Sie erkennen an und stimmen zu, dass die Nutzung von {appName} ausschließlich auf Ihr eigenes Risiko erfolgt und wir jegliche Haftung für Verluste oder Schäden im Zusammenhang mit der Nutzung des Dienstes ablehnen."
     }
   }
 }
