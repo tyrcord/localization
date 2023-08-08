@@ -18,6 +18,29 @@ function deepSearchJSONFiles(directory) {
   }
 }
 
+function replaceSpacesBeforePunctuation(jsonData) {
+  const regex = / (\.|,|!|\?|:|;)/g; // Matches a space followed by specific punctuation
+
+  if (typeof jsonData === "string") {
+    return jsonData.replace(regex, "\u00A0$1");
+  }
+
+  if (typeof jsonData !== "object" || jsonData === null) {
+    return jsonData;
+  }
+
+  if (Array.isArray(jsonData)) {
+    return jsonData.map(replaceSpacesBeforePunctuation);
+  }
+
+  const updatedObject = {};
+  for (const key in jsonData) {
+    updatedObject[key] = replaceSpacesBeforePunctuation(jsonData[key]);
+  }
+
+  return updatedObject;
+}
+
 function sortAndRenameJSONFile(filePath) {
   try {
     const fileName = path.basename(filePath);
@@ -33,7 +56,8 @@ function sortAndRenameJSONFile(filePath) {
     }
 
     const data = fs.readFileSync(filePath, "utf8");
-    const jsonData = JSON.parse(data);
+    let jsonData = JSON.parse(data);
+    jsonData = replaceSpacesBeforePunctuation(jsonData);
     const sortedJsonData = sortKeysAlphabetically(jsonData);
     const sortedData = JSON.stringify(sortedJsonData, null, 2) + "\n";
 
