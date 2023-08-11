@@ -16,11 +16,13 @@
       "no_ads_available": "Atualmente, não há anúncios disponíveis. Por favor, verifique novamente mais tarde.",
       "watch_ad": {
         "unlock_pdf": "Assista a um anúncio curto para desbloquear a capacidade de exportar seus dados como PDF!"
-      }
+      },
+      "enjoy_your_reward": "Aproveite sua recompensa!"
     },
     "error": {
       "no_ads_available": "Atualmente, não há anúncios disponíveis. Por favor, verifique novamente mais tarde.",
-      "failed_to_load_ad": "Não foi possível carregar o anúncio. Por favor, tente novamente mais tarde."
+      "failed_to_load_ad": "Não foi possível carregar o anúncio. Por favor, tente novamente mais tarde.",
+      "dimissed_ad": "Como você fechou o anúncio antecipadamente, não receberá uma recompensa. Por favor, tente novamente mais tarde."
     }
   }
 }

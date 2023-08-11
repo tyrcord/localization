@@ -16,11 +16,13 @@
       "no_ads_available": "Currently, there are no ads available. Please check back later.",
       "watch_ad": {
         "unlock_pdf": "Watch a short ad to unlock the ability to export your data as a PDF!"
-      }
+      },
+      "enjoy_your_reward": "Enjoy your reward!"
     },
     "error": {
       "no_ads_available": "Currently, there are no ads available. Please check back later.",
-      "failed_to_load_ad": "Unable to load the ad. Please try again later."
+      "failed_to_load_ad": "Unable to load the ad. Please try again later.",
+      "dimissed_ad": "Since you dismissed the ad early, you will not receive a reward. Please try again later."
     }
   }
 }

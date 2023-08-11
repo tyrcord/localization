@@ -16,11 +16,13 @@
       "no_ads_available": "Al momento non ci sono annunci disponibili. Si prega di riprovare più tardi.",
       "watch_ad": {
         "unlock_pdf": "Guarda un breve annuncio per sbloccare la possibilità di esportare i tuoi dati in formato PDF!"
-      }
+      },
+      "enjoy_your_reward": "Goditi il tuo premio!"
     },
     "error": {
       "no_ads_available": "Al momento non ci sono annunci disponibili. Si prega di riprovare più tardi.",
-      "failed_to_load_ad": "Impossibile caricare l'annuncio. Si prega di riprovare più tardi."
+      "failed_to_load_ad": "Impossibile caricare l'annuncio. Si prega di riprovare più tardi.",
+      "dimissed_ad": "Poiché hai chiuso l'annuncio in anticipo, non riceverai una ricompensa. Si prega di riprovare più tardi."
     }
   }
 }

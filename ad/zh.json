@@ -16,11 +16,13 @@
       "no_ads_available": "当前没有广告可用。请稍后再查看。",
       "watch_ad": {
         "unlock_pdf": "观看短片广告以解锁将数据导出为PDF的功能！"
-      }
+      },
+      "enjoy_your_reward": "享受您的奖励！"
     },
     "error": {
       "no_ads_available": "当前没有广告可用。请稍后再查看。",
-      "failed_to_load_ad": "无法加载广告。请稍后再试。"
+      "failed_to_load_ad": "无法加载广告。请稍后再试。",
+      "dimissed_ad": "由于您提前关闭了广告，您将不会获得奖励。请稍后再试。"
     }
   }
 }

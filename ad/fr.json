@@ -16,11 +16,13 @@
       "no_ads_available": "Actuellement, il n'y a pas de publicités disponibles. Veuillez vérifier à nouveau plus tard.",
       "watch_ad": {
         "unlock_pdf": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données au format PDF!"
-      }
+      },
+      "enjoy_your_reward": "Profitez de votre récompense!"
     },
     "error": {
       "no_ads_available": "Actuellement, il n'y a pas de publicités disponibles. Veuillez vérifier à nouveau plus tard.",
-      "failed_to_load_ad": "Impossible de charger la publicité. Veuillez réessayer plus tard."
+      "failed_to_load_ad": "Impossible de charger la publicité. Veuillez réessayer plus tard.",
+      "dimissed_ad": "Comme vous avez interomptu la publicité prématurément, vous ne recevrez pas de récompense. Veuillez réessayer plus tard."
     }
   }
 }
