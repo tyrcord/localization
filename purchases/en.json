@@ -1,7 +1,7 @@
 {
   "purchases": {
     "error": {
-      "already_purchased": "You already own this item.",
+      "already_owned": "You already own this item.",
       "cannot_connect_store": "We apologize for the inconvenience. The store is currently unavailable, and as a result, you won't be able to make any purchases at this time.",
       "client_invalid": "The purchase cannot be completed. Please, change your account or device.",
       "cloud_service_network_connection_failed": "The purchase cannot be completed. Please, check your network connection and try again.",
