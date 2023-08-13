@@ -20,7 +20,9 @@
           "feature_plural": "Watch a short ad to unlock these features!"
         }
       },
-      "enjoy_your_reward": "Enjoy your reward!"
+      "enjoy_your_reward": "Enjoy your reward!",
+      "say_goodbye_to_ads": "Say goodbye to ads!",
+      "go_ad_free": "Go ad-free!"
     },
     "error": {
       "no_ads_available": "Currently, there are no ads available. Please check back later.",

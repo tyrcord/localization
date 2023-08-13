@@ -20,7 +20,9 @@
           "feature_plural": "Regardez une courte publicité pour débloquer ces fonctions!"
         }
       },
-      "enjoy_your_reward": "Profitez de votre récompense!"
+      "enjoy_your_reward": "Profitez de votre récompense!",
+      "say_goodbye_to_ads": "Dites adieu aux publicités !",
+      "go_ad_free": "Profitez d'une expérience sans publicité !"
     },
     "error": {
       "no_ads_available": "Actuellement, il n'y a pas de publicités disponibles. Veuillez vérifier à nouveau plus tard.",

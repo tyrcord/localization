@@ -20,7 +20,9 @@
           "feature_plural": "Assista a um anúncio curto para desbloquear esses recursos!"
         }
       },
-      "enjoy_your_reward": "Aproveite sua recompensa!"
+      "enjoy_your_reward": "Aproveite sua recompensa!",
+      "say_goodbye_to_ads": "Diga adeus aos anúncios!",
+      "go_ad_free": "Experimente sem anúncios!"
     },
     "error": {
       "no_ads_available": "Atualmente, não há anúncios disponíveis. Por favor, verifique novamente mais tarde.",

@@ -20,7 +20,9 @@
           "feature_plural": "观看一个短广告以解锁这些功能！"
         }
       },
-      "enjoy_your_reward": "享受您的奖励！"
+      "enjoy_your_reward": "享受您的奖励！",
+      "say_goodbye_to_ads": "告别广告！",
+      "go_ad_free": "免广告体验！"
     },
     "error": {
       "no_ads_available": "当前没有广告可用。请稍后再查看。",

@@ -20,7 +20,9 @@
           "feature_plural": "Sehen Sie sich eine kurze Anzeige an, um diese Funktionen freizuschalten!"
         }
       },
-      "enjoy_your_reward": "Genießen Sie Ihre Belohnung!"
+      "enjoy_your_reward": "Genießen Sie Ihre Belohnung!",
+      "say_goodbye_to_ads": "Sagen Sie Auf Wiedersehen zu Werbung!",
+      "go_ad_free": "Werbefrei erleben!"
     },
     "error": {
       "no_ads_available": "Zurzeit sind keine Anzeigen verfügbar. Bitte versuchen Sie es später erneut.",
