@@ -41,13 +41,13 @@
         "example": "If you enter 2, it means that for every dollar risked, you hope for a potential gain of 2 dollars.",
         "text": "Specify the ratio between the risk amount and the potential reward you are willing to accept for this transaction."
       },
-      "stop_loss_price": {
-        "text": "Indicate the price at which you will set your stop-loss order to limit potential losses.",
-        "example": "If you purchased a stock at $50 and chose to secure your position with a stop-loss order at $45, please enter 45 as the value."
-      },
       "slippage": {
         "example": "If you place a market order to purchase a stock valued at $100, but the transaction takes place at $102, the resulting variance of $2, equivalent to 2% from the original price, is referred to as 'slippage'. In this scenario, you ought to input '2' as the percentage.",
         "text": "Refers to the difference between the expected price of a trade and the price at which the trade is actually executed. Slippage often occurs during periods of high volatility when market orders are used, and it can also happen when large orders are executed and there is insufficient volume at the chosen price level."
+      },
+      "stop_loss_price": {
+        "example": "If you purchased a stock at $50 and chose to secure your position with a stop-loss order at $45, please enter 45 as the value.",
+        "text": "Indicate the price at which you will set your stop-loss order to limit potential losses."
       }
     },
     "label": {
