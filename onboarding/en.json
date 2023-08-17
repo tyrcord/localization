@@ -2,36 +2,36 @@
   "onboarding": {
     "notifications": {
       "action": "Allow notifications",
-      "intro": "Stay informed about the latest updates, news, and important information.",
+      "denied": {
+        "description": "No worries! We will ensure not to disturb your peace.",
+        "intro": "You have disabled notifications.",
+        "notes": "You can always enable notifications in your device settings."
+      },
       "description": "We are committed to only sending you useful and significant notifications.",
-      "notes": "You have the option to change your notification preferences at any time in your device settings.",
-      "title": "Notifications",
       "granted": {
-        "intro": "You have enabled notifications.",
         "description": "You will now receive updates and notifications from us.",
+        "intro": "You have enabled notifications.",
         "notes": "You can change this setting in your device settings."
       },
-      "denied": {
-        "intro": "You have disabled notifications.",
-        "description": "No worries! We will ensure not to disturb your peace.",
-        "notes": "You can always enable notifications in your device settings."
-      }
+      "intro": "Stay informed about the latest updates, news, and important information.",
+      "notes": "You have the option to change your notification preferences at any time in your device settings.",
+      "title": "Notifications"
     },
     "personalized_ads": {
       "action": "Enable personalized ads",
-      "intro": "By allowing personalized ads, you will benefit from an advertising experience tailored to your interests.",
-      "description": "We respect your privacy and commit to using your information solely for the purpose of enhancing your experience and presenting relevant advertisements.",
-      "title": "Personalized Ads",
       "denied": {
-        "intro": "You have disabled personalized ads.",
         "description": "We respect your choice. You will see generic ads instead.",
+        "intro": "You have disabled personalized ads.",
         "notes": "You can change this setting in your device settings."
       },
+      "description": "We respect your privacy and commit to using your information solely for the purpose of enhancing your experience and presenting relevant advertisements.",
       "granted": {
-        "intro": "You have enabled personalized ads.",
         "description": "You will see ads tailored to your interests.",
+        "intro": "You have enabled personalized ads.",
         "notes": "You can always enable tracking in your device settings."
-      }
+      },
+      "intro": "By allowing personalized ads, you will benefit from an advertising experience tailored to your interests.",
+      "title": "Personalized Ads"
     },
     "restore_premium": {
       "action": "Restore Purchases",
@@ -46,8 +46,8 @@
       "title": "Currency"
     },
     "welcome_finance_traders": {
-      "intro": "Enhance your trading strategy using our sophisticated risk management tools for optimal results.",
       "description": "Take control and trade with peace of mind.",
+      "intro": "Enhance your trading strategy using our sophisticated risk management tools for optimal results.",
       "title": "Welcome, Traders"
     }
   }

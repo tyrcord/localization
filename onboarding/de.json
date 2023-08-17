@@ -2,36 +2,36 @@
   "onboarding": {
     "notifications": {
       "action": "Benachrichtigungen zulassen",
-      "intro": "Bleiben Sie informiert über die neuesten Updates, Nachrichten und wichtigen Informationen.",
+      "denied": {
+        "description": "Kein Problem! Wir werden Ihre Ruhe nicht stören.",
+        "intro": "Sie haben Benachrichtigungen deaktiviert.",
+        "notes": "Sie können Benachrichtigungen jederzeit in Ihren Geräteeinstellungen aktivieren."
+      },
       "description": "Wir verpflichten uns, Ihnen nur nützliche und bedeutende Benachrichtigungen zu senden.",
-      "notes": "Sie haben jederzeit die Möglichkeit, Ihre Benachrichtigungseinstellungen in Ihren Geräteeinstellungen zu ändern.",
-      "title": "Benachrichtigungen",
       "granted": {
-        "intro": "Sie haben Benachrichtigungen aktiviert.",
         "description": "Sie erhalten jetzt Updates und Benachrichtigungen von uns.",
+        "intro": "Sie haben Benachrichtigungen aktiviert.",
         "notes": "Sie können diese Einstellung in Ihren Geräteeinstellungen ändern."
       },
-      "denied": {
-        "intro": "Sie haben Benachrichtigungen deaktiviert.",
-        "description": "Kein Problem! Wir werden Ihre Ruhe nicht stören.",
-        "notes": "Sie können Benachrichtigungen jederzeit in Ihren Geräteeinstellungen aktivieren."
-      }
+      "intro": "Bleiben Sie informiert über die neuesten Updates, Nachrichten und wichtigen Informationen.",
+      "notes": "Sie haben jederzeit die Möglichkeit, Ihre Benachrichtigungseinstellungen in Ihren Geräteeinstellungen zu ändern.",
+      "title": "Benachrichtigungen"
     },
     "personalized_ads": {
       "action": "Personalisierte Anzeigen aktivieren",
-      "intro": "Mit personalisierten Anzeigen profitieren Sie von einem Werbeerlebnis, das auf Ihre Interessen zugeschnitten ist.",
-      "description": "Wir respektieren Ihre Privatsphäre und verpflichten uns, Ihre Informationen ausschließlich zum Zweck der Verbesserung Ihres Erlebnisses und der Präsentation relevanter Anzeigen zu verwenden.",
-      "title": "Personalisierte Anzeigen",
       "denied": {
-        "intro": "Sie haben personalisierte Anzeigen deaktiviert.",
         "description": "Wir respektieren Ihre Entscheidung. Sie werden stattdessen allgemeine Anzeigen sehen.",
+        "intro": "Sie haben personalisierte Anzeigen deaktiviert.",
         "notes": "Sie können diese Einstellung in Ihren Geräteeinstellungen ändern."
       },
+      "description": "Wir respektieren Ihre Privatsphäre und verpflichten uns, Ihre Informationen ausschließlich zum Zweck der Verbesserung Ihres Erlebnisses und der Präsentation relevanter Anzeigen zu verwenden.",
       "granted": {
-        "intro": "Sie haben personalisierte Anzeigen aktiviert.",
         "description": "Sie werden Anzeigen sehen, die auf Ihre Interessen zugeschnitten sind.",
+        "intro": "Sie haben personalisierte Anzeigen aktiviert.",
         "notes": "Sie können das Tracking jederzeit in Ihren Geräteeinstellungen aktivieren."
-      }
+      },
+      "intro": "Mit personalisierten Anzeigen profitieren Sie von einem Werbeerlebnis, das auf Ihre Interessen zugeschnitten ist.",
+      "title": "Personalisierte Anzeigen"
     },
     "restore_premium": {
       "action": "Käufe wiederherstellen",
@@ -46,8 +46,8 @@
       "title": "Währung"
     },
     "welcome_finance_traders": {
-      "intro": "Optimieren Sie Ihre Handelsstrategie mit unseren anspruchsvollen Risikomanagement-Tools für optimale Ergebnisse.",
       "description": "Übernehmen Sie die Kontrolle und handeln Sie mit einem beruhigten Gemüt.",
+      "intro": "Optimieren Sie Ihre Handelsstrategie mit unseren anspruchsvollen Risikomanagement-Tools für optimale Ergebnisse.",
       "title": "Willkommen, Händler"
     }
   }

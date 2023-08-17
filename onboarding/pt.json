@@ -2,36 +2,36 @@
   "onboarding": {
     "notifications": {
       "action": "Permitir notificações",
-      "intro": "Mantenha-se informado sobre as últimas atualizações, notícias e informações importantes.",
+      "denied": {
+        "description": "Sem problemas! Garantimos não perturbar sua paz.",
+        "intro": "Você desativou as notificações.",
+        "notes": "Você sempre pode ativar notificações nas configurações do seu dispositivo."
+      },
       "description": "Comprometemo-nos a enviar apenas notificações úteis e significativas.",
-      "notes": "Você tem a opção de alterar suas preferências de notificação a qualquer momento nas configurações do seu dispositivo.",
-      "title": "Notificações",
       "granted": {
-        "intro": "Você ativou as notificações.",
         "description": "Agora você receberá atualizações e notificações de nossa parte.",
+        "intro": "Você ativou as notificações.",
         "notes": "Você pode alterar esta configuração nas configurações do seu dispositivo."
       },
-      "denied": {
-        "intro": "Você desativou as notificações.",
-        "description": "Sem problemas! Garantimos não perturbar sua paz.",
-        "notes": "Você sempre pode ativar notificações nas configurações do seu dispositivo."
-      }
+      "intro": "Mantenha-se informado sobre as últimas atualizações, notícias e informações importantes.",
+      "notes": "Você tem a opção de alterar suas preferências de notificação a qualquer momento nas configurações do seu dispositivo.",
+      "title": "Notificações"
     },
     "personalized_ads": {
       "action": "Ativar anúncios personalizados",
-      "intro": "Ao permitir anúncios personalizados, você se beneficiará de uma experiência de publicidade adaptada aos seus interesses.",
-      "description": "Respeitamos sua privacidade e nos comprometemos a usar suas informações apenas para melhorar sua experiência e apresentar anúncios relevantes.",
-      "title": "Anúncios Personalizados",
       "denied": {
-        "intro": "Você desativou os anúncios personalizados.",
         "description": "Respeitamos sua escolha. Você verá anúncios genéricos em vez disso.",
+        "intro": "Você desativou os anúncios personalizados.",
         "notes": "Você pode alterar esta configuração nas configurações do seu dispositivo."
       },
+      "description": "Respeitamos sua privacidade e nos comprometemos a usar suas informações apenas para melhorar sua experiência e apresentar anúncios relevantes.",
       "granted": {
-        "intro": "Você ativou os anúncios personalizados.",
         "description": "Você verá anúncios adaptados aos seus interesses.",
+        "intro": "Você ativou os anúncios personalizados.",
         "notes": "Você sempre pode ativar o rastreamento nas configurações do seu dispositivo."
-      }
+      },
+      "intro": "Ao permitir anúncios personalizados, você se beneficiará de uma experiência de publicidade adaptada aos seus interesses.",
+      "title": "Anúncios Personalizados"
     },
     "restore_premium": {
       "action": "Restaurar compras",
@@ -46,8 +46,8 @@
       "title": "Moeda"
     },
     "welcome_finance_traders": {
-      "intro": "Aprimore sua estratégia de negociação usando nossas sofisticadas ferramentas de gerenciamento de riscos para resultados ótimos.",
       "description": "Assuma o controle e negocie com tranquilidade.",
+      "intro": "Aprimore sua estratégia de negociação usando nossas sofisticadas ferramentas de gerenciamento de riscos para resultados ótimos.",
       "title": "Bem-vindos, Traders"
     }
   }
