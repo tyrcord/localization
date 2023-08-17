@@ -2,31 +2,52 @@
   "onboarding": {
     "notifications": {
       "action": "Permitir notificações",
-      "description": "Mantenha-se informado sobre as últimas atualizações, notícias e informações importantes.",
-      "notes": "Comprometemo-nos a enviar apenas notificações úteis e importantes. Além disso, você tem a opção de modificar suas preferências de notificação a qualquer momento.",
-      "title": "Notificações"
+      "intro": "Mantenha-se informado sobre as últimas atualizações, notícias e informações importantes.",
+      "description": "Comprometemo-nos a enviar apenas notificações úteis e significativas.",
+      "notes": "Você tem a opção de alterar suas preferências de notificação a qualquer momento nas configurações do seu dispositivo.",
+      "title": "Notificações",
+      "granted": {
+        "intro": "Você ativou as notificações.",
+        "description": "Agora você receberá atualizações e notificações de nossa parte.",
+        "notes": "Você pode alterar esta configuração nas configurações do seu dispositivo."
+      },
+      "denied": {
+        "intro": "Você desativou as notificações.",
+        "description": "Sem problemas! Garantimos não perturbar sua paz.",
+        "notes": "Você sempre pode ativar notificações nas configurações do seu dispositivo."
+      }
     },
     "personalized_ads": {
       "action": "Ativar anúncios personalizados",
-      "description": "Ao permitir a personalização dos seus anúncios, você se beneficiará de uma experiência publicitária adaptada aos seus interesses.",
-      "notes": "Respeitamos a sua privacidade e nos dedicamos a usar suas informações exclusivamente para aprimorar sua experiência e apresentar anúncios relevantes.",
-      "title": "Anúncios personalizados"
+      "intro": "Ao permitir anúncios personalizados, você se beneficiará de uma experiência de publicidade adaptada aos seus interesses.",
+      "description": "Respeitamos sua privacidade e nos comprometemos a usar suas informações apenas para melhorar sua experiência e apresentar anúncios relevantes.",
+      "title": "Anúncios Personalizados",
+      "denied": {
+        "intro": "Você desativou os anúncios personalizados.",
+        "description": "Respeitamos sua escolha. Você verá anúncios genéricos em vez disso.",
+        "notes": "Você pode alterar esta configuração nas configurações do seu dispositivo."
+      },
+      "granted": {
+        "intro": "Você ativou os anúncios personalizados.",
+        "description": "Você verá anúncios adaptados aos seus interesses.",
+        "notes": "Você sempre pode ativar o rastreamento nas configurações do seu dispositivo."
+      }
     },
     "restore_premium": {
       "action": "Restaurar compras",
-      "description": "Se você adquiriu anteriormente a versão premium, recomendamos que restaure suas compras para recuperar o acesso a todos os recursos premium.",
+      "intro": "Se você adquiriu anteriormente a versão premium, recomendamos que restaure suas compras para recuperar o acesso a todos os recursos premium.",
       "notes": "Observe que você tem a opção de restaurar suas compras a qualquer momento.",
       "title": "Restaurar recursos premium"
     },
     "user_currency": {
       "action": "Escolha sua moeda",
-      "description": "Selecione a moeda de sua preferência para exibir os preços em sua moeda local.",
+      "intro": "Selecione a moeda de sua preferência para exibir os preços em sua moeda local.",
       "notes": "Observe que você tem a opção de alterar sua moeda a qualquer momento nas configurações.",
       "title": "Moeda"
     },
     "welcome_finance_traders": {
-      "description": "Aprimore sua estratégia de negociação usando nossas sofisticadas ferramentas de gerenciamento de riscos para resultados ótimos.",
-      "notes": "Assuma o controle e negocie com tranquilidade.",
+      "intro": "Aprimore sua estratégia de negociação usando nossas sofisticadas ferramentas de gerenciamento de riscos para resultados ótimos.",
+      "description": "Assuma o controle e negocie com tranquilidade.",
       "title": "Bem-vindos, Traders"
     }
   }
