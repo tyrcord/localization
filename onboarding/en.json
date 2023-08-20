@@ -3,7 +3,7 @@
     "notifications": {
       "action": "Allow notifications",
       "denied": {
-        "description": "No worries! We will ensure not to disturb your peace.",
+        "description": "No worries! We will make sure to respect your tranquility.",
         "intro": "Notifications have been deactivated.",
         "notes": "You can always enable notifications in your device settings."
       },
