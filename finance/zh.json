@@ -240,7 +240,7 @@
         "amount": "止盈金额",
         "at": "止盈于",
         "price": {
-          "after_tax": "税后获取利润",
+          "after_fee": "税后获利",
           "at": "止盈于",
           "text": "止盈",
           "with_slippage": "含滑点的止盈"
