@@ -73,9 +73,23 @@
       "average_annual_return": "Durchschnittliche jährliche Rendite",
       "before": {
         "fee": {
-          "amount": "Betrag vor Steuern",
-          "price": "Preis vor Steuern"
+          "amount": "Betrag vor Gebühren",
+          "price": "Preis vor Gebühren"
+        },
+        "vat": {
+          "amount": "Betrag vor MwSt",
+          "price": "Preis vor MwSt"
         }
+      },
+      "tip": {
+        "amount": "Trinkgeld Betrag",
+        "rate": "Trinkgeldsatz",
+        "text": "Trinkgeld"
+      },
+      "vat": {
+        "amount": "MwSt Betrag",
+        "rate": "MwSt Satz",
+        "text": "MwSt"
       },
       "break_even": {
         "price": "Break-even-Preis",
@@ -93,9 +107,11 @@
       "currency": "Währung",
       "discount": {
         "amount": "Rabattbetrag",
+        "rate": "Rabattsatz",
         "label": "Rabatt",
         "per_unit": "Rabatt pro Einheit"
       },
+      "additional_tax_rate": "Zusätzlicher Steuersatz",
       "duration_years": "Dauer in Jahren",
       "ending": {
         "balance": "Endguthaben",

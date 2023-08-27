@@ -73,9 +73,23 @@
       "average_annual_return": "年均回报",
       "before": {
         "fee": {
-          "amount": "税前金额",
-          "price": "税前价格"
+          "amount": "费用前金额",
+          "price": "费用前价格"
+        },
+        "vat": {
+          "amount": "增值税前金额",
+          "price": "增值税前价格"
         }
+      },
+      "tip": {
+        "amount": "小费金额",
+        "rate": "小费率",
+        "text": "小费"
+      },
+      "vat": {
+        "amount": "增值税金额",
+        "rate": "增值税率",
+        "text": "增值税"
       },
       "break_even": {
         "price": "保本价格",
@@ -93,9 +107,11 @@
       "currency": "货币",
       "discount": {
         "amount": "折扣金额",
+        "rate": "折扣率",
         "label": "折扣",
-        "per_unit": "单位折扣"
+        "per_unit": "每单位折扣"
       },
+      "additional_tax_rate": "额外税率",
       "duration_years": "年份持续时间",
       "ending": {
         "balance": "结余",

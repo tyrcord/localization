@@ -73,9 +73,23 @@
       "average_annual_return": "Average Annual Return",
       "before": {
         "fee": {
-          "amount": "Amount Before Taxes",
-          "price": "Price Before Taxes"
+          "amount": "Amount Before Fees",
+          "price": "Price Before Fees"
+        },
+        "vat": {
+          "amount": "Amount Before VAT",
+          "price": "Price Before VAT"
         }
+      },
+      "tip": {
+        "amount": "Tip Amount",
+        "rate": "Tip Rate",
+        "text": "Tip"
+      },
+      "vat": {
+        "amount": "VAT Amount",
+        "rate": "VAT Rate",
+        "text": "VAT"
       },
       "break_even": {
         "price": "Break-Even Price",
@@ -93,6 +107,7 @@
       "currency": "Currency",
       "discount": {
         "amount": "Discount Amount",
+        "rate": "Discount Rate",
         "label": "Discount",
         "per_unit": "Discount per Unit"
       },
@@ -277,7 +292,8 @@
         "text": "Trend",
         "up": "Up"
       },
-      "user_currency": "User Currency"
+      "user_currency": "User Currency",
+      "additional_tax_rate": "Additional Tax Rate"
     },
     "select": {
       "account_currency": "Select your account currency",

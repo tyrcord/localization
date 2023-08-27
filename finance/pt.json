@@ -73,9 +73,23 @@
       "average_annual_return": "Retorno anual médio",
       "before": {
         "fee": {
-          "amount": "Quantia antes dos impostos",
-          "price": "Preço antes dos impostos"
+          "amount": "Quantidade antes das taxas",
+          "price": "Preço antes das taxas"
+        },
+        "vat": {
+          "amount": "Quantidade antes do IVA",
+          "price": "Preço antes do IVA"
         }
+      },
+      "tip": {
+        "amount": "Quantidade de gorjeta",
+        "rate": "Taxa de gorjeta",
+        "text": "Gorjeta"
+      },
+      "vat": {
+        "amount": "Quantidade de IVA",
+        "rate": "Taxa de IVA",
+        "text": "IVA"
       },
       "break_even": {
         "price": "Preço de equilíbrio",
@@ -92,10 +106,12 @@
       "currencies": "Moedas",
       "currency": "Moeda",
       "discount": {
-        "amount": "Valor do desconto",
+        "amount": "Quantidade de desconto",
+        "rate": "Taxa de desconto",
         "label": "Desconto",
         "per_unit": "Desconto por unidade"
       },
+      "additional_tax_rate": "Taxa de imposto adicional",
       "duration_years": "Duração em anos",
       "ending": {
         "balance": "Saldo final",

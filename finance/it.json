@@ -73,9 +73,23 @@
       "average_annual_return": "Rendimento annuale medio",
       "before": {
         "fee": {
-          "amount": "Importo prima delle tasse",
-          "price": "Prezzo prima delle tasse"
+          "amount": "Importo prima delle commissioni",
+          "price": "Prezzo prima delle commissioni"
+        },
+        "vat": {
+          "amount": "Importo prima dell'IVA",
+          "price": "Prezzo prima dell'IVA"
         }
+      },
+      "tip": {
+        "amount": "Importo della mancia",
+        "rate": "Tasso della mancia",
+        "text": "Mancia"
+      },
+      "vat": {
+        "amount": "Importo dell'IVA",
+        "rate": "Tasso dell'IVA",
+        "text": "IVA"
       },
       "break_even": {
         "price": "Prezzo di pareggio",
@@ -92,10 +106,12 @@
       "currencies": "Valute",
       "currency": "Valuta",
       "discount": {
-        "amount": "Importo sconto",
+        "amount": "Importo dello sconto",
+        "rate": "Tasso di sconto",
         "label": "Sconto",
         "per_unit": "Sconto per unità"
       },
+      "additional_tax_rate": "Tasso di imposta aggiuntivo",
       "duration_years": "Durata in anni",
       "ending": {
         "balance": "Saldo finale",
