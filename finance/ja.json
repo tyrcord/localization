@@ -58,13 +58,13 @@
       },
       "after": {
         "fee": {
-          "amount": "税後の金額",
-          "price": "税後の価格"
+          "amount": "手数料後の金額",
+          "price": "手数料後の価格"
         }
       },
       "amount": {
-        "after_fee": "税後の金額",
-        "before_fee": "税前の金額",
+        "after_fee": "手数料後の金額",
+        "before_fee": "手数料前の金額",
         "fee": "手数料の金額",
         "text": "金額"
       },
@@ -165,8 +165,8 @@
         "buy_price": "純購入価格",
         "income": "純収入",
         "profit": {
-          "after_fee": "税後の純利益",
-          "before_fee": "税前の純利益",
+          "after_fee": "手数料後の純利益",
+          "before_fee": "手数料前の純利益",
           "text": "純利益"
         }
       },
@@ -196,8 +196,8 @@
         "a": "価格A",
         "b": "価格B",
         "per_unit": "ユニットごとの価格",
-        "per_unit_after_fee": "税後の単価",
-        "per_unit_before_fee": "税前の単価",
+        "per_unit_after_fee": "手数料後の単価",
+        "per_unit_before_fee": "手数料前の単価",
         "text": "価格"
       },
       "primary_currency": "主要通貨",

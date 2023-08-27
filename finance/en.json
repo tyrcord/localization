@@ -58,13 +58,13 @@
       },
       "after": {
         "fee": {
-          "amount": "Amount After Taxes",
-          "price": "Price After Taxes"
+          "amount": "Amount After Fees",
+          "price": "Price After Fees"
         }
       },
       "amount": {
-        "after_fee": "Amount After Taxes",
-        "before_fee": "Amount Before Taxes",
+        "after_fee": "Amount After Fees",
+        "before_fee": "Amount Before Fees",
         "fee": "Fee Amount",
         "text": "Amount"
       },
@@ -164,8 +164,8 @@
         "buy_price": "Net Buy Price",
         "income": "Net Income",
         "profit": {
-          "after_fee": "Net Profit After Taxes",
-          "before_fee": "Net Profit Before Taxes",
+          "after_fee": "Net Profit After Fees",
+          "before_fee": "Net Profit Before Fees",
           "text": "Net Profit"
         }
       },
@@ -195,8 +195,8 @@
         "a": "Price A",
         "b": "Price B",
         "per_unit": "Price per Unit",
-        "per_unit_after_fee": "Price per Unit After Taxes",
-        "per_unit_before_fee": "Price per Unit Before Taxes",
+        "per_unit_after_fee": "Price per Unit After Fees",
+        "per_unit_before_fee": "Price per Unit Before Fees",
         "text": "Price"
       },
       "primary_currency": "Primary Currency",
@@ -255,7 +255,7 @@
         "amount": "Take Profit Amount",
         "at": "Take Profit at",
         "price": {
-          "after_fee": "Take Profit After Taxes",
+          "after_fee": "Take Profit After Fees",
           "at": "Take Profit at",
           "text": "Take Profit",
           "with_slippage": "Take Profit with Slippage"
