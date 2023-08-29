@@ -56,7 +56,11 @@
         "currency": "口座の通貨",
         "size": "口座のサイズ"
       },
-      "additional_tax_rate": "追加の税率",
+      "additional_tax": {
+        "amount": "追加税金の額",
+        "rate": "追加税率",
+        "text": "追加税"
+      },
       "after": {
         "fee": {
           "amount": "手数料後の金額",
@@ -81,6 +85,12 @@
           "amount": "VAT前の金額",
           "price": "VAT前の価格"
         }
+      },
+      "bill": {
+        "amount": "請求額",
+        "breakdown": "請求内訳",
+        "rate": "請求率",
+        "text": "請求"
       },
       "break_even": {
         "price": "損益分岐点の価格",
@@ -140,6 +150,7 @@
       "fixed_costs": "固定コスト",
       "gain": "利益",
       "gain_per_trade": "トレードごとの利益",
+      "grand_total": "総計",
       "gross_profit": "総利益",
       "high_price": "最高価格",
       "indices": "インデックス",
@@ -197,6 +208,7 @@
       "profit_and_loss": "利益と損失",
       "profit_or_loss": "利益または損失",
       "purchase_costs_per_unit": "ユニットごとの購入コスト",
+      "rate": "レート",
       "real_time_quotes": "リアルタイムの見積もり",
       "regular_addition": "定期的な追加",
       "required_margin": "必要な証拠金",
@@ -243,6 +255,7 @@
         "text": "ストップロス"
       },
       "stop_loss_take_profit": "ストップロス/利益確定",
+      "subtotal": "小計",
       "support_level": "サポートレベル{level}",
       "take_profit": {
         "amount": "利益確定額",
@@ -272,11 +285,13 @@
           "profit_position": "勝利したポジションの総コスト",
           "text": "総コスト"
         },
-        "fee": "税の総額",
+        "fee": "合計手数料",
         "gain": "総利益",
         "loss": "総損失",
         "return": "総収益",
-        "revenue": "総収入"
+        "revenue": "総収入",
+        "tax": "合計税金",
+        "text": "合計"
       },
       "trade": {
         "size": {

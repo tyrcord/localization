@@ -56,7 +56,11 @@
         "currency": "Valuta del conto",
         "size": "Dimensione conto"
       },
-      "additional_tax_rate": "Tasso di imposta aggiuntivo",
+      "additional_tax": {
+        "amount": "Importo Tassa Aggiuntiva",
+        "rate": "Tasso Tassa Aggiuntiva",
+        "text": "Tassa Aggiuntiva"
+      },
       "after": {
         "fee": {
           "amount": "Importo dopo le commissioni",
@@ -81,6 +85,12 @@
           "amount": "Importo prima dell'IVA",
           "price": "Prezzo prima dell'IVA"
         }
+      },
+      "bill": {
+        "amount": "Importo Fattura",
+        "breakdown": "Dettaglio Fattura",
+        "rate": "Tasso Fattura",
+        "text": "Fattura"
       },
       "break_even": {
         "price": "Prezzo di pareggio",
@@ -140,6 +150,7 @@
       "fixed_costs": "Costi fissi",
       "gain": "Guadagno",
       "gain_per_trade": "Guadagno per operazione",
+      "grand_total": "Totale Generale",
       "gross_profit": "Profitto lordo",
       "high_price": "Prezzo più alto",
       "indices": "Indici",
@@ -197,6 +208,7 @@
       "profit_and_loss": "Profitto e perdita",
       "profit_or_loss": "Profitto o perdita",
       "purchase_costs_per_unit": "Costi di acquisto per unità",
+      "rate": "Tasso",
       "real_time_quotes": "Quotazioni in tempo reale",
       "regular_addition": "Aggiunta regolare",
       "required_margin": "Margine richiesto",
@@ -243,6 +255,7 @@
         "text": "Stop loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
+      "subtotal": "Subtotale",
       "support_level": "Livello di supporto {level}",
       "take_profit": {
         "amount": "Importo del Take Profit",
@@ -272,11 +285,13 @@
           "profit_position": "Costi totali per una posizione vincente",
           "text": "Costi totali"
         },
-        "fee": "Importo totale delle tasse",
+        "fee": "Tariffe Totali",
         "gain": "Guadagno totale",
         "loss": "Perdita totale",
         "return": "Rendimento totale",
-        "revenue": "Ricavo totale"
+        "revenue": "Ricavo totale",
+        "tax": "Tasse Totali",
+        "text": "Totale"
       },
       "trade": {
         "size": {

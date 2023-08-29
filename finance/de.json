@@ -56,7 +56,11 @@
         "currency": "Kontowährung",
         "size": "Kontogröße"
       },
-      "additional_tax_rate": "Zusätzlicher Steuersatz",
+      "additional_tax": {
+        "amount": "Zusätzliche Steuerbetrag",
+        "rate": "Zusätzlicher Steuersatz",
+        "text": "Zusätzliche Steuer"
+      },
       "after": {
         "fee": {
           "amount": "Betrag nach Gebühren",
@@ -81,6 +85,12 @@
           "amount": "Betrag vor MwSt",
           "price": "Preis vor MwSt"
         }
+      },
+      "bill": {
+        "amount": "Rechnungsbetrag",
+        "breakdown": "Rechnungsaufschlüsselung",
+        "rate": "Rechnungssatz",
+        "text": "Rechnung"
       },
       "break_even": {
         "price": "Break-even-Preis",
@@ -140,6 +150,7 @@
       "fixed_costs": "Fixkosten",
       "gain": "Gewinn",
       "gain_per_trade": "Gewinn pro Trade",
+      "grand_total": "Gesamtsumme",
       "gross_profit": "Bruttogewinn",
       "high_price": "Höchstpreis",
       "indices": "Indizes",
@@ -197,6 +208,7 @@
       "profit_and_loss": "Gewinn und Verlust",
       "profit_or_loss": "Gewinn oder Verlust",
       "purchase_costs_per_unit": "Kaufkosten pro Einheit",
+      "rate": "Satz",
       "real_time_quotes": "Echtzeitkurse",
       "regular_addition": "Regelmäßige Hinzufügung",
       "required_margin": "Erforderliche Marge",
@@ -243,6 +255,7 @@
         "text": "Stop-Loss"
       },
       "stop_loss_take_profit": "Stop-Loss/Take-Profit",
+      "subtotal": "Zwischensumme",
       "support_level": "Unterstützung {level}",
       "take_profit": {
         "amount": "Take Profit Betrag",
@@ -272,11 +285,13 @@
           "profit_position": "Gesamtkosten für eine Gewinnposition",
           "text": "Gesamtkosten"
         },
-        "fee": "Gesamte Steuerbetrag",
+        "fee": "Gesamtgebühren",
         "gain": "Gesamtgewinn",
         "loss": "Gesamtverlust",
         "return": "Gesamtrendite",
-        "revenue": "Gesamteinnahmen"
+        "revenue": "Gesamteinnahmen",
+        "tax": "Gesamtsteuern",
+        "text": "Gesamt"
       },
       "trade": {
         "size": {

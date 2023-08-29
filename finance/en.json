@@ -56,7 +56,11 @@
         "currency": "Account Currency",
         "size": "Account Size"
       },
-      "additional_tax_rate": "Additional Tax Rate",
+      "additional_tax": {
+        "amount": "Additional Tax Amount",
+        "rate": "Additional Tax Rate",
+        "text": "Additional Tax"
+      },
       "after": {
         "fee": {
           "amount": "Amount After Fees",
@@ -81,6 +85,12 @@
           "amount": "Amount Before VAT",
           "price": "Price Before VAT"
         }
+      },
+      "bill": {
+        "amount": "Bill Amount",
+        "breakdown": "Bill Breakdown",
+        "rate": "Bill Rate",
+        "text": "Bill"
       },
       "break_even": {
         "price": "Break-Even Price",
@@ -140,6 +150,7 @@
       "fixed_costs": "Fixed Costs",
       "gain": "Gain",
       "gain_per_trade": "Gain per Trade",
+      "grand_total": "Grand Total",
       "gross_profit": "Gross Profit",
       "high_price": "High Price",
       "indices": "Indices",
@@ -197,6 +208,7 @@
       "profit_and_loss": "Profit and Loss",
       "profit_or_loss": "Profit or Loss",
       "purchase_costs_per_unit": "Purchase Costs per Unit",
+      "rate": "Rate",
       "real_time_quotes": "Real-Time Quotes",
       "regular_addition": "Regular Addition",
       "required_margin": "Required Margin",
@@ -243,6 +255,7 @@
         "text": "Stop Loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
+      "subtotal": "Subtotal",
       "support_level": "Support {level}",
       "take_profit": {
         "amount": "Take Profit Amount",
@@ -272,11 +285,13 @@
           "profit_position": "Total costs for a winning position",
           "text": "Total Costs"
         },
-        "fee": "Total Tax Amount",
+        "fee": "Total Fees",
         "gain": "Total Gain",
         "loss": "Total Loss",
         "return": "Total Return",
-        "revenue": "Total Revenue"
+        "revenue": "Total Revenue",
+        "tax": "Total Taxes",
+        "text": "Total"
       },
       "trade": {
         "size": {

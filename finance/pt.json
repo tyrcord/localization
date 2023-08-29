@@ -56,7 +56,11 @@
         "currency": "Moeda da conta",
         "size": "Tamanho da conta"
       },
-      "additional_tax_rate": "Taxa de imposto adicional",
+      "additional_tax": {
+        "amount": "Montante de Imposto Adicional",
+        "rate": "Taxa de Imposto Adicional",
+        "text": "Imposto Adicional"
+      },
       "after": {
         "fee": {
           "amount": "Quantidade após taxas",
@@ -81,6 +85,12 @@
           "amount": "Quantidade antes do IVA",
           "price": "Preço antes do IVA"
         }
+      },
+      "bill": {
+        "amount": "Montante da Fatura",
+        "breakdown": "Detalhe da Fatura",
+        "rate": "Taxa da Fatura",
+        "text": "Fatura"
       },
       "break_even": {
         "price": "Preço de equilíbrio",
@@ -140,6 +150,7 @@
       "fixed_costs": "Custos fixos",
       "gain": "Ganho",
       "gain_per_trade": "Ganho por operação",
+      "grand_total": "Total Geral",
       "gross_profit": "Lucro bruto",
       "high_price": "Preço mais alto",
       "indices": "Índices",
@@ -197,6 +208,7 @@
       "profit_and_loss": "Lucro e Perda",
       "profit_or_loss": "Lucro ou Perda",
       "purchase_costs_per_unit": "Custos de compra por unidade",
+      "rate": "Taxa",
       "real_time_quotes": "Cotações em tempo real",
       "regular_addition": "Adição regular",
       "required_margin": "Margem exigida",
@@ -243,6 +255,7 @@
         "text": "Stop Loss"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
+      "subtotal": "Subtotal",
       "support_level": "Nível de suporte {level}",
       "take_profit": {
         "amount": "Valor de Take Profit",
@@ -272,11 +285,13 @@
           "profit_position": "Custos totais para uma posição vencedora",
           "text": "Custos Totais"
         },
-        "fee": "Montante total de impostos",
+        "fee": "Taxas Totais",
         "gain": "Ganho total",
         "loss": "Perda total",
         "return": "Retorno total",
-        "revenue": "Receita total"
+        "revenue": "Receita total",
+        "tax": "Impostos Totais",
+        "text": "Total"
       },
       "trade": {
         "size": {

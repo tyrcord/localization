@@ -56,7 +56,11 @@
         "currency": "账户货币",
         "size": "账户规模"
       },
-      "additional_tax_rate": "额外税率",
+      "additional_tax": {
+        "amount": "额外税款金额",
+        "rate": "额外税率",
+        "text": "额外税款"
+      },
       "after": {
         "fee": {
           "amount": "扣除费用后的金额",
@@ -81,6 +85,12 @@
           "amount": "增值税前金额",
           "price": "增值税前价格"
         }
+      },
+      "bill": {
+        "amount": "账单金额",
+        "breakdown": "账单明细",
+        "rate": "账单税率",
+        "text": "账单"
       },
       "break_even": {
         "price": "保本价格",
@@ -140,6 +150,7 @@
       "fixed_costs": "固定成本",
       "gain": "盈利",
       "gain_per_trade": "每笔交易盈利",
+      "grand_total": "总计",
       "gross_profit": "毛利",
       "high_price": "最高价",
       "indices": "指数",
@@ -197,6 +208,7 @@
       "profit_and_loss": "利润和损失",
       "profit_or_loss": "利润或损失",
       "purchase_costs_per_unit": "购买成本每单位",
+      "rate": "税率",
       "real_time_quotes": "实时行情",
       "regular_addition": "定期增加",
       "required_margin": "所需保证金",
@@ -243,6 +255,7 @@
         "text": "止损"
       },
       "stop_loss_take_profit": "止损/获利",
+      "subtotal": "小计",
       "support_level": "支撑位 {level}",
       "take_profit": {
         "amount": "止盈金额",
@@ -272,11 +285,13 @@
           "profit_position": "盈利头寸的总成本",
           "text": "总成本"
         },
-        "fee": "税款总额",
+        "fee": "总费用",
         "gain": "总盈利",
         "loss": "总亏损",
         "return": "总回报",
-        "revenue": "总收入"
+        "revenue": "总收入",
+        "tax": "总税款",
+        "text": "总计"
       },
       "trade": {
         "size": {
