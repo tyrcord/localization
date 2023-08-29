@@ -48,6 +48,34 @@
       "stop_loss_price": {
         "example": "Se hai acquistato un'azione a 50 € e hai scelto di proteggere la tua posizione con un ordine di stop-loss a 45 €, inserisci 45 come valore.",
         "text": "Indica il prezzo al quale imposterai il tuo ordine di stop-loss per limitare le potenziali perdite."
+      },
+      "price_before_vat": {
+        "example": "Se un prodotto costa $10 prima delle tasse e è soggetto ad un'aliquota IVA del 20%, inserisci 10 come valore pre-tassa.",
+        "text": "Si riferisce al prezzo di un prodotto o servizio prima dell'aggiunta dell'imposta sul valore aggiunto (IVA). L'IVA è una tassa sul consumo imposta quando i prodotti e i servizi vengono venduti in molti paesi."
+      },
+      "vat_rate": {
+        "example": "Se il prezzo pre-tassa di un prodotto è $10 e l'aliquota IVA applicata è del 20%, inserisci 20 come valore dell'aliquota.",
+        "text": "Si riferisce alla percentuale dell'imposta sul valore aggiunto (IVA) applicata a un prodotto o servizio."
+      },
+      "discount_amount": {
+        "example": "Se un prodotto è originariamente venduto per $100 e hai diritto a uno sconto di $20, inserisci 20 come importo.",
+        "text": "Rappresenta la riduzione del valore monetario che viene sottratta dal prezzo iniziale di un prodotto o servizio."
+      },
+      "discount_rate": {
+        "example": "Se il prezzo iniziale di un prodotto è $100 e viene offerto uno sconto del 20%, indica 20 come valore.",
+        "text": "Rappresenta la percentuale di riduzione applicata al prezzo iniziale di un prodotto o servizio."
+      },
+      "additional_tax_rate": {
+        "example": "Se un prodotto è soggetto ad un'IVA del 20% e viene aggiunta una tassa specifica o locale aggiuntiva del 2%, inserisci 2 come valore.",
+        "text": "Si riferisce a una tassa aggiuntiva che viene applicata oltre all'IVA."
+      },
+      "tip_rate": {
+        "example": "Se il tuo conto è di $50 e desideri lasciare una mancia del 15%, dovresti inserire 15 come valore.",
+        "text": "È una percentuale dell'importo totale del conto, aggiunta come mancia, per mostrare apprezzamento per un servizio di qualità."
+      },
+      "tip_amount": {
+        "example": "Se il tuo conto è di $20 e desideri lasciare una mancia di $5, dovresti inserire 5 come importo.",
+        "text": "Rappresenta un importo aggiuntivo di denaro, aggiunto a un conto come mancia, per mostrare apprezzamento per un servizio di qualità."
       }
     },
     "label": {

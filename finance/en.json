@@ -48,6 +48,34 @@
       "stop_loss_price": {
         "example": "If you purchased a stock at $50 and chose to secure your position with a stop-loss order at $45, please enter 45 as the value.",
         "text": "Indicate the price at which you will set your stop-loss order to limit potential losses."
+      },
+      "price_before_vat": {
+        "example": "If a product costs $10 before taxes and is subject to a VAT rate of 20%, enter 10 as the pre-tax value.",
+        "text": "Refers to the price of a product or service before the addition of the value-added tax (VAT). VAT is a tax on consumption imposed when products and services are sold in many countries."
+      },
+      "vat_rate": {
+        "example": "If the pre-tax price of a product is $10 and the applied VAT rate is 20%, please enter 20 as the rate value.",
+        "text": "Refers to the percentage of the value-added tax (VAT) applied to a product or service."
+      },
+      "discount_amount": {
+        "example": "If a product is originally sold for $100, and you are entitled to a $20 discount, please enter 20 as the amount.",
+        "text": "Represents the reduction in monetary value that is subtracted from the initial price of a product or service."
+      },
+      "discount_rate": {
+        "example": "If the starting price of a product is $100 and a 20% discount is offered, please indicate 20 as the value.",
+        "text": "Represents the percentage reduction applied to the initial rate of a product or service."
+      },
+      "additional_tax_rate": {
+        "example": "If a product is subject to a 20% VAT and an additional specific or local tax of 2% is added, enter 2 as the value.",
+        "text": "Refers to an additional tax that is applied on top of the VAT."
+      },
+      "tip_rate": {
+        "example": "If your bill is $50 and you wish to leave a 15% tip, you should enter 15 as the value.",
+        "text": "It's a percentage of the total bill amount, added as a tip, to show appreciation for a quality service."
+      },
+      "tip_amount": {
+        "example": "If your bill is $20 and you wish to leave a $5 tip, you should enter 5 as the amount.",
+        "text": "Represents an additional amount of money, added to a bill as a tip, to show appreciation for a quality service."
       }
     },
     "label": {
