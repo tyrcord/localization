@@ -57,9 +57,9 @@
         "size": "Kontogröße"
       },
       "additional_tax": {
-        "amount": "Zusätzliche Steuerbetrag",
+        "amount": "Zusätzlicher Steuerbetrag",
         "rate": "Zusätzlicher Steuersatz",
-        "text": "Zusätzliche Steuer"
+        "text": "Zusätzliche Steuern"
       },
       "after": {
         "fee": {

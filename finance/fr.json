@@ -57,9 +57,9 @@
         "size": "Taille du compte"
       },
       "additional_tax": {
-        "amount": "Montant d'imposition supplémentaire",
-        "rate": "Taux d'imposition supplémentaire",
-        "text": "Taxe supplémentaire"
+        "amount": "Montant d'imposition additionnel",
+        "rate": "Taux d'imposition additionnel",
+        "text": "Impôts additionnels"
       },
       "after": {
         "fee": {

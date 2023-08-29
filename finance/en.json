@@ -59,7 +59,7 @@
       "additional_tax": {
         "amount": "Additional Tax Amount",
         "rate": "Additional Tax Rate",
-        "text": "Additional Tax"
+        "text": "Additional Taxes"
       },
       "after": {
         "fee": {

@@ -57,9 +57,9 @@
         "size": "账户规模"
       },
       "additional_tax": {
-        "amount": "额外税款金额",
+        "amount": "额外税额",
         "rate": "额外税率",
-        "text": "额外税款"
+        "text": "额外税"
       },
       "after": {
         "fee": {

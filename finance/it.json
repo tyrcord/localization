@@ -57,9 +57,9 @@
         "size": "Dimensione conto"
       },
       "additional_tax": {
-        "amount": "Importo Tassa Aggiuntiva",
-        "rate": "Tasso Tassa Aggiuntiva",
-        "text": "Tassa Aggiuntiva"
+        "amount": "Importo di tasse aggiuntive",
+        "rate": "Aliquota di tasse aggiuntive",
+        "text": "Tasse aggiuntive"
       },
       "after": {
         "fee": {

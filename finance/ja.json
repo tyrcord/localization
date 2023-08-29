@@ -57,7 +57,7 @@
         "size": "口座のサイズ"
       },
       "additional_tax": {
-        "amount": "追加税金の額",
+        "amount": "追加税額",
         "rate": "追加税率",
         "text": "追加税"
       },
