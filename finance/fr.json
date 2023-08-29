@@ -17,9 +17,21 @@
         "example": "Si vous avez 50 000 $ alloués au trading, veuillez saisir 50 000 comme montant.",
         "text": "Indiquez la valeur actuelle de votre capital disponible."
       },
+      "additional_tax_rate": {
+        "example": "Si un produit subit une TVA de 20 % et qu'un impôt local ou spécifique supplémentaire de 2 % s'y ajoute, inscrivez 2 comme valeur.",
+        "text": "Fait référence à une taxe supplémentaire qui est appliquée en plus de la TVA."
+      },
       "amount_at_risk": {
         "example": "Si votre capital s'élève à 50 000 $ et que vous envisagez de mettre en jeu 1 000 $, veuillez entrer 1 000 comme montant.",
         "text": "Précisez le montant que vous souhaitez risquer pour cette transaction, en l'exprimant en valeur monétaire relative à votre capital."
+      },
+      "discount_amount": {
+        "example": "Si un produit est initialement vendu 100 $, et que vous avez droit à une réduction de 20 $, veuillez entrer 20 en tant que montant.",
+        "text": "Représente la réduction en valeur monétaire qui est soustraite au prix initial d'un produit ou d'un service."
+      },
+      "discount_rate": {
+        "example": "Si le prix de départ d'un produit est de 100 $ et qu'une réduction de 20 % est offerte, veuillez indiquer 20 comme valeur.",
+        "text": "Représente le pourcentage de réduction appliqué au tarif initial d'un produit ou d'un service."
       },
       "entry_fees": {
         "example": "Si votre courtier facture 0,1% de la valeur totale de la position à l'ouverture, veuillez saisir 0,1 comme valeur.",
@@ -32,6 +44,10 @@
       "exit_fees": {
         "example": "Si votre courtier facture 0,1% de la valeur totale de la position à la clôture, veuillez saisir 0,1 comme valeur.",
         "text": "Indiquez le pourcentage de frais facturés par votre courtier lors de la clôture d'une position."
+      },
+      "price_before_vat": {
+        "example": "Si un produit coûte 10 $ avant taxes et qu'il est soumis à un taux de TVA de 20 %, inscrivez 10 comme valeur hors taxe",
+        "text": "Désigne le prix d'un produit ou service avant l'ajout de la taxe sur la valeur ajoutée (TVA). La TVA est une taxe sur la consommation imposée lors de la vente de produits et services dans de nombreux pays."
       },
       "risk": {
         "example": "Si vous êtes prêt à risquer 1 000 $, soit 2% de votre capital de 50 000 $, veuillez entrer 2 comme valeur.",
@@ -49,33 +65,17 @@
         "example": "Si vous avez acquis une action à 50 $ et choisi de sécuriser votre position avec un ordre de stop-loss à 45 $, veuillez saisir 45 comme valeur.",
         "text": "Indique le prix auquel vous établirez votre ordre de stop-loss afin de limiter les pertes potentielles."
       },
-      "price_before_vat": {
-        "example": "Si un produit coûte 10 $ avant taxes et qu'il est soumis à un taux de TVA de 20 %, inscrivez 10 comme valeur hors taxe",
-        "text": "Désigne le prix d'un produit ou service avant l'ajout de la taxe sur la valeur ajoutée (TVA). La TVA est une taxe sur la consommation imposée lors de la vente de produits et services dans de nombreux pays."
-      },
-      "vat_rate": {
-        "example": "Si le prix hors taxe d'un produit est de 10 $ et que le taux de TVA appliqué est de 20 %, veuillez inscrire 20 comme valeur du taux.",
-        "text": "Désigne le pourcentage de la taxe sur la valeur ajoutée (TVA) appliqué à un produit ou à un service."
-      },
-      "discount_amount": {
-        "example": "Si un produit est initialement vendu 100 $, et que vous avez droit à une réduction de 20 $, veuillez entrer 20 en tant que montant.",
-        "text": "Représente la réduction en valeur monétaire qui est soustraite au prix initial d'un produit ou d'un service."
-      },
-      "discount_rate": {
-        "example": "Si le prix de départ d'un produit est de 100 $ et qu'une réduction de 20 % est offerte, veuillez indiquer 20 comme valeur.",
-        "text": "Représente le pourcentage de réduction appliqué au tarif initial d'un produit ou d'un service."
-      },
-      "additional_tax_rate": {
-        "example": "Si un produit subit une TVA de 20 % et qu'un impôt local ou spécifique supplémentaire de 2 % s'y ajoute, inscrivez 2 comme valeur.",
-        "text": "Fait référence à une taxe supplémentaire qui est appliquée en plus de la TVA."
+      "tip_amount": {
+        "example": "Si votre facture est de 20 $ et que vous souhaitez laisser un pourboire de 5 $, vous devriez saisir 5 comme montant.",
+        "text": "Représente un montant supplémentaire d'argent ajouté à une facture en guise de pourboire pour témoigner de sa reconnaissance envers un service de qualité."
       },
       "tip_rate": {
         "example": "Si votre facture est de 50 $ et que vous souhaitez donner un pourboire de 15 %, vous devriez saisir 15 comme valeur.",
         "text": "Il s'agit d'un pourcentage du montant intégral de la facture, ajouté comme pourboire, pour témoigner de sa reconnaissance envers un service de qualité."
       },
-      "tip_amount": {
-        "example": "Si votre facture est de 20 $ et que vous souhaitez laisser un pourboire de 5 $, vous devriez saisir 5 comme montant.",
-        "text": "Représente un montant supplémentaire d'argent ajouté à une facture en guise de pourboire pour témoigner de sa reconnaissance envers un service de qualité."
+      "vat_rate": {
+        "example": "Si le prix hors taxe d'un produit est de 10 $ et que le taux de TVA appliqué est de 20 %, veuillez inscrire 20 comme valeur du taux.",
+        "text": "Désigne le pourcentage de la taxe sur la valeur ajoutée (TVA) appliqué à un produit ou à un service."
       }
     },
     "label": {
