@@ -56,6 +56,7 @@
         "currency": "Valuta del conto",
         "size": "Dimensione conto"
       },
+      "additional_tax_rate": "Tasso di imposta aggiuntivo",
       "after": {
         "fee": {
           "amount": "Importo dopo le commissioni",
@@ -81,16 +82,6 @@
           "price": "Prezzo prima dell'IVA"
         }
       },
-      "tip": {
-        "amount": "Importo della mancia",
-        "rate": "Tasso della mancia",
-        "text": "Mancia"
-      },
-      "vat": {
-        "amount": "Importo dell'IVA",
-        "rate": "Tasso dell'IVA",
-        "text": "IVA"
-      },
       "break_even": {
         "price": "Prezzo di pareggio",
         "units": "Unità di pareggio"
@@ -107,11 +98,10 @@
       "currency": "Valuta",
       "discount": {
         "amount": "Importo dello sconto",
-        "rate": "Tasso di sconto",
         "label": "Sconto",
-        "per_unit": "Sconto per unità"
+        "per_unit": "Sconto per unità",
+        "rate": "Tasso di sconto"
       },
-      "additional_tax_rate": "Tasso di imposta aggiuntivo",
       "duration_years": "Durata in anni",
       "ending": {
         "balance": "Saldo finale",
@@ -195,6 +185,8 @@
       "price": {
         "a": "Prezzo A",
         "b": "Prezzo B",
+        "base": "Prezzo di base",
+        "breakdown": "Scomposizione del prezzo",
         "per_unit": "Prezzo per unità",
         "per_unit_after_fee": "Prezzo per unità dopo le commissioni",
         "per_unit_before_fee": "Prezzo per unità prima delle commissioni",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "Importo esentasse annuo",
         "rate": "Aliquota fiscale"
       },
+      "taxes": "Tasse",
+      "tip": {
+        "amount": "Importo della mancia",
+        "rate": "Tasso della mancia",
+        "text": "Mancia"
+      },
       "total": {
         "costs": {
           "losing_position": "Costi totali per una posizione perdente",
           "profit_position": "Costi totali per una posizione vincente",
           "text": "Costi totali"
         },
+        "fee": "Importo totale delle tasse",
         "gain": "Guadagno totale",
         "loss": "Perdita totale",
         "return": "Rendimento totale",
-        "revenue": "Ricavo totale",
-        "fee": "Importo totale delle tasse"
+        "revenue": "Ricavo totale"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "Tendenza",
         "up": "Positivo"
       },
-      "user_currency": "Valuta utente"
+      "user_currency": "Valuta utente",
+      "vat": {
+        "amount": "Importo dell'IVA",
+        "rate": "Tasso dell'IVA",
+        "text": "IVA"
+      }
     },
     "select": {
       "account_currency": "Seleziona la valuta del tuo conto",

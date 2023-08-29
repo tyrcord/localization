@@ -56,6 +56,7 @@
         "currency": "Devise du compte",
         "size": "Taille du compte"
       },
+      "additional_tax_rate": "Taux d'imposition supplémentaire",
       "after": {
         "fee": {
           "amount": "Montant après frais",
@@ -81,17 +82,6 @@
           "price": "Prix avant TVA"
         }
       },
-      "tip": {
-        "amount": "Montant du pourboire",
-        "rate": "Taux du pourboire",
-        "text": "Pourboire"
-      },
-      "vat": {
-        "amount": "Montant de la TVA",
-        "rate": "Taux de TVA",
-        "text": "TVA"
-      },
-      "additional_tax_rate": "Taux d'imposition supplémentaire",
       "break_even": {
         "price": "Prix de rentabilité",
         "units": "Unités de rentabilité"
@@ -108,9 +98,9 @@
       "currency": "Devise",
       "discount": {
         "amount": "Montant de la remise",
-        "rate": "Taux de remise",
         "label": "Remise",
-        "per_unit": "Remise par unité"
+        "per_unit": "Remise par unité",
+        "rate": "Taux de remise"
       },
       "duration_years": "Durée en années",
       "ending": {
@@ -195,6 +185,8 @@
       "price": {
         "a": "Prix A",
         "b": "Prix B",
+        "base": "Prix de base",
+        "breakdown": "Détail du prix",
         "per_unit": "Prix par unité",
         "per_unit_after_fee": "Prix par unité après frais",
         "per_unit_before_fee": "Prix par unité avant frais",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "Montant exonéré d'impôt par an",
         "rate": "Taux d'imposition"
       },
+      "taxes": "Impôts",
+      "tip": {
+        "amount": "Montant du pourboire",
+        "rate": "Taux du pourboire",
+        "text": "Pourboire"
+      },
       "total": {
         "costs": {
           "losing_position": "Coûts totaux pour une position perdante",
           "profit_position": "Coûts totaux pour une position gagnante",
           "text": "Coûts totaux"
         },
+        "fee": "Montant total des frais",
         "gain": "Gain total",
         "loss": "Perte totale",
         "return": "Rendement total",
-        "revenue": "Revenu total",
-        "fee": "Montant total des frais"
+        "revenue": "Revenu total"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "Tendance",
         "up": "Haussière"
       },
-      "user_currency": "Devise de l'utilisateur"
+      "user_currency": "Devise de l'utilisateur",
+      "vat": {
+        "amount": "Montant de la TVA",
+        "rate": "Taux de TVA",
+        "text": "TVA"
+      }
     },
     "select": {
       "account_currency": "Sélectionnez la devise de votre compte",

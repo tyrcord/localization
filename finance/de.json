@@ -56,6 +56,7 @@
         "currency": "Kontowährung",
         "size": "Kontogröße"
       },
+      "additional_tax_rate": "Zusätzlicher Steuersatz",
       "after": {
         "fee": {
           "amount": "Betrag nach Gebühren",
@@ -81,16 +82,6 @@
           "price": "Preis vor MwSt"
         }
       },
-      "tip": {
-        "amount": "Trinkgeld Betrag",
-        "rate": "Trinkgeldsatz",
-        "text": "Trinkgeld"
-      },
-      "vat": {
-        "amount": "MwSt Betrag",
-        "rate": "MwSt Satz",
-        "text": "MwSt"
-      },
       "break_even": {
         "price": "Break-even-Preis",
         "units": "Break-even-Einheiten"
@@ -107,11 +98,10 @@
       "currency": "Währung",
       "discount": {
         "amount": "Rabattbetrag",
-        "rate": "Rabattsatz",
         "label": "Rabatt",
-        "per_unit": "Rabatt pro Einheit"
+        "per_unit": "Rabatt pro Einheit",
+        "rate": "Rabattsatz"
       },
-      "additional_tax_rate": "Zusätzlicher Steuersatz",
       "duration_years": "Dauer in Jahren",
       "ending": {
         "balance": "Endguthaben",
@@ -195,6 +185,8 @@
       "price": {
         "a": "Preis A",
         "b": "Preis B",
+        "base": "Grundpreis",
+        "breakdown": "Preisaufschlüsselung",
         "per_unit": "Preis pro Einheit",
         "per_unit_after_fee": "Preis pro Einheit nach Gebühren",
         "per_unit_before_fee": "Preis pro Einheit vor Gebühren",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "Steuerfreibetrag pro Jahr",
         "rate": "Steuersatz"
       },
+      "taxes": "Steuern",
+      "tip": {
+        "amount": "Trinkgeld Betrag",
+        "rate": "Trinkgeldsatz",
+        "text": "Trinkgeld"
+      },
       "total": {
         "costs": {
           "losing_position": "Gesamtkosten für eine Verlustposition",
           "profit_position": "Gesamtkosten für eine Gewinnposition",
           "text": "Gesamtkosten"
         },
+        "fee": "Gesamte Steuerbetrag",
         "gain": "Gesamtgewinn",
         "loss": "Gesamtverlust",
         "return": "Gesamtrendite",
-        "revenue": "Gesamteinnahmen",
-        "fee": "Gesamte Steuerbetrag"
+        "revenue": "Gesamteinnahmen"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "Trend",
         "up": "Aufwärts"
       },
-      "user_currency": "Benutzerwährung"
+      "user_currency": "Benutzerwährung",
+      "vat": {
+        "amount": "MwSt Betrag",
+        "rate": "MwSt Satz",
+        "text": "MwSt"
+      }
     },
     "select": {
       "account_currency": "Wählen Sie Ihre Kontowährung",

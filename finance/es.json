@@ -56,6 +56,7 @@
         "currency": "Moneda de la cuenta",
         "size": "Tamaño de la cuenta"
       },
+      "additional_tax_rate": "Tasa de impuesto adicional",
       "after": {
         "fee": {
           "amount": "Cantidad después de comisiones",
@@ -81,16 +82,6 @@
           "price": "Precio antes de IVA"
         }
       },
-      "tip": {
-        "amount": "Cantidad de propina",
-        "rate": "Tasa de propina",
-        "text": "Propina"
-      },
-      "vat": {
-        "amount": "Cantidad de IVA",
-        "rate": "Tasa de IVA",
-        "text": "IVA"
-      },
       "break_even": {
         "price": "Precio de equilibrio",
         "units": "Unidades de equilibrio"
@@ -107,11 +98,10 @@
       "currency": "Moneda",
       "discount": {
         "amount": "Cantidad de descuento",
-        "rate": "Tasa de descuento",
         "label": "Descuento",
-        "per_unit": "Descuento por unidad"
+        "per_unit": "Descuento por unidad",
+        "rate": "Tasa de descuento"
       },
-      "additional_tax_rate": "Tasa de impuesto adicional",
       "duration_years": "Duración en años",
       "ending": {
         "balance": "Saldo final",
@@ -195,6 +185,8 @@
       "price": {
         "a": "Precio A",
         "b": "Precio B",
+        "base": "Precio base",
+        "breakdown": "Desglose del precio",
         "per_unit": "Precio por unidad",
         "per_unit_after_fee": "Precio por unidad después de comisiones",
         "per_unit_before_fee": "Precio por unidad antes de comisiones",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "Monto exento de impuestos por año",
         "rate": "Tasa de impuestos"
       },
+      "taxes": "Impuestos",
+      "tip": {
+        "amount": "Cantidad de propina",
+        "rate": "Tasa de propina",
+        "text": "Propina"
+      },
       "total": {
         "costs": {
           "losing_position": "Costos totales para una posición perdedora",
           "profit_position": "Costos totales para una posición ganadora",
           "text": "Costos totales"
         },
+        "fee": "Monto total de impuestos",
         "gain": "Ganancia total",
         "loss": "Pérdida total",
         "return": "Retorno total",
-        "revenue": "Ingresos totales",
-        "fee": "Monto total de impuestos"
+        "revenue": "Ingresos totales"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "Tendencia",
         "up": "Alza"
       },
-      "user_currency": "Moneda del usuario"
+      "user_currency": "Moneda del usuario",
+      "vat": {
+        "amount": "Cantidad de IVA",
+        "rate": "Tasa de IVA",
+        "text": "IVA"
+      }
     },
     "select": {
       "account_currency": "Seleccione la moneda de su cuenta",

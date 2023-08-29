@@ -56,6 +56,7 @@
         "currency": "Account Currency",
         "size": "Account Size"
       },
+      "additional_tax_rate": "Additional Tax Rate",
       "after": {
         "fee": {
           "amount": "Amount After Fees",
@@ -81,16 +82,6 @@
           "price": "Price Before VAT"
         }
       },
-      "tip": {
-        "amount": "Tip Amount",
-        "rate": "Tip Rate",
-        "text": "Tip"
-      },
-      "vat": {
-        "amount": "VAT Amount",
-        "rate": "VAT Rate",
-        "text": "VAT"
-      },
       "break_even": {
         "price": "Break-Even Price",
         "units": "Break-Even Units"
@@ -107,9 +98,9 @@
       "currency": "Currency",
       "discount": {
         "amount": "Discount Amount",
-        "rate": "Discount Rate",
         "label": "Discount",
-        "per_unit": "Discount per Unit"
+        "per_unit": "Discount per Unit",
+        "rate": "Discount Rate"
       },
       "duration_years": "Duration in years",
       "ending": {
@@ -194,6 +185,8 @@
       "price": {
         "a": "Price A",
         "b": "Price B",
+        "base": "Base Price",
+        "breakdown": "Price Breakdown",
         "per_unit": "Price per Unit",
         "per_unit_after_fee": "Price per Unit After Fees",
         "per_unit_before_fee": "Price per Unit Before Fees",
@@ -267,17 +260,23 @@
         "exempt_amount_per_year": "Tax-exempt Amount Per Year",
         "rate": "Tax Rate"
       },
+      "taxes": "Taxes",
+      "tip": {
+        "amount": "Tip Amount",
+        "rate": "Tip Rate",
+        "text": "Tip"
+      },
       "total": {
         "costs": {
           "losing_position": "Total costs for a losing position",
           "profit_position": "Total costs for a winning position",
           "text": "Total Costs"
         },
+        "fee": "Total Tax Amount",
         "gain": "Total Gain",
         "loss": "Total Loss",
         "return": "Total Return",
-        "revenue": "Total Revenue",
-        "fee": "Total Tax Amount"
+        "revenue": "Total Revenue"
       },
       "trade": {
         "size": {
@@ -293,7 +292,11 @@
         "up": "Up"
       },
       "user_currency": "User Currency",
-      "additional_tax_rate": "Additional Tax Rate"
+      "vat": {
+        "amount": "VAT Amount",
+        "rate": "VAT Rate",
+        "text": "VAT"
+      }
     },
     "select": {
       "account_currency": "Select your account currency",

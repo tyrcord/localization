@@ -56,6 +56,7 @@
         "currency": "账户货币",
         "size": "账户规模"
       },
+      "additional_tax_rate": "额外税率",
       "after": {
         "fee": {
           "amount": "扣除费用后的金额",
@@ -81,16 +82,6 @@
           "price": "增值税前价格"
         }
       },
-      "tip": {
-        "amount": "小费金额",
-        "rate": "小费率",
-        "text": "小费"
-      },
-      "vat": {
-        "amount": "增值税金额",
-        "rate": "增值税率",
-        "text": "增值税"
-      },
       "break_even": {
         "price": "保本价格",
         "units": "保本单位"
@@ -107,11 +98,10 @@
       "currency": "货币",
       "discount": {
         "amount": "折扣金额",
-        "rate": "折扣率",
         "label": "折扣",
-        "per_unit": "每单位折扣"
+        "per_unit": "每单位折扣",
+        "rate": "折扣率"
       },
-      "additional_tax_rate": "额外税率",
       "duration_years": "年份持续时间",
       "ending": {
         "balance": "结余",
@@ -195,6 +185,8 @@
       "price": {
         "a": "价格A",
         "b": "价格B",
+        "base": "基本价格",
+        "breakdown": "价格细分",
         "per_unit": "单价",
         "per_unit_after_fee": "扣除费用后的单价",
         "per_unit_before_fee": "扣费前的单价",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "免税金额每年",
         "rate": "税率"
       },
+      "taxes": "税",
+      "tip": {
+        "amount": "小费金额",
+        "rate": "小费率",
+        "text": "小费"
+      },
       "total": {
         "costs": {
           "losing_position": "亏损头寸的总成本",
           "profit_position": "盈利头寸的总成本",
           "text": "总成本"
         },
+        "fee": "税款总额",
         "gain": "总盈利",
         "loss": "总亏损",
         "return": "总回报",
-        "revenue": "总收入",
-        "fee": "税款总额"
+        "revenue": "总收入"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "趋势",
         "up": "上升趋势"
       },
-      "user_currency": "用户货币"
+      "user_currency": "用户货币",
+      "vat": {
+        "amount": "增值税金额",
+        "rate": "增值税率",
+        "text": "增值税"
+      }
     },
     "select": {
       "account_currency": "选择您的账户货币",

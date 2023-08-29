@@ -56,6 +56,7 @@
         "currency": "口座の通貨",
         "size": "口座のサイズ"
       },
+      "additional_tax_rate": "追加の税率",
       "after": {
         "fee": {
           "amount": "手数料後の金額",
@@ -81,16 +82,6 @@
           "price": "VAT前の価格"
         }
       },
-      "tip": {
-        "amount": "チップの金額",
-        "rate": "チップのレート",
-        "text": "チップ"
-      },
-      "vat": {
-        "amount": "VATの金額",
-        "rate": "VATのレート",
-        "text": "VAT"
-      },
       "break_even": {
         "price": "損益分岐点の価格",
         "units": "損益分岐点のユニット"
@@ -107,11 +98,10 @@
       "currency": "通貨",
       "discount": {
         "amount": "割引額",
-        "rate": "割引率",
         "label": "割引",
-        "per_unit": "単位あたりの割引"
+        "per_unit": "単位あたりの割引",
+        "rate": "割引率"
       },
-      "additional_tax_rate": "追加の税率",
       "duration_years": "年単位の期間",
       "ending": {
         "balance": "最終残高",
@@ -195,6 +185,8 @@
       "price": {
         "a": "価格A",
         "b": "価格B",
+        "base": "ベース価格",
+        "breakdown": "価格の内訳",
         "per_unit": "ユニットごとの価格",
         "per_unit_after_fee": "手数料後の単価",
         "per_unit_before_fee": "手数料前の単価",
@@ -268,17 +260,23 @@
         "exempt_amount_per_year": "年間非課税金額",
         "rate": "税率"
       },
+      "taxes": "税金",
+      "tip": {
+        "amount": "チップの金額",
+        "rate": "チップのレート",
+        "text": "チップ"
+      },
       "total": {
         "costs": {
           "losing_position": "敗北したポジションの総コスト",
           "profit_position": "勝利したポジションの総コスト",
           "text": "総コスト"
         },
+        "fee": "税の総額",
         "gain": "総利益",
         "loss": "総損失",
         "return": "総収益",
-        "revenue": "総収入",
-        "fee": "税の総額"
+        "revenue": "総収入"
       },
       "trade": {
         "size": {
@@ -293,7 +291,12 @@
         "text": "トレンド",
         "up": "上昇ト"
       },
-      "user_currency": "ユーザーの通貨"
+      "user_currency": "ユーザーの通貨",
+      "vat": {
+        "amount": "VATの金額",
+        "rate": "VATのレート",
+        "text": "VAT"
+      }
     },
     "select": {
       "account_currency": "口座の通貨を選択してください",
