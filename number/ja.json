@@ -2,8 +2,8 @@
   "number": {
     "label": {
       "amount": "金額",
-      "percentage": "パーセンテージ",
-      "percent": "パーセント"
+      "percent": "パーセント",
+      "percentage": "パーセンテージ"
     },
     "ordinal": {
       "short": {

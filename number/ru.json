@@ -2,8 +2,8 @@
   "number": {
     "label": {
       "amount": "Сумма",
-      "percentage": "Процент",
-      "percent": "Проценты"
+      "percent": "Проценты",
+      "percentage": "Процент"
     },
     "ordinal": {
       "short": {

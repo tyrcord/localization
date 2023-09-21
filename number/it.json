@@ -2,8 +2,8 @@
   "number": {
     "label": {
       "amount": "Importo",
-      "percentage": "Percentuale",
-      "percent": "Per cento"
+      "percent": "Per cento",
+      "percentage": "Percentuale"
     },
     "ordinal": {
       "short": {
