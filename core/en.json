@@ -317,7 +317,15 @@
         "out": "Zoom Out",
         "reset": "Reset Zoom",
         "text": "Zoom"
-      }
+      },
+      "no_items": "No items",
+      "no_elements": "No elements",
+      "panel": "Panel",
+      "button": "Button",
+      "badge": "Badge",
+      "missing_rights": "Missing rights",
+      "rights_denied": "Rights denied",
+      "rights_granted": "Rights granted"
     },
     "message": {
       "action": {

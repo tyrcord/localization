@@ -317,7 +317,15 @@
         "out": "Riduci",
         "reset": "Reimposta zoom",
         "text": "Zoom"
-      }
+      },
+      "no_items": "Nessun articolo",
+      "no_elements": "Nessun elemento",
+      "panel": "Pannello",
+      "button": "Pulsante",
+      "badge": "Distintivo",
+      "missing_rights": "Diritti mancanti",
+      "rights_denied": "Diritti negati",
+      "rights_granted": "Diritti concessi"
     },
     "message": {
       "action": {

@@ -317,7 +317,15 @@
         "out": "缩小",
         "reset": "重置缩放",
         "text": "缩放"
-      }
+      },
+      "no_items": "没有商品",
+      "no_elements": "没有元素",
+      "panel": "面板",
+      "button": "按钮",
+      "badge": "徽章",
+      "missing_rights": "缺少权利",
+      "rights_denied": "权利被拒绝",
+      "rights_granted": "权利已授予"
     },
     "message": {
       "action": {

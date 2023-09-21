@@ -317,7 +317,15 @@
         "out": "Herauszoomen",
         "reset": "Zoom zurücksetzen",
         "text": "Zoom"
-      }
+      },
+      "no_items": "Keine Artikel",
+      "no_elements": "Keine Elemente",
+      "panel": "Panel",
+      "button": "Knopf",
+      "badge": "Abzeichen",
+      "missing_rights": "Fehlende Rechte",
+      "rights_denied": "Rechte verweigert",
+      "rights_granted": "Rechte gewährt"
     },
     "message": {
       "action": {

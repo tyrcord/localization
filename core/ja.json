@@ -317,7 +317,15 @@
         "out": "ズームアウト",
         "reset": "ズームリセット",
         "text": "ズーム"
-      }
+      },
+      "no_items": "アイテムなし",
+      "no_elements": "要素なし",
+      "panel": "パネル",
+      "button": "ボタン",
+      "badge": "バッジ",
+      "missing_rights": "権限がありません",
+      "rights_denied": "権限拒否",
+      "rights_granted": "権限付与"
     },
     "message": {
       "action": {

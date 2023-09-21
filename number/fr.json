@@ -2,7 +2,8 @@
   "number": {
     "label": {
       "amount": "Montant",
-      "percentage": "Pourcentage"
+      "percentage": "Pourcentage",
+      "percent": "Pour cent"
     },
     "ordinal": {
       "short": {
