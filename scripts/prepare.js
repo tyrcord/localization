@@ -34,6 +34,7 @@ function replaceSpacesBeforePunctuation(jsonData) {
   }
 
   const updatedObject = {};
+
   for (const key in jsonData) {
     updatedObject[key] = replaceSpacesBeforePunctuation(jsonData[key]);
   }
@@ -57,7 +58,9 @@ function sortAndRenameJSONFile(filePath) {
 
     const data = fs.readFileSync(filePath, "utf8");
     let jsonData = JSON.parse(data);
+
     jsonData = replaceSpacesBeforePunctuation(jsonData);
+
     const sortedJsonData = sortKeysAlphabetically(jsonData);
     const sortedData = JSON.stringify(sortedJsonData, null, 2) + "\n";
 
@@ -78,7 +81,7 @@ function sortKeysAlphabetically(jsonData) {
   }
 
   const sortedObject = {};
-  const sortedKeys = Object.keys(jsonData).sort();
+  const sortedKeys = Object.keys(jsonData).sort((a, b) => a.localeCompare(b));
 
   for (const key of sortedKeys) {
     sortedObject[key] = sortKeysAlphabetically(jsonData[key]);
