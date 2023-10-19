@@ -128,7 +128,8 @@
         "commission": "Buying commission",
         "costs": "Buying costs",
         "price": "Buying price",
-        "price_per_unit": "Buying price per init"
+        "price_per_unit": "Buying price per unit",
+        "costs_per_unit": "Buying costs per unit"
       },
       "close_price": "Close Price",
       "compound_interest": "Compound Interest",
@@ -239,9 +240,9 @@
         "commission": "Purchase commission",
         "costs": "Purchase costs",
         "price": "Purchase price",
-        "price_per_unit": "Purchase price per unit"
+        "price_per_unit": "Purchase price per unit",
+        "costs_per_unit": "Purchase costs per unit"
       },
-      "purchase_costs_per_unit": "Purchase Costs per Unit",
       "rate": "Rate",
       "real_time_quotes": "Real-Time Quotes",
       "regular_addition": "Regular Addition",

@@ -128,7 +128,8 @@
         "commission": "购买佣金",
         "costs": "购买成本",
         "price": "购买价格",
-        "price_per_unit": "每单位购买价格"
+        "price_per_unit": "每单位购买价格",
+        "costs_per_unit": "每单位购买成本"
       },
       "close_price": "收盘价",
       "compound_interest": "复利",
@@ -239,9 +240,9 @@
         "commission": "采购佣金",
         "costs": "采购成本",
         "price": "采购价格",
-        "price_per_unit": "每单位采购价格"
+        "price_per_unit": "每单位采购价格",
+        "costs_per_unit": "每单位收购成本"
       },
-      "purchase_costs_per_unit": "购买成本每单位",
       "rate": "税率",
       "real_time_quotes": "实时行情",
       "regular_addition": "定期增加",

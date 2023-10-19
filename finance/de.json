@@ -128,7 +128,8 @@
         "commission": "Kaufprovision",
         "costs": "Kaufkosten",
         "price": "Kaufpreis",
-        "price_per_unit": "Kaufpreis pro Einheit"
+        "price_per_unit": "Kaufpreis pro Einheit",
+        "costs_per_unit": "Kaufkosten pro Einheit"
       },
       "close_price": "Schlusskurs",
       "compound_interest": "Zinseszins",
@@ -239,9 +240,9 @@
         "commission": "Ankaufsprovision",
         "costs": "Ankaufskosten",
         "price": "Ankaufspreis",
-        "price_per_unit": "Ankaufspreis pro Einheit"
+        "price_per_unit": "Ankaufspreis pro Einheit",
+        "costs_per_unit": "Erwerbskosten pro Einheit"
       },
-      "purchase_costs_per_unit": "Kaufkosten pro Einheit",
       "rate": "Satz",
       "real_time_quotes": "Echtzeitkurse",
       "regular_addition": "Regelmäßige Hinzufügung",

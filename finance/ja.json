@@ -128,7 +128,8 @@
         "commission": "購入手数料",
         "costs": "購入コスト",
         "price": "購入価格",
-        "price_per_unit": "単位あたりの購入価格"
+        "price_per_unit": "単位あたりの購入価格",
+        "costs_per_unit": "単位あたりの購入コスト"
       },
       "close_price": "終値",
       "compound_interest": "複利",
@@ -239,7 +240,8 @@
         "commission": "購入手数料",
         "costs": "購入コスト",
         "price": "購入価格",
-        "price_per_unit": "単位あたりの購入価格"
+        "price_per_unit": "単位あたりの購入価格",
+        "costs_per_unit": "単位あたりの取得コスト"
       },
       "purchase_costs_per_unit": "ユニットごとの購入コスト",
       "rate": "レート",

@@ -128,7 +128,8 @@
         "commission": "Comisión de compra",
         "costs": "Costes de compra",
         "price": "Precio de compra",
-        "price_per_unit": "Precio de compra por unidad"
+        "price_per_unit": "Precio de compra por unidad",
+        "costs_per_unit": "Costos de compra por unidad"
       },
       "close_price": "Precio de cierre",
       "compound_interest": "Interés compuesto",
@@ -239,9 +240,9 @@
         "commission": "Comisión de adquisición",
         "costs": "Costes de adquisición",
         "price": "Precio de adquisición",
-        "price_per_unit": "Precio de adquisición por unidad"
+        "price_per_unit": "Precio de adquisición por unidad",
+        "costs_per_unit": "Costes de adquisición por unidad"
       },
-      "purchase_costs_per_unit": "Costos de compra por unidad",
       "rate": "Tasa",
       "real_time_quotes": "Cotizaciones en tiempo real",
       "regular_addition": "Aportación regular",
