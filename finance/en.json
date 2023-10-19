@@ -125,10 +125,10 @@
         "units": "Break-Even Units"
       },
       "buy": {
-        "commission": "Buy Commission",
-        "costs": "Buying Costs",
-        "price": "Buy Price",
-        "price_per_unit": "Buy Price per Unit"
+        "commission": "Buying commission",
+        "costs": "Buying costs",
+        "price": "Buying price",
+        "price_per_unit": "Buying price per init"
       },
       "close_price": "Close Price",
       "compound_interest": "Compound Interest",
@@ -235,6 +235,12 @@
       "profit": "Profit",
       "profit_and_loss": "Profit and Loss",
       "profit_or_loss": "Profit or Loss",
+      "purchase": {
+        "commission": "Purchase commission",
+        "costs": "Purchase costs",
+        "price": "Purchase price",
+        "price_per_unit": "Purchase price per unit"
+      },
       "purchase_costs_per_unit": "Purchase Costs per Unit",
       "rate": "Rate",
       "real_time_quotes": "Real-Time Quotes",
@@ -255,13 +261,20 @@
         "text": "Risk",
         "tolerated": "Tolerated Risk"
       },
+      "sales": {
+        "commission": "Sales commission",
+        "costs": "Sales costs",
+        "costs_per_unit": "Sales costs per unit",
+        "price": "Sales price",
+        "price_per_unit": "Sales price per unit"
+      },
       "secondary_currency": "Secondary Currency",
       "sell": {
-        "commission": "Sell Commission",
-        "costs": "Selling Costs",
-        "costs_per_unit": "Selling Costs per Unit",
-        "price": "Sell Price",
-        "price_per_unit": "Sell Price per Unit"
+        "commission": "Selling commission",
+        "costs": "Selling expenses",
+        "costs_per_unit": "Selling expenses per unit",
+        "price": "Selling price",
+        "price_per_unit": "Selling price per unit"
       },
       "slippage": "Slippage",
       "starting": {

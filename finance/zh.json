@@ -125,10 +125,10 @@
         "units": "保本单位"
       },
       "buy": {
-        "commission": "买入佣金",
-        "costs": "买入成本",
-        "price": "买入价格",
-        "price_per_unit": "买入单价"
+        "commission": "购买佣金",
+        "costs": "购买成本",
+        "price": "购买价格",
+        "price_per_unit": "每单位购买价格"
       },
       "close_price": "收盘价",
       "compound_interest": "复利",
@@ -235,6 +235,12 @@
       "profit": "利润",
       "profit_and_loss": "利润和损失",
       "profit_or_loss": "利润或损失",
+      "purchase": {
+        "commission": "采购佣金",
+        "costs": "采购成本",
+        "price": "采购价格",
+        "price_per_unit": "每单位采购价格"
+      },
       "purchase_costs_per_unit": "购买成本每单位",
       "rate": "税率",
       "real_time_quotes": "实时行情",
@@ -255,13 +261,20 @@
         "text": "风险",
         "tolerated": "可容忍风险"
       },
+      "sales": {
+        "commission": "销售佣金",
+        "costs": "销售成本",
+        "costs_per_unit": "每单位销售成本",
+        "price": "销售价格",
+        "price_per_unit": "每单位销售价格"
+      },
       "secondary_currency": "次要货币",
       "sell": {
-        "commission": "卖出佣金",
-        "costs": "卖出成本",
-        "costs_per_unit": "卖出成本每单位",
-        "price": "卖出价格",
-        "price_per_unit": "卖出单价"
+        "commission": "销售佣金",
+        "costs": "销售费用",
+        "costs_per_unit": "每单位销售费用",
+        "price": "销售价格",
+        "price_per_unit": "每单位销售价格"
       },
       "slippage": "滑点",
       "starting": {

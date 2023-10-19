@@ -235,6 +235,12 @@
       "profit": "Lucro",
       "profit_and_loss": "Lucro e Perda",
       "profit_or_loss": "Lucro ou Perda",
+      "purchase": {
+        "commission": "Comissão de aquisição",
+        "costs": "Custos de aquisição",
+        "price": "Preço de aquisição",
+        "price_per_unit": "Preço de aquisição por unidade"
+      },
       "purchase_costs_per_unit": "Custos de compra por unidade",
       "rate": "Taxa",
       "real_time_quotes": "Cotações em tempo real",
@@ -255,11 +261,18 @@
         "text": "Risco",
         "tolerated": "Risco Tolerado"
       },
+      "sales": {
+        "commission": "Comissão de vendas",
+        "costs": "Custos de vendas",
+        "costs_per_unit": "Custos de vendas por unidade",
+        "price": "Preço de vendas",
+        "price_per_unit": "Preço de vendas por unidade"
+      },
       "secondary_currency": "Moeda secundária",
       "sell": {
         "commission": "Comissão de venda",
-        "costs": "Custos de venda",
-        "costs_per_unit": "Custos de venda por unidade",
+        "costs": "Despesas de venda",
+        "costs_per_unit": "Despesas de venda por unidade",
         "price": "Preço de venda",
         "price_per_unit": "Preço de venda por unidade"
       },

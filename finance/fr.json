@@ -126,7 +126,7 @@
       },
       "buy": {
         "commission": "Commission d'achat",
-        "costs": "Frais d'achat",
+        "costs": "Coûts d'achat",
         "price": "Prix d'achat",
         "price_per_unit": "Prix d'achat par unité"
       },
@@ -235,6 +235,12 @@
       "profit": "Bénéfice",
       "profit_and_loss": "Bénéfice et perte",
       "profit_or_loss": "Bénéfice ou perte",
+      "purchase": {
+        "commission": "Commission d'acquisition",
+        "costs": "Coûts d'acquisition",
+        "price": "Prix d'acquisition",
+        "price_per_unit": "Prix d'acquisition par unité"
+      },
       "purchase_costs_per_unit": "Coûts d'achat par unité",
       "rate": "Taux",
       "real_time_quotes": "Cotations en temps réel",
@@ -254,6 +260,13 @@
         },
         "text": "Risque",
         "tolerated": "Risque Toléré"
+      },
+      "sales": {
+        "commission": "Commission sur les ventes",
+        "costs": "Coûts des ventes",
+        "costs_per_unit": "Coûts des ventes par unité",
+        "price": "Prix des ventes",
+        "price_per_unit": "Prix des ventes par unité"
       },
       "secondary_currency": "Devise secondaire",
       "sell": {

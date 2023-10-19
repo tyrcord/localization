@@ -125,7 +125,7 @@
         "units": "Break-even-Einheiten"
       },
       "buy": {
-        "commission": "Kaufkommission",
+        "commission": "Kaufprovision",
         "costs": "Kaufkosten",
         "price": "Kaufpreis",
         "price_per_unit": "Kaufpreis pro Einheit"
@@ -235,6 +235,12 @@
       "profit": "Gewinn",
       "profit_and_loss": "Gewinn und Verlust",
       "profit_or_loss": "Gewinn oder Verlust",
+      "purchase": {
+        "commission": "Ankaufsprovision",
+        "costs": "Ankaufskosten",
+        "price": "Ankaufspreis",
+        "price_per_unit": "Ankaufspreis pro Einheit"
+      },
       "purchase_costs_per_unit": "Kaufkosten pro Einheit",
       "rate": "Satz",
       "real_time_quotes": "Echtzeitkurse",
@@ -255,9 +261,16 @@
         "text": "Risiko",
         "tolerated": "Akzeptiertes Risiko"
       },
+      "sales": {
+        "commission": "Vertriebsprovision",
+        "costs": "Vertriebskosten",
+        "costs_per_unit": "Vertriebskosten pro Einheit",
+        "price": "Vertriebspreis",
+        "price_per_unit": "Vertriebspreis pro Einheit"
+      },
       "secondary_currency": "Sekundärwährung",
       "sell": {
-        "commission": "Verkaufskommission",
+        "commission": "Verkaufsprovision",
         "costs": "Verkaufskosten",
         "costs_per_unit": "Verkaufskosten pro Einheit",
         "price": "Verkaufspreis",

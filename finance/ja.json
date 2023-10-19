@@ -128,7 +128,7 @@
         "commission": "購入手数料",
         "costs": "購入コスト",
         "price": "購入価格",
-        "price_per_unit": "ユニットごとの購入価格"
+        "price_per_unit": "単位あたりの購入価格"
       },
       "close_price": "終値",
       "compound_interest": "複利",
@@ -235,6 +235,12 @@
       "profit": "利益",
       "profit_and_loss": "利益と損失",
       "profit_or_loss": "利益または損失",
+      "purchase": {
+        "commission": "購入手数料",
+        "costs": "購入コスト",
+        "price": "購入価格",
+        "price_per_unit": "単位あたりの購入価格"
+      },
       "purchase_costs_per_unit": "ユニットごとの購入コスト",
       "rate": "レート",
       "real_time_quotes": "リアルタイムの見積もり",
@@ -255,13 +261,20 @@
         "text": "リスク",
         "tolerated": "許容リスク"
       },
+      "sales": {
+        "commission": "セールスコミッション",
+        "costs": "セールスコスト",
+        "costs_per_unit": "ユニットごとのセールスコスト",
+        "price": "販売価格",
+        "price_per_unit": "ユニットごとの販売価格"
+      },
       "secondary_currency": "副次通貨",
       "sell": {
-        "commission": "売却手数料",
-        "costs": "売却コスト",
-        "costs_per_unit": "ユニットごとの売却コスト",
-        "price": "売却価格",
-        "price_per_unit": "ユニットごとの売却価格"
+        "commission": "販売手数料",
+        "costs": "販売経費",
+        "costs_per_unit": "単位あたりの販売経費",
+        "price": "販売価格",
+        "price_per_unit": "単位あたりの販売価格"
       },
       "slippage": "スリッページ",
       "starting": {

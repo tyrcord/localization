@@ -125,10 +125,10 @@
         "units": "Unità di pareggio"
       },
       "buy": {
-        "commission": "Commissione acquisto",
-        "costs": "Costi di acquisto",
-        "price": "Prezzo di acquisto",
-        "price_per_unit": "Prezzo di acquisto per unità"
+        "commission": "Commissione d'acquisto",
+        "costs": "Costi d'acquisto",
+        "price": "Prezzo d'acquisto",
+        "price_per_unit": "Prezzo d'acquisto per unità"
       },
       "close_price": "Prezzo di chiusura",
       "compound_interest": "Interesse composto",
@@ -235,6 +235,12 @@
       "profit": "Profitto",
       "profit_and_loss": "Profitto e perdita",
       "profit_or_loss": "Profitto o perdita",
+      "purchase": {
+        "commission": "Commissione d'acquisizione",
+        "costs": "Costi d'acquisizione",
+        "price": "Prezzo d'acquisizione",
+        "price_per_unit": "Prezzo d'acquisizione per unità"
+      },
       "purchase_costs_per_unit": "Costi di acquisto per unità",
       "rate": "Tasso",
       "real_time_quotes": "Quotazioni in tempo reale",
@@ -255,11 +261,18 @@
         "text": "Rischio",
         "tolerated": "Rischio Tollerato"
       },
-      "secondary_currency": "Valuta secondaria",
-      "sell": {
-        "commission": "Commissione vendita",
+      "sales": {
+        "commission": "Commissione sulle vendite",
         "costs": "Costi di vendita",
         "costs_per_unit": "Costi di vendita per unità",
+        "price": "Prezzo di vendita",
+        "price_per_unit": "Prezzo di vendita per unità"
+      },
+      "secondary_currency": "Valuta secondaria",
+      "sell": {
+        "commission": "Commissione di vendita",
+        "costs": "Spese di vendita",
+        "costs_per_unit": "Spese di vendita per unità",
         "price": "Prezzo di vendita",
         "price_per_unit": "Prezzo di vendita per unità"
       },
