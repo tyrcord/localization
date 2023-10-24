@@ -124,15 +124,18 @@
         "price": "Break-even-Preis",
         "units": "Break-even-Einheiten"
       },
+      "breakdown": "Aufschlüsselung",
       "buy": {
         "commission": "Kaufprovision",
         "costs": "Kaufkosten",
+        "costs_per_unit": "Kaufkosten pro Einheit",
         "price": "Kaufpreis",
-        "price_per_unit": "Kaufpreis pro Einheit",
-        "costs_per_unit": "Kaufkosten pro Einheit"
+        "price_per_unit": "Kaufpreis pro Einheit"
       },
       "close_price": "Schlusskurs",
       "compound_interest": "Zinseszins",
+      "cost_of_goods_sold": "Kosten der verkauften Waren",
+      "costs": "Kosten",
       "currencies": "Währungen",
       "currency": "Währung",
       "discount": {
@@ -171,6 +174,7 @@
       },
       "expected_unit_sales": "Erwartete Stückverkäufe",
       "extension": "Erweiterung",
+      "fees": "Gebühren",
       "fibonacci": {
         "level": "Fibonacci-Level",
         "levels": "Fibonacci-Levels"
@@ -180,7 +184,11 @@
       "gain": "Gewinn",
       "gain_per_trade": "Gewinn pro Trade",
       "grand_total": "Gesamtsumme",
-      "gross_profit": "Bruttogewinn",
+      "gross": {
+        "income": "Bruttoeinkommen",
+        "margin": "Bruttomarge",
+        "profit": "Bruttogewinn"
+      },
       "high_price": "Höchstpreis",
       "indices": "Indizes",
       "initial_investment": "Erstinvestition",
@@ -205,6 +213,11 @@
         "plus_currency": "{number}+ Währungen"
       },
       "open_price": "Eröffnungspreis",
+      "operating": {
+        "income": "Betriebseinkommen",
+        "margin": "Betriebsmarge",
+        "profit": "Betriebsgewinn"
+      },
       "pivot_point": {
         "camarilla": "Camarilla",
         "demark": "DeMark",
@@ -239,9 +252,9 @@
       "purchase": {
         "commission": "Ankaufsprovision",
         "costs": "Ankaufskosten",
+        "costs_per_unit": "Erwerbskosten pro Einheit",
         "price": "Ankaufspreis",
-        "price_per_unit": "Ankaufspreis pro Einheit",
-        "costs_per_unit": "Erwerbskosten pro Einheit"
+        "price_per_unit": "Ankaufspreis pro Einheit"
       },
       "rate": "Satz",
       "real_time_quotes": "Echtzeitkurse",
@@ -250,6 +263,7 @@
       "resistance_level": "Widerstand {level}",
       "retracement": "Retracement",
       "return_on_investment": "Return on Investment",
+      "revenue": "Einnahmen",
       "risk": {
         "amount": "Risikobetrag",
         "effective": "Effektives Risiko",
@@ -277,6 +291,7 @@
         "price": "Verkaufspreis",
         "price_per_unit": "Verkaufspreis pro Einheit"
       },
+      "selling_expenses": "Verkaufskosten",
       "slippage": "Slippage",
       "starting": {
         "balance": "Anfangsguthaben",

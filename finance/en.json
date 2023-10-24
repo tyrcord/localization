@@ -124,15 +124,18 @@
         "price": "Break-Even Price",
         "units": "Break-Even Units"
       },
+      "breakdown": "Breakdown",
       "buy": {
         "commission": "Buying commission",
         "costs": "Buying costs",
+        "costs_per_unit": "Buying costs per unit",
         "price": "Buying price",
-        "price_per_unit": "Buying price per unit",
-        "costs_per_unit": "Buying costs per unit"
+        "price_per_unit": "Buying price per unit"
       },
       "close_price": "Close Price",
       "compound_interest": "Compound Interest",
+      "cost_of_goods_sold": "Cost of goods sold",
+      "costs": "Costs",
       "currencies": "Currencies",
       "currency": "Currency",
       "discount": {
@@ -171,6 +174,7 @@
       },
       "expected_unit_sales": "Expected Unit Sales",
       "extension": "Extension",
+      "fees": "Fees",
       "fibonacci": {
         "level": "Fibonacci Level",
         "levels": "Fibonacci Levels"
@@ -180,7 +184,11 @@
       "gain": "Gain",
       "gain_per_trade": "Gain per Trade",
       "grand_total": "Grand Total",
-      "gross_profit": "Gross Profit",
+      "gross": {
+        "income": "Gross income",
+        "margin": "Gross margin",
+        "profit": "Gross profit"
+      },
       "high_price": "High Price",
       "indices": "Indices",
       "initial_investment": "Initial Investment",
@@ -205,6 +213,11 @@
         "plus_currency": "{number}+ currencies"
       },
       "open_price": "Open Price",
+      "operating": {
+        "income": "Operating income",
+        "margin": "Operating margin",
+        "profit": "Operating profit"
+      },
       "pivot_point": {
         "camarilla": "Camarilla",
         "demark": "DeMark",
@@ -239,9 +252,9 @@
       "purchase": {
         "commission": "Purchase commission",
         "costs": "Purchase costs",
+        "costs_per_unit": "Purchase costs per unit",
         "price": "Purchase price",
-        "price_per_unit": "Purchase price per unit",
-        "costs_per_unit": "Purchase costs per unit"
+        "price_per_unit": "Purchase price per unit"
       },
       "rate": "Rate",
       "real_time_quotes": "Real-Time Quotes",
@@ -250,6 +263,7 @@
       "resistance_level": "Resistance {level}",
       "retracement": "Retracement",
       "return_on_investment": "Return on Investment",
+      "revenue": "Revenue",
       "risk": {
         "amount": "Amount at risk",
         "effective": "Effective Risk",
@@ -277,6 +291,7 @@
         "price": "Selling price",
         "price_per_unit": "Selling price per unit"
       },
+      "selling_expenses": "Selling expenses",
       "slippage": "Slippage",
       "starting": {
         "balance": "Starting Balance",
