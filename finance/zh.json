@@ -172,7 +172,7 @@
           "with_slippage": "带滑点的退出价格"
         }
       },
-      "expected_unit_sales": "预期销售单位",
+      "expected_sale_units": "预期销售单位",
       "extension": "扩展",
       "fees": "费用",
       "fibonacci": {

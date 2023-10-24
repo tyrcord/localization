@@ -172,7 +172,7 @@
           "with_slippage": "Цена при выходе с проскальзыванием"
         }
       },
-      "expected_unit_sales": "Ожидаемые единицы продажи",
+      "expected_sale_units": "Ожидаемые единицы продаж",
       "extension": "Расширение",
       "fees": "Сборы",
       "fibonacci": {

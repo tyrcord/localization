@@ -172,7 +172,7 @@
           "with_slippage": "Exit Price with Slippage"
         }
       },
-      "expected_unit_sales": "Expected Unit Sales",
+      "expected_sale_units": "Expected Sale Units",
       "extension": "Extension",
       "fees": "Fees",
       "fibonacci": {

@@ -172,7 +172,7 @@
           "with_slippage": "Preço de saída com deslizamento"
         }
       },
-      "expected_unit_sales": "Vendas unitárias esperadas",
+      "expected_sale_units": "Unidades de venda previstas",
       "extension": "Extensão",
       "fees": "Taxas",
       "fibonacci": {

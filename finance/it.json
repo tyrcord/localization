@@ -172,7 +172,7 @@
           "with_slippage": "Prezzo di uscita con slippage"
         }
       },
-      "expected_unit_sales": "Vendite unitarie previste",
+      "expected_sale_units": "Unità di vendita previste",
       "extension": "Estensione",
       "fees": "Commissioni",
       "fibonacci": {

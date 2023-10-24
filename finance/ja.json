@@ -172,7 +172,7 @@
           "with_slippage": "スリッページを考慮した退出価格"
         }
       },
-      "expected_unit_sales": "予想ユニット売上高",
+      "expected_sale_units": "予想販売ユニット",
       "extension": "延長",
       "fees": "手数料",
       "fibonacci": {

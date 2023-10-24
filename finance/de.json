@@ -172,7 +172,7 @@
           "with_slippage": "Ausstiegspreis mit Schlupf"
         }
       },
-      "expected_unit_sales": "Erwartete Stückverkäufe",
+      "expected_sale_units": "Erwartete Verkaufseinheiten",
       "extension": "Erweiterung",
       "fees": "Gebühren",
       "fibonacci": {
