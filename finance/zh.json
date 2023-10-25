@@ -214,6 +214,7 @@
       },
       "open_price": "开盘价",
       "operating": {
+        "expenses": "营业费用",
         "income": "营业收入",
         "margin": "营业利润率",
         "profit": "营业利润"

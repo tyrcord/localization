@@ -214,6 +214,7 @@
       },
       "open_price": "始値",
       "operating": {
+        "expenses": "運営費",
         "income": "営業収入",
         "margin": "営業マージン",
         "profit": "営業利益"

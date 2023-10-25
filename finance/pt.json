@@ -214,6 +214,7 @@
       },
       "open_price": "Preço de abertura",
       "operating": {
+        "expenses": "Despesas operacionais",
         "income": "Rendimento operacional",
         "margin": "Margem operacional",
         "profit": "Lucro operacional"

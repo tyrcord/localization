@@ -214,6 +214,7 @@
       },
       "open_price": "Open Price",
       "operating": {
+        "expenses": "Operating expenses",
         "income": "Operating income",
         "margin": "Operating margin",
         "profit": "Operating profit"
