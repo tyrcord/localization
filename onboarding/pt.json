@@ -59,6 +59,9 @@
     "welcome_vat": {
       "description": "Simplesmente introduza o montante líquido, selecione a sua taxa e deixe a aplicação fazer o resto.",
       "intro": "Defina rapidamente e com precisão os montantes de IVA específicos da sua região."
+    },
+    "welcome_gain_loss_calculator": {
+      "intro": "Descubra os seus ganhos potenciais num relance e tome decisões informadas para maximizar as suas oportunidades."
     }
   }
 }

@@ -59,6 +59,9 @@
     "welcome_vat": {
       "description": "Simplemente ingrese el monto neto, seleccione su tarifa y deje que la aplicación haga el resto.",
       "intro": "Defina rápidamente y con precisión los montos del IVA específicos de su región."
+    },
+    "welcome_gain_loss_calculator": {
+      "intro": "Descubra sus ganancias potenciales de un vistazo y tome decisiones informadas para maximizar sus oportunidades."
     }
   }
 }

@@ -59,6 +59,9 @@
     "welcome_vat": {
       "description": "Simply enter the net amount, select your rate, and let the application do the rest.",
       "intro": "Quickly and accurately define the VAT amounts specific to your region."
+    },
+    "welcome_gain_loss_calculator": {
+      "intro": "Discover your potential earnings at a glance and make informed decisions to maximize your opportunities."
     }
   }
 }
