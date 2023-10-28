@@ -37,8 +37,8 @@
       },
       "pip": {
         "calculator": "Pip-Rechner",
+        "decimal_places": "Pip-Dezimalstellen",
         "difference": "Pip-Differenz",
-        "precision": "Pip Dezimalzeichen",
         "value": "Pip-Wert"
       },
       "pips": {
@@ -54,7 +54,7 @@
     },
     "select": {
       "currency_pair": "Wählen Sie ein Währungspaar",
-      "pip_precision": "Dezimalstelle auswählen"
+      "decimal": "Dezimalstelle auswählen"
     }
   }
 }

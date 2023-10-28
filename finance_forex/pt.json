@@ -37,8 +37,8 @@
       },
       "pip": {
         "calculator": "Calculadora de Pips",
+        "decimal_places": "Casas decimais do pip",
         "difference": "Diferença de Pips",
-        "precision": "Ponto decimal pip",
         "value": "Valor Pip"
       },
       "pips": {
@@ -54,7 +54,7 @@
     },
     "select": {
       "currency_pair": "Selecione um par de moedas",
-      "pip_precision": "Selecione uma casa decimal"
+      "decimal": "Selecione uma casa decimal"
     }
   }
 }

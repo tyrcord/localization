@@ -37,8 +37,8 @@
       },
       "pip": {
         "calculator": "Calcolatrice di Pip",
+        "decimal_places": "Decimali del pip",
         "difference": "Differenza tra i Pip",
-        "precision": "Punto decimale Pips",
         "value": "Valore di Pip"
       },
       "pips": {
@@ -54,7 +54,7 @@
     },
     "select": {
       "currency_pair": "Seleziona una coppia di valute",
-      "pip_precision": "Seleziona un decimale"
+      "decimal": "Seleziona un decimale"
     }
   }
 }

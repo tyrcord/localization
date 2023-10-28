@@ -37,8 +37,8 @@
       },
       "pip": {
         "calculator": "ピップ計算機",
+        "decimal_places": "ピップの小数点以下の桁数",
         "difference": "ピップの違い",
-        "precision": "ピップ小数点",
         "value": "ピップの価値"
       },
       "pips": {
@@ -54,7 +54,7 @@
     },
     "select": {
       "currency_pair": "通貨ペアを選択してください",
-      "pip_precision": "小数を選択する"
+      "decimal": "小数を選択する"
     }
   }
 }

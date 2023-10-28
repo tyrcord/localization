@@ -37,8 +37,8 @@
       },
       "pip": {
         "calculator": "点差计算器",
+        "decimal_places": "点差小数位数",
         "difference": "点差差额",
-        "precision": "小数点",
         "value": "点值"
       },
       "pips": {
@@ -54,7 +54,7 @@
     },
     "select": {
       "currency_pair": "选择货币对",
-      "pip_precision": "请选择一个小数"
+      "decimal": "请选择一个小数"
     }
   }
 }
