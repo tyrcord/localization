@@ -193,6 +193,14 @@
       },
       "close_price": "Prezzo di chiusura",
       "compound_interest": "Interesse composto",
+      "cost": {
+        "of": {
+          "goods": {
+            "sold": "Costo dei beni venduti"
+          },
+          "investments": "Costi degli investimenti"
+        }
+      },
       "costs": "Costi",
       "currencies": "Valute",
       "currency": "Valuta",
@@ -242,6 +250,14 @@
       "gain": "Guadagno",
       "gain_per_trade": "Guadagno per operazione",
       "grand_total": "Totale Generale",
+      "gross": {
+        "income": "Reddito lordo",
+        "margin": "Margine lordo",
+        "profit": {
+          "margin": "Margine di utile lordo",
+          "text": "Utile lordo"
+        }
+      },
       "high_price": "Prezzo più alto",
       "indices": "Indici",
       "initial_investment": "Investimento iniziale",
@@ -253,30 +269,14 @@
       "loss_per_trade": "Perdita per operazione",
       "low_price": "Prezzo più basso",
       "margin": "Margine",
-      "gross": {
-        "income": "Reddito lordo",
-        "margin": "Margine lordo",
-        "profit": {
-          "text": "Utile lordo",
-          "margin": "Margine di utile lordo"
-        }
-      },
       "net": {
         "buy_price": "Prezzo di acquisto netto",
         "income": "Reddito netto",
         "profit": {
           "after_fee": "Utile netto dopo le commissioni",
           "before_fee": "Utile netto prima delle commissioni",
-          "text": "Utile netto",
-          "margin": "Margine di utile netto"
-        }
-      },
-      "cost": {
-        "of": {
-          "investments": "Costi degli investimenti",
-          "goods": {
-            "sold": "Costo dei beni venduti"
-          }
+          "margin": "Margine di utile netto",
+          "text": "Utile netto"
         }
       },
       "number": {

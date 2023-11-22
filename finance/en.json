@@ -193,6 +193,14 @@
       },
       "close_price": "Close Price",
       "compound_interest": "Compound Interest",
+      "cost": {
+        "of": {
+          "goods": {
+            "sold": "Cost of Goods Sold"
+          },
+          "investments": "Cost of Investments"
+        }
+      },
       "costs": "Costs",
       "currencies": "Currencies",
       "currency": "Currency",
@@ -242,6 +250,14 @@
       "gain": "Gain",
       "gain_per_trade": "Gain per Trade",
       "grand_total": "Grand Total",
+      "gross": {
+        "income": "Gross Income",
+        "margin": "Gross Margin",
+        "profit": {
+          "margin": "Gross Profit Margin",
+          "text": "Gross Profit"
+        }
+      },
       "high_price": "High Price",
       "indices": "Indices",
       "initial_investment": "Initial Investment",
@@ -253,30 +269,14 @@
       "loss_per_trade": "Loss per Trade",
       "low_price": "Low Price",
       "margin": "Margin",
-      "gross": {
-        "income": "Gross Income",
-        "margin": "Gross Margin",
-        "profit": {
-          "text": "Gross Profit",
-          "margin": "Gross Profit Margin"
-        }
-      },
       "net": {
         "buy_price": "Net Buy Price",
         "income": "Net Income",
         "profit": {
           "after_fee": "Net Profit After Fees",
           "before_fee": "Net Profit Before Fees",
-          "text": "Net Profit",
-          "margin": "Net Profit Margin"
-        }
-      },
-      "cost": {
-        "of": {
-          "investments": "Cost of Investments",
-          "goods": {
-            "sold": "Cost of Goods Sold"
-          }
+          "margin": "Net Profit Margin",
+          "text": "Net Profit"
         }
       },
       "number": {
