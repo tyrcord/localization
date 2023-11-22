@@ -193,7 +193,6 @@
       },
       "close_price": "Prix de clôture",
       "compound_interest": "Intérêt composé",
-      "cost_of_goods_sold": "Coût des marchandises vendues",
       "costs": "Coûts",
       "currencies": "Devises",
       "currency": "Devise",
@@ -243,11 +242,6 @@
       "gain": "Gain",
       "gain_per_trade": "Gain par transaction",
       "grand_total": "Total Général",
-      "gross": {
-        "income": "Revenu brut",
-        "margin": "Marge brute",
-        "profit": "Bénéfice brut"
-      },
       "high_price": "Prix le plus élevé",
       "indices": "Indices",
       "initial_investment": "Investissement initial",
@@ -259,13 +253,30 @@
       "loss_per_trade": "Perte par transaction",
       "low_price": "Prix le plus bas",
       "margin": "Marge",
+      "gross": {
+        "income": "Revenu brut",
+        "margin": "Marge brute",
+        "profit": {
+          "text": "Bénéfice brut",
+          "margin": "Marge de bénéfice brut"
+        }
+      },
       "net": {
-        "buy_price": "Prix net d'achat",
+        "buy_price": "Prix d'achat net",
         "income": "Revenu net",
         "profit": {
           "after_fee": "Bénéfice net après frais",
           "before_fee": "Bénéfice net avant frais",
-          "text": "Bénéfice net"
+          "text": "Bénéfice net",
+          "margin": "Marge de bénéfice net"
+        }
+      },
+      "cost": {
+        "of": {
+          "investments": "Coût des investissements",
+          "goods": {
+            "sold": "Coût des marchandises vendues"
+          }
         }
       },
       "number": {

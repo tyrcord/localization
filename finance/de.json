@@ -193,7 +193,6 @@
       },
       "close_price": "Schlusskurs",
       "compound_interest": "Zinseszins",
-      "cost_of_goods_sold": "Kosten der verkauften Waren",
       "costs": "Kosten",
       "currencies": "Währungen",
       "currency": "Währung",
@@ -243,11 +242,6 @@
       "gain": "Gewinn",
       "gain_per_trade": "Gewinn pro Trade",
       "grand_total": "Gesamtsumme",
-      "gross": {
-        "income": "Bruttoeinkommen",
-        "margin": "Bruttomarge",
-        "profit": "Bruttogewinn"
-      },
       "high_price": "Höchstpreis",
       "indices": "Indizes",
       "initial_investment": "Erstinvestition",
@@ -259,13 +253,30 @@
       "loss_per_trade": "Verlust pro Trade",
       "low_price": "Tiefstpreis",
       "margin": "Marge",
+      "gross": {
+        "income": "Bruttoeinkommen",
+        "margin": "Bruttomarge",
+        "profit": {
+          "text": "Bruttogewinn",
+          "margin": "Bruttogewinnmarge"
+        }
+      },
       "net": {
         "buy_price": "Netto-Kaufpreis",
         "income": "Nettoeinkommen",
         "profit": {
           "after_fee": "Nettogewinn nach Gebühren",
           "before_fee": "Nettogewinn vor Gebühren",
-          "text": "Nettogewinn"
+          "text": "Nettogewinn",
+          "margin": "Nettogewinnmarge"
+        }
+      },
+      "cost": {
+        "of": {
+          "investments": "Kosten der Investitionen",
+          "goods": {
+            "sold": "Kosten der verkauften Waren"
+          }
         }
       },
       "number": {

@@ -193,7 +193,6 @@
       },
       "close_price": "收盘价",
       "compound_interest": "复利",
-      "cost_of_goods_sold": "已售商品成本",
       "costs": "成本",
       "currencies": "货币",
       "currency": "货币",
@@ -243,11 +242,6 @@
       "gain": "盈利",
       "gain_per_trade": "每笔交易盈利",
       "grand_total": "总计",
-      "gross": {
-        "income": "总收入",
-        "margin": "毛利率",
-        "profit": "毛利润"
-      },
       "high_price": "最高价",
       "indices": "指数",
       "initial_investment": "初始投资",
@@ -259,13 +253,30 @@
       "loss_per_trade": "每笔交易亏损",
       "low_price": "最低价",
       "margin": "保证金",
+      "gross": {
+        "income": "总收入",
+        "margin": "毛利率",
+        "profit": {
+          "text": "毛利润",
+          "margin": "毛利润率"
+        }
+      },
       "net": {
-        "buy_price": "净买入价格",
+        "buy_price": "净购买价格",
         "income": "净收入",
         "profit": {
           "after_fee": "扣除费用后的净利润",
-          "before_fee": "扣费前的净利润",
-          "text": "净利润"
+          "before_fee": "扣除费用前的净利润",
+          "text": "净利润",
+          "margin": "净利润率"
+        }
+      },
+      "cost": {
+        "of": {
+          "investments": "投资成本",
+          "goods": {
+            "sold": "已售商品成本"
+          }
         }
       },
       "number": {

@@ -193,7 +193,6 @@
       },
       "close_price": "終値",
       "compound_interest": "複利",
-      "cost_of_goods_sold": "売上原価",
       "costs": "コスト",
       "currencies": "通貨",
       "currency": "通貨",
@@ -243,11 +242,6 @@
       "gain": "利益",
       "gain_per_trade": "トレードごとの利益",
       "grand_total": "総計",
-      "gross": {
-        "income": "総収入",
-        "margin": "総利益率",
-        "profit": "総利益"
-      },
       "high_price": "最高価格",
       "indices": "インデックス",
       "initial_investment": "初期投資",
@@ -259,13 +253,30 @@
       "loss_per_trade": "トレードごとの損失",
       "low_price": "最低価格",
       "margin": "証拠金",
+      "gross": {
+        "income": "総収入",
+        "margin": "総利益率",
+        "profit": {
+          "text": "総利益",
+          "margin": "総利益率"
+        }
+      },
       "net": {
         "buy_price": "純購入価格",
         "income": "純収入",
         "profit": {
           "after_fee": "手数料後の純利益",
           "before_fee": "手数料前の純利益",
-          "text": "純利益"
+          "text": "純利益",
+          "margin": "純利益率"
+        }
+      },
+      "cost": {
+        "of": {
+          "investments": "投資コスト",
+          "goods": {
+            "sold": "売上原価"
+          }
         }
       },
       "number": {

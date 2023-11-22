@@ -193,7 +193,7 @@
       },
       "close_price": "Precio de cierre",
       "compound_interest": "Interés compuesto",
-      "cost_of_goods_sold": "Costo de los bienes vendidos",
+
       "costs": "Costos",
       "currencies": "Monedas",
       "currency": "Moneda",
@@ -243,11 +243,6 @@
       "gain": "Ganancia",
       "gain_per_trade": "Ganancia por operación",
       "grand_total": "Total General",
-      "gross": {
-        "income": "Ingresos brutos",
-        "margin": "Margen bruto",
-        "profit": "Beneficio bruto"
-      },
       "high_price": "Precio más alto",
       "indices": "Índices",
       "initial_investment": "Inversión inicial",
@@ -259,13 +254,30 @@
       "loss_per_trade": "Pérdida por operación",
       "low_price": "Precio más bajo",
       "margin": "Margen",
+      "gross": {
+        "income": "Ingresos brutos",
+        "margin": "Margen bruto",
+        "profit": {
+          "text": "Beneficio bruto",
+          "margin": "Margen de beneficio bruto"
+        }
+      },
       "net": {
         "buy_price": "Precio neto de compra",
         "income": "Ingreso neto",
         "profit": {
           "after_fee": "Beneficio neto después de comisiones",
           "before_fee": "Beneficio neto antes de comisiones",
-          "text": "Beneficio neto"
+          "text": "Beneficio neto",
+          "margin": "Margen de beneficio neto"
+        }
+      },
+      "cost": {
+        "of": {
+          "investments": "Costo de las inversiones",
+          "goods": {
+            "sold": "Costo de los bienes vendidos"
+          }
         }
       },
       "number": {
