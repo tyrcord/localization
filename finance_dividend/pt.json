@@ -12,6 +12,10 @@
       "dividend_payment_frequency": {
         "example": "Por exemplo, escolha 'Trimestral' se uma empresa distribui dividendos quatro vezes por ano, ou selecione 'Anual' se os dividendos são pagos uma vez por ano.",
         "instructions": "Selecione a frequência dos pagamentos de dividendos pela empresa. As opções são 'Mensal', 'Trimestral', 'Semestral' e 'Anual'."
+      },
+      "net_income": {
+        "example": "Por exemplo, se o rendimento líquido de uma empresa for de 1,5 milhões de dólares no ano, por favor insira '1.500.000'.",
+        "instructions": "Insira o rendimento líquido da empresa para um período especificado. O rendimento líquido é o lucro de uma empresa após todas as despesas e impostos terem sido deduzidos da receita total."
       }
     },
     "label": {

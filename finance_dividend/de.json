@@ -12,6 +12,10 @@
       "dividend_payment_frequency": {
         "example": "Zum Beispiel wählen Sie 'Vierteljährlich', wenn ein Unternehmen viermal im Jahr Dividenden ausschüttet, oder wählen Sie 'Jährlich', wenn Dividenden einmal im Jahr gezahlt werden.",
         "instructions": "Wählen Sie die Häufigkeit der Dividendenzahlungen des Unternehmens. Die Optionen sind 'Monatlich', 'Vierteljährlich', 'Halbjährlich' und 'Jährlich'."
+      },
+      "net_income": {
+        "example": "Zum Beispiel, wenn der Jahresnettoumsatz eines Unternehmens 1,5 Millionen Dollar beträgt, geben Sie bitte '1.500.000' ein.",
+        "instructions": "Geben Sie den Nettogewinn des Unternehmens für einen bestimmten Zeitraum ein. Der Nettogewinn ist der Gewinn eines Unternehmens, nachdem alle Ausgaben und Steuern vom Gesamtumsatz abgezogen wurden."
       }
     },
     "label": {

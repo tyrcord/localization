@@ -12,6 +12,10 @@
       "dividend_payment_frequency": {
         "example": "For example, choose 'Quarterly' if a company distributes dividends four times a year, or select 'Annually' if dividends are paid once a year.",
         "instructions": "Select the frequency of dividend payments by the company. The options are 'Monthly', 'Quarterly', 'Semiannually', and 'Annually."
+      },
+      "net_income": {
+        "example": "For example, if a company's net income for the year is $1.5 million, please enter '1,500,000'.",
+        "instructions": "Enter the net income of the company for a specified period. Net income is the profit of a company after all expenses and taxes have been deducted from total revenue."
       }
     },
     "label": {

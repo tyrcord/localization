@@ -12,6 +12,10 @@
       "dividend_payment_frequency": {
         "example": "Ad esempio, scegliere 'Trimestrale' se una società distribuisce dividendi quattro volte all'anno, o selezionare 'Annuale' se i dividendi vengono pagati una volta all'anno.",
         "instructions": "Selezionare la frequenza dei pagamenti dei dividendi della società. Le opzioni sono 'Mensile', 'Trimestrale', 'Semestrale' e 'Annuale'."
+      },
+      "net_income": {
+        "example": "Ad esempio, se il reddito netto di un'azienda per l'anno è di 1,5 milioni di dollari, si prega di inserire '1.500.000'.",
+        "instructions": "Inserisci il reddito netto dell'azienda per un periodo specificato. Il reddito netto è l'utile di un'azienda dopo che tutte le spese e le tasse sono state dedotte dal ricavo totale."
       }
     },
     "label": {
