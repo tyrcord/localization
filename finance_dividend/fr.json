@@ -1,5 +1,19 @@
 {
   "dividend": {
+    "help": {
+      "share_price": {
+        "example": "Par exemple, si le prix actuel d'une action d'entreprise est de 50$, veuillez entrer '50'.",
+        "instructions": "Entrez le prix actuel de l'action que vous examinez."
+      },
+      "total_dividends": {
+        "example": "Par exemple, si une entreprise a versé 200.000$ en dividendes pendant un an, entrez '200.000'.",
+        "instructions": "Entrez le montant total des dividendes distribués par une entreprise."
+      },
+      "dividend_payment_frequency": {
+        "example": "Par exemple, choisissez 'Trimestriel' si une entreprise distribue des dividendes quatre fois par an, ou sélectionnez 'Annuel' si les dividendes sont payés une fois par an.",
+        "instructions": "Sélectionnez la fréquence des paiements de dividendes de l'entreprise. Les options sont 'Mensuel', 'Trimestriel', 'Semestriel', et 'Annuel'."
+      }
+    },
     "label": {
       "annual": {
         "dividend_income": "Revenu annuel de dividendes",

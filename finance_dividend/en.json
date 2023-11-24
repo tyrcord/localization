@@ -1,5 +1,19 @@
 {
   "dividend": {
+    "help": {
+      "share_price": {
+        "example": "For example, if the current price of a company's stock is $50, please enter '50'.",
+        "instructions": "Enter the current price of the stock you are reviewing."
+      },
+      "total_dividends": {
+        "example": "For example, if a company has paid out $200,000 in dividends during a year, enter '200,000'.",
+        "instructions": "Enter the total amount of dividends distributed by a company."
+      },
+      "dividend_payment_frequency": {
+        "example": "For example, choose 'Quarterly' if a company distributes dividends four times a year, or select 'Annually' if dividends are paid once a year.",
+        "instructions": "Select the frequency of dividend payments by the company. The options are 'Monthly', 'Quarterly', 'Semiannually', and 'Annually."
+      }
+    },
     "label": {
       "annual": {
         "dividend_income": "Annual Dividend Income",

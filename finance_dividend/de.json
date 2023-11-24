@@ -1,5 +1,19 @@
 {
   "dividend": {
+    "help": {
+      "share_price": {
+        "example": "Zum Beispiel, wenn der aktuelle Preis einer Unternehmensaktie 50$ beträgt, geben Sie bitte '50' ein.",
+        "instructions": "Geben Sie den aktuellen Preis der Aktie ein, die Sie überprüfen."
+      },
+      "total_dividends": {
+        "example": "Zum Beispiel, wenn ein Unternehmen im Laufe eines Jahres Dividenden in Höhe von 200.000$ ausgeschüttet hat, geben Sie '200.000' ein.",
+        "instructions": "Geben Sie die Gesamtsumme der von einem Unternehmen ausgeschütteten Dividenden ein."
+      },
+      "dividend_payment_frequency": {
+        "example": "Zum Beispiel wählen Sie 'Vierteljährlich', wenn ein Unternehmen viermal im Jahr Dividenden ausschüttet, oder wählen Sie 'Jährlich', wenn Dividenden einmal im Jahr gezahlt werden.",
+        "instructions": "Wählen Sie die Häufigkeit der Dividendenzahlungen des Unternehmens. Die Optionen sind 'Monatlich', 'Vierteljährlich', 'Halbjährlich' und 'Jährlich'."
+      }
+    },
     "label": {
       "annual": {
         "dividend_income": "Jährliches Dividendeneinkommen",
