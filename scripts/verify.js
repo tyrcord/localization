@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const referenceLanguage = "en";
-const excludeDirectories = ["scripts", ".git"];
+const excludeDirectories = ["scripts", ".git", ".github", "node_modules"];
 
 function getKeysFromJSONFile(filePath) {
   const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
@@ -31,7 +31,10 @@ function verifyLocalizationForModule(moduleName) {
   );
 
   if (!fs.existsSync(referenceFilePath)) {
-    console.log(`No ${referenceLanguage}.json found for module: ${moduleName}`);
+    console.warn(
+      `No ${referenceLanguage}.json found for module: ${moduleName}`
+    );
+
     return;
   }
 
@@ -45,6 +48,8 @@ function verifyLocalizationForModule(moduleName) {
     (file) => file.endsWith(".json") && file !== `${referenceLanguage}.json`
   );
 
+  let hasErrors = false;
+
   for (const langFile of otherLangFiles) {
     const langKeys = getKeysFromJSONFile(
       path.join(moduleDirectoryPath, langFile)
@@ -55,6 +60,7 @@ function verifyLocalizationForModule(moduleName) {
 
     if (missingKeys.length > 0 || extraKeys.length > 0) {
       console.log(`Issues found in ${langFile} for module: ${moduleName}`);
+      hasErrors = true;
 
       if (missingKeys.length > 0) {
         console.log(`\tMissing keys: ${missingKeys.join(", ")}`);
@@ -65,9 +71,11 @@ function verifyLocalizationForModule(moduleName) {
       }
     }
   }
+
+  return hasErrors;
 }
 
-function verifyLocalization() {
+function main() {
   const directories = fs
     .readdirSync(process.cwd(), { withFileTypes: true })
     .filter(
@@ -76,13 +84,27 @@ function verifyLocalization() {
     )
     .map((dirent) => dirent.name);
 
+  let hasErrors = false;
+
   for (const moduleName of directories) {
-    verifyLocalizationForModule(moduleName);
+    const errorsFound = verifyLocalizationForModule(moduleName);
+
+    if (errorsFound) hasErrors = true;
   }
+
+  return hasErrors;
 }
 
 try {
-  verifyLocalization();
+  const hasErrors = main();
+
+  if (hasErrors) {
+    console.error("Errors found in translations files");
+    process.exit(1);
+  } else {
+    console.log("Translations files are valid");
+  }
 } catch (error) {
   console.error("An error occurred:", error);
+  process.exit(1);
 }

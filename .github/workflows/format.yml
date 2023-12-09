@@ -22,7 +22,7 @@ jobs:
 
       # Setup Node.js
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
 
@@ -38,7 +38,7 @@ jobs:
       - name: Check for Dart file changes
         id: git-check
         run: |
-          git diff --exit-code -- '*.dart' || echo "changes=1" >> $GITHUB_ENV
+          git diff --exit-code -- '*.json' || echo "changes=1" >> $GITHUB_ENV
 
       # Configure Git
       - name: Configure Git
@@ -53,7 +53,7 @@ jobs:
         run: |
           git add \*.dart
           git restore .
-          git commit -m "chore: sorted imports"
+          git commit -m "chore: format translation files"
 
       # Rebase before pushing
       - name: Rebase branch
