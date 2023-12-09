@@ -308,8 +308,6 @@
         "woodie": "Woodie"
       },
       "pivot_points": "Pivot-Punkte",
-      "resistances": "Widerstände",
-      "supports": "Unterstützungen",
       "position": {
         "amount": "Positionsgröße",
         "long": "Long",
@@ -344,6 +342,7 @@
       "regular_addition": "Regelmäßige Hinzufügung",
       "required_margin": "Erforderliche Marge",
       "resistance_level": "Widerstand {level}",
+      "resistances": "Widerstände",
       "retained_earnings": "Retained earnings",
       "retracement": "Retracement",
       "return_on_investment": "Return on Investment",
@@ -399,6 +398,7 @@
       "stop_loss_take_profit": "Stop-Loss/Take-Profit",
       "subtotal": "Zwischensumme",
       "support_level": "Unterstützung {level}",
+      "supports": "Unterstützungen",
       "take_profit": {
         "amount": "Take Profit Betrag",
         "at": "Take Profit bei",

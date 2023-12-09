@@ -308,8 +308,6 @@
         "woodie": "ウッディ"
       },
       "pivot_points": "ピボットポイント",
-      "resistances": "レジスタンス",
-      "supports": "サポート",
       "position": {
         "amount": "ポジションの金額",
         "long": "ロング",
@@ -344,6 +342,7 @@
       "regular_addition": "定期的な追加",
       "required_margin": "必要な証拠金",
       "resistance_level": "抵抗レベル{level}",
+      "resistances": "レジスタンス",
       "retained_earnings": "剰余金",
       "retracement": "リトレースメント",
       "return_on_investment": "投資利益率",
@@ -399,6 +398,7 @@
       "stop_loss_take_profit": "ストップロス/利益確定",
       "subtotal": "小計",
       "support_level": "サポートレベル{level}",
+      "supports": "サポート",
       "take_profit": {
         "amount": "利益確定額",
         "at": "利益確定",

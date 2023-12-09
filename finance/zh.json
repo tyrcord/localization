@@ -308,8 +308,6 @@
         "woodie": "Woodie"
       },
       "pivot_points": "枢轴点",
-      "resistances": "阻力",
-      "supports": "支撑",
       "position": {
         "amount": "持仓金额",
         "long": "多头",
@@ -344,6 +342,7 @@
       "regular_addition": "定期增加",
       "required_margin": "所需保证金",
       "resistance_level": "阻力位 {level}",
+      "resistances": "阻力",
       "retained_earnings": "留存收益",
       "retracement": "回撤",
       "return_on_investment": "投资回报率",
@@ -399,6 +398,7 @@
       "stop_loss_take_profit": "止损/获利",
       "subtotal": "小计",
       "support_level": "支撑位 {level}",
+      "supports": "支撑",
       "take_profit": {
         "amount": "止盈金额",
         "at": "止盈于",
