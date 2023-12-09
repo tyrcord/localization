@@ -32,6 +32,18 @@
       "trend": {
         "example": "Si vous attendez que le marché favorise l'Euro par rapport au Dollar Américain, sélectionnez 'Haut'. Si vous attendez le contraire, sélectionnez 'Bas'.",
         "text": "Spécifiez la tendance du marché que vous anticipez pour une paire de devises, soit 'Haut' pour une tendance à la hausse ou 'Bas' pour une tendance à la baisse."
+      },
+      "open_price": {
+        "example": "Si vous anticipez un taux de change d'ouverture de 1.2950 pour la paire EUR/USD au début de la journée de trading, saisissez 1.2950 comme valeur.",
+        "text": "Indiquez le taux de change d'ouverture que vous anticipez pour une paire de devises au début de la journée de trading."
+      },
+      "close_price": {
+        "example": "Si vous anticipez un taux de change de clôture de 1.3050 pour la paire EUR/USD à la fin de la journée de trading, saisissez 1.3050 comme valeur.",
+        "text": "Indiquez le taux de change de clôture que vous anticipez pour une paire de devises à la fin de la journée de trading."
+      },
+      "pivot_points_method": {
+        "example": "Si vous prévoyez d'utiliser la méthode des Points Pivots Standard, sélectionnez 'Standard'.",
+        "text": "Sélectionnez la méthode de points pivots que vous avez l'intention d'utiliser pour analyser un instrument financier."
       }
     },
     "label": {

@@ -32,6 +32,18 @@
       "trend": {
         "example": "Se ti aspetti che il mercato favorisca l'Euro rispetto al Dollaro Americano, seleziona 'Su'. Se ti aspetti il contrario, seleziona 'Giù'.",
         "text": "Specifica la tendenza del mercato che prevedi per una coppia di valute, sia 'Su' per una tendenza al rialzo o 'Giù' per una tendenza al ribasso."
+      },
+      "open_price": {
+        "example": "Se prevedi che il tasso di cambio iniziale per la coppia EUR/USD all'inizio della giornata di trading sia 1.2950, inserisci 1.2950 come valore.",
+        "text": "Indica il tasso di cambio iniziale che prevedi per una coppia di valute all'inizio della giornata di trading."
+      },
+      "close_price": {
+        "example": "Se prevedi che il tasso di cambio finale per la coppia EUR/USD alla fine della giornata di trading sia 1.3050, inserisci 1.3050 come valore.",
+        "text": "Indica il tasso di cambio finale che prevedi per una coppia di valute alla fine della giornata di trading."
+      },
+      "pivot_points_method": {
+        "example": "Se intendi utilizzare il metodo Standard Pivot Point, seleziona 'Standard'.",
+        "text": "Seleziona il metodo dei punti pivot che intendi utilizzare per analizzare uno strumento finanziario."
       }
     },
     "label": {

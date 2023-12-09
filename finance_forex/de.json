@@ -32,6 +32,18 @@
       "trend": {
         "example": "Wenn Sie erwarten, dass der Markt den Euro gegenüber dem Amerikanischen Dollar bevorzugt, wählen Sie 'Aufwärts'. Wenn Sie das Gegenteil erwarten, wählen Sie 'Abwärts'.",
         "text": "Geben Sie den Markttrend an, den Sie für ein Währungspaar erwarten, entweder 'Aufwärts' für einen Aufwärtstrend oder 'Abwärts' für einen Abwärtstrend."
+      },
+      "open_price": {
+        "example": "Wenn Sie einen Eröffnungskurs von 1.2950 für das EUR/USD-Paar zu Beginn des Handelstages erwarten, geben Sie 1.2950 als Wert ein.",
+        "text": "Geben Sie den Eröffnungskurs an, den Sie für ein Währungspaar zu Beginn des Handelstages erwarten."
+      },
+      "close_price": {
+        "example": "Wenn Sie einen Schlusskurs von 1.3050 für das EUR/USD-Paar am Ende des Handelstages erwarten, geben Sie 1.3050 als Wert ein.",
+        "text": "Geben Sie den Schlusskurs an, den Sie für ein Währungspaar am Ende des Handelstages erwarten."
+      },
+      "pivot_points_method": {
+        "example": "Wenn Sie die Methode der Standard-Pivot-Punkte verwenden möchten, wählen Sie 'Standard'.",
+        "text": "Wählen Sie die Methode der Pivot-Punkte aus, die Sie zur Analyse eines Finanzinstruments verwenden möchten."
       }
     },
     "label": {

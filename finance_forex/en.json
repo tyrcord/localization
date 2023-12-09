@@ -32,6 +32,18 @@
       "trend": {
         "example": "If you expect the market to favor the Euro against the American Dollar, select 'Up'. If you expect the opposite, select 'Down'.",
         "text": "Specify the market trend you anticipate for a currency pair, either 'Up' for an upward trend or 'Down' for a downward trend."
+      },
+      "open_price": {
+        "example": "If you anticipate the opening exchange rate for the EUR/USD pair at the beginning of the trading day to be 1.2950, enter 1.2950 as the value.",
+        "text": "Indicate the opening exchange rate you anticipate for a currency pair at the start of the trading day."
+      },
+      "close_price": {
+        "example": "If you anticipate the closing exchange rate for the EUR/USD pair at the end of the trading day to be 1.3050, enter 1.3050 as the value.",
+        "text": "Indicate the closing exchange rate you anticipate for a currency pair at the end of the trading day."
+      },
+      "pivot_points_method": {
+        "example": "If you plan to use the Standard Pivot Point method, select 'Standard'.",
+        "text": "Select the pivot points method you intend to use for analyzing a financial instrument."
       }
     },
     "label": {

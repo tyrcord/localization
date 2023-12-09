@@ -32,6 +32,18 @@
       "trend": {
         "example": "Se espera que o mercado favoreça o Euro em relação ao Dólar Americano, selecione 'Subir'. Se espera o contrário, selecione 'Descer'.",
         "text": "Especifique a tendência de mercado que antecipa para um par de moedas, seja 'Subir' para uma tendência ascendente ou 'Descer' para uma tendência descendente."
+      },
+      "open_price": {
+        "example": "Se antecipar que a taxa de câmbio de abertura para o par EUR/USD no início do dia de negociação seja 1.2950, introduza 1.2950 como valor.",
+        "text": "Indique a taxa de câmbio de abertura que antecipa para um par de moedas no início do dia de negociação."
+      },
+      "close_price": {
+        "example": "Se antecipar que a taxa de câmbio de fecho para o par EUR/USD no fim do dia de negociação seja 1.3050, introduza 1.3050 como valor.",
+        "text": "Indique a taxa de câmbio de fecho que antecipa para um par de moedas no fim do dia de negociação."
+      },
+      "pivot_points_method": {
+        "example": "Se planeia usar o método de Pontos Pivot Padrão, selecione 'Padrão'.",
+        "text": "Selecione o método de pontos pivot que pretende usar para analisar um instrumento financeiro."
       }
     },
     "label": {
