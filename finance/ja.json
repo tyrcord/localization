@@ -308,6 +308,8 @@
         "woodie": "ウッディ"
       },
       "pivot_points": "ピボットポイント",
+      "resistances": "レジスタンス",
+      "supports": "サポート",
       "position": {
         "amount": "ポジションの金額",
         "long": "ロング",

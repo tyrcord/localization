@@ -307,7 +307,9 @@
         "text": "中枢点",
         "woodie": "Woodie"
       },
-      "pivot_points": "中枢点",
+      "pivot_points": "枢轴点",
+      "resistances": "阻力",
+      "supports": "支撑",
       "position": {
         "amount": "持仓金额",
         "long": "多头",

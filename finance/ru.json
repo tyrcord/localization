@@ -308,6 +308,8 @@
         "woodie": "Вуди"
       },
       "pivot_points": "Точки пивота",
+      "resistances": "Сопротивления",
+      "supports": "Поддержки",
       "position": {
         "amount": "Сумма позиции",
         "long": "Длинная позиция",

@@ -308,6 +308,8 @@
         "woodie": "Woodie"
       },
       "pivot_points": "Pivot Points",
+      "resistances": "Resistances",
+      "supports": "Supports",
       "position": {
         "amount": "Position Amount",
         "long": "Long",

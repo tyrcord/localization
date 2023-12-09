@@ -308,6 +308,8 @@
         "woodie": "Woodie"
       },
       "pivot_points": "Points pivots",
+      "resistances": "Résistances",
+      "supports": "Supports",
       "position": {
         "amount": "Montant de la position",
         "long": "Achat",

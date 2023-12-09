@@ -302,12 +302,14 @@
         "camarilla": "Camarilla",
         "demark": "DeMark",
         "fibonacci": "Fibonacci",
-        "method": "Metodo del punto di svolta",
+        "method": "Metodo del punto pivot",
         "standard": "Standard",
-        "text": "Punto di svolta",
+        "text": "Punto pivot",
         "woodie": "Woodie"
       },
-      "pivot_points": "Punti di svolta",
+      "pivot_points": "Punti pivot",
+      "resistances": "Resistenze",
+      "supports": "Supporti",
       "position": {
         "amount": "Importo della posizione",
         "long": "Lungo",
