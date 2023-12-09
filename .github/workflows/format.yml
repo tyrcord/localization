@@ -51,7 +51,7 @@ jobs:
       - name: Commit Dart files
         if: env.changes == '1'
         run: |
-          git add \*.dart
+          git add \*.json
           git restore .
           git commit -m "chore: format translation files"
 
