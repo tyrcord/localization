@@ -44,6 +44,18 @@
       "trend": {
         "example": "Si vous attendez que le marché favorise l'Euro par rapport au Dollar Américain, sélectionnez 'Haut'. Si vous attendez le contraire, sélectionnez 'Bas'.",
         "text": "Spécifiez la tendance du marché que vous anticipez pour une paire de devises, soit 'Haut' pour une tendance à la hausse ou 'Bas' pour une tendance à la baisse."
+      },
+      "entry_price": {
+        "example": "Si vous prévoyez d'entrer sur le marché pour la paire EUR/USD à un taux de change de 1,2950, saisissez 1,2950 comme valeur.",
+        "text": "Indiquez le taux de change auquel vous prévoyez d'entrer dans une opération pour une paire de devises."
+      },
+      "exit_price": {
+        "example": "Si vous prévoyez de sortir du marché pour la paire EUR/USD à un taux de change de 1,3050, saisissez 1,3050 comme valeur.",
+        "text": "Indiquez le taux de change auquel vous prévoyez de sortir d'une opération pour une paire de devises."
+      },
+      "position": {
+        "example": "Sélectionnez 'long' si vous anticipez une augmentation de la valeur de la paire de devises, ou 'court' si vous anticipez une diminution.",
+        "text": "Spécifiez si votre position de trading pour une paire de devises est 'longue' ou 'courte'."
       }
     },
     "label": {

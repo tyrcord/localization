@@ -44,6 +44,18 @@
       "trend": {
         "example": "Wenn Sie erwarten, dass der Markt den Euro gegenüber dem Amerikanischen Dollar bevorzugt, wählen Sie 'Aufwärts'. Wenn Sie das Gegenteil erwarten, wählen Sie 'Abwärts'.",
         "text": "Geben Sie den Markttrend an, den Sie für ein Währungspaar erwarten, entweder 'Aufwärts' für einen Aufwärtstrend oder 'Abwärts' für einen Abwärtstrend."
+      },
+      "entry_price": {
+        "example": "Wenn Sie planen, auf dem Markt für das Währungspaar EUR/USD zu einem Wechselkurs von 1,2950 einzusteigen, geben Sie 1,2950 als Wert ein.",
+        "text": "Geben Sie den Wechselkurs an, zu dem Sie planen, in einen Handel für ein Währungspaar einzusteigen."
+      },
+      "exit_price": {
+        "example": "Wenn Sie planen, den Markt für das Währungspaar EUR/USD zu einem Wechselkurs von 1,3050 zu verlassen, geben Sie 1,3050 als Wert ein.",
+        "text": "Geben Sie den Wechselkurs an, zu dem Sie planen, einen Handel für ein Währungspaar zu verlassen."
+      },
+      "position": {
+        "example": "Wählen Sie 'long', wenn Sie erwarten, dass der Wert des Währungspaares steigt, oder 'short', wenn Sie erwarten, dass er sinkt.",
+        "text": "Geben Sie an, ob Ihre Handelsposition für ein Währungspaar 'long' (kaufend) oder 'short' (verkaufend) ist."
       }
     },
     "label": {

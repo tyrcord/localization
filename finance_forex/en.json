@@ -44,6 +44,18 @@
       "trend": {
         "example": "If you expect the market to favor the Euro against the American Dollar, select 'Up'. If you expect the opposite, select 'Down'.",
         "text": "Specify the market trend you anticipate for a currency pair, either 'Up' for an upward trend or 'Down' for a downward trend."
+      },
+      "entry_price": {
+        "example": "If you plan to enter the market for the EUR/USD pair at an exchange rate of 1.2950, enter 1.2950 as the value.",
+        "text": "Indicate the exchange rate at which you plan to enter a trade for a currency pair."
+      },
+      "exit_price": {
+        "example": "If you plan to exit the market for the EUR/USD pair at an exchange rate of 1.3050, enter 1.3050 as the value.",
+        "text": "Indicate the exchange rate at which you plan to exit a trade for a currency pair."
+      },
+      "position": {
+        "example": "Select 'long' if you anticipate the value of the currency pair to increase, or 'short' if you anticipate it to decrease.",
+        "text": "Specify whether your trading position for a currency pair is 'long' or 'short'."
       }
     },
     "label": {

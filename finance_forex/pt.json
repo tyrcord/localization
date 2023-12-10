@@ -44,6 +44,18 @@
       "trend": {
         "example": "Se espera que o mercado favoreça o Euro em relação ao Dólar Americano, selecione 'Subir'. Se espera o contrário, selecione 'Descer'.",
         "text": "Especifique a tendência de mercado que antecipa para um par de moedas, seja 'Subir' para uma tendência ascendente ou 'Descer' para uma tendência descendente."
+      },
+      "entry_price": {
+        "example": "Se planeia entrar no mercado para o par EUR/USD a uma taxa de câmbio de 1,2950, introduza 1,2950 como o valor.",
+        "text": "Indique a taxa de câmbio na qual planeia entrar numa operação para um par de moedas."
+      },
+      "exit_price": {
+        "example": "Se planeia sair do mercado para o par EUR/USD a uma taxa de câmbio de 1,3050, introduza 1,3050 como o valor.",
+        "text": "Indique a taxa de câmbio na qual planeia sair de uma operação para um par de moedas."
+      },
+      "position": {
+        "example": "Selecione 'longo' se antecipa que o valor do par de moedas irá aumentar, ou 'curto' se antecipa que irá diminuir.",
+        "text": "Especifique se a sua posição de negociação para um par de moedas é 'longa' ou 'curta'."
       }
     },
     "label": {
