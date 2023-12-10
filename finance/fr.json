@@ -136,6 +136,10 @@
       "vat_rate": {
         "example": "Si le prix hors taxe d'un produit est de 10 $ et que le taux de TVA appliqué est de 20 %, veuillez inscrire 20 comme valeur du taux.",
         "text": "Désigne le pourcentage de la taxe sur la valeur ajoutée (TVA) appliqué à un produit ou à un service."
+      },
+      "leverage": {
+        "example": "Par exemple, si avec 1 euro de votre capital, vous empruntez 9 euros supplémentaires, choisissez le levier '10:1'.",
+        "instructions": "Sélectionnez le niveau de levier financier pour votre transaction."
       }
     },
     "label": {

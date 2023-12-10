@@ -136,6 +136,10 @@
       "vat_rate": {
         "example": "Wenn der Vorsteuerpreis eines Produkts 10 $ beträgt und der angewandte Mehrwertsteuersatz 20% beträgt, geben Sie bitte 20 als den Satzwert ein.",
         "text": "Bezieht sich auf den Prozentsatz der Mehrwertsteuer (MwSt.), der auf ein Produkt oder eine Dienstleistung angewendet wird."
+      },
+      "leverage": {
+        "example": "Zum Beispiel, wenn Sie mit 1 Dollar Ihres Kapitals zusätzliche 9 Dollar leihen, wählen Sie den '10:1' Hebel.",
+        "instructions": "Wählen Sie das Niveau des finanziellen Hebels für Ihren Handel aus."
       }
     },
     "label": {

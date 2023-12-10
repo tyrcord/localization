@@ -136,6 +136,10 @@
       "vat_rate": {
         "example": "Se o preço antes dos impostos de um produto é $10 e a taxa de IVA aplicada é de 20%, por favor, insira 20 como o valor da taxa.",
         "text": "Refere-se à percentagem do imposto sobre o valor acrescentado (IVA) aplicado a um produto ou serviço."
+      },
+      "leverage": {
+        "example": "Por exemplo, se com 1 dólar do seu capital, você empresta mais 9 dólares, escolha a alavancagem '10:1'.",
+        "instructions": "Selecione o nível de alavancagem financeira para sua negociação."
       }
     },
     "label": {

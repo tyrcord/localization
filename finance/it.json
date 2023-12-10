@@ -136,6 +136,10 @@
       "vat_rate": {
         "example": "Se il prezzo pre-tassa di un prodotto è $10 e l'aliquota IVA applicata è del 20%, inserisci 20 come valore dell'aliquota.",
         "text": "Si riferisce alla percentuale dell'imposta sul valore aggiunto (IVA) applicata a un prodotto o servizio."
+      },
+      "leverage": {
+        "example": "Ad esempio, se con 1 dollaro del tuo capitale, prendi in prestito altri 9 dollari, scegli la leva '10:1'.",
+        "instructions": "Seleziona il livello di leva finanziaria per il tuo commercio."
       }
     },
     "label": {

@@ -136,6 +136,10 @@
       "vat_rate": {
         "example": "If the pre-tax price of a product is $10 and the applied VAT rate is 20%, please enter 20 as the rate value.",
         "text": "Refers to the percentage of the value-added tax (VAT) applied to a product or service."
+      },
+      "leverage": {
+        "example": "For example, if with 1 dollar of your capital, you borrow an additional 9 dollars, choose the '10:1' leverage.",
+        "instructions": "Select the level of financial leverage for your trade."
       }
     },
     "label": {
