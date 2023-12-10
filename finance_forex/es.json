@@ -5,6 +5,14 @@
         "example": "Si anticipa que la tasa de cambio de cierre para el par EUR/USD al final del día de negociación será de 1.3050, introduzca 1.3050 como valor.",
         "text": "Indique la tasa de cambio de cierre que anticipa para un par de divisas al final del día de negociación."
       },
+      "entry_price": {
+        "example": "Si planea entrar al mercado para el par EUR/USD a un tipo de cambio de 1.2950, introduzca 1.2950 como el valor.",
+        "text": "Indique el tipo de cambio al que planea entrar en una operación para un par de divisas."
+      },
+      "exit_price": {
+        "example": "Si planea salir del mercado para el par EUR/USD a un tipo de cambio de 1.3050, introduzca 1.3050 como el valor.",
+        "text": "Indique el tipo de cambio al que planea salir de una operación para un par de divisas."
+      },
       "high_price": {
         "example": "Si anticipa que el tipo de cambio más alto para el par EUR/USD durante el día de negociación será de 1.3000, introduzca 1.3000 como valor.",
         "text": "Indique el tipo de cambio más alto que anticipa para un par de divisas."
@@ -29,6 +37,10 @@
         "example": "Si planea usar el método de Punto Pivote Estándar, seleccione 'Estándar'.",
         "text": "Seleccione el método de puntos pivote que tiene la intención de usar para analizar un instrumento financiero."
       },
+      "position": {
+        "example": "Seleccione 'largo' si anticipa que el valor del par de divisas aumentará, o 'corto' si anticipa que disminuirá.",
+        "text": "Especifique si su posición de trading para un par de divisas es 'larga' o 'corta'."
+      },
       "position_size": {
         "example": "Por ejemplo, si desea operar un lote estándar del par de divisas EUR/USD, deberá seleccionar la opción 'Lote Estándar' del menú desplegable e introducir '1' en el campo de entrada.",
         "instructions": "Ingrese la cantidad del instrumento financiero que está operando utilizando unidades, lotes estándar, lotes mini o lotes micro. Utilice el menú desplegable junto al campo de entrada para seleccionar el tamaño de posición adecuado para su operación."
@@ -44,18 +56,6 @@
       "trend": {
         "example": "Si espera que el mercado favorezca al Euro frente al Dólar Americano, seleccione 'Subir'. Si espera lo contrario, seleccione 'Bajar'.",
         "text": "Especifique la tendencia del mercado que anticipa para un par de divisas, ya sea 'Subir' para una tendencia alcista o 'Bajar' para una tendencia bajista."
-      },
-      "entry_price": {
-        "example": "Si planea entrar al mercado para el par EUR/USD a un tipo de cambio de 1.2950, introduzca 1.2950 como el valor.",
-        "text": "Indique el tipo de cambio al que planea entrar en una operación para un par de divisas."
-      },
-      "exit_price": {
-        "example": "Si planea salir del mercado para el par EUR/USD a un tipo de cambio de 1.3050, introduzca 1.3050 como el valor.",
-        "text": "Indique el tipo de cambio al que planea salir de una operación para un par de divisas."
-      },
-      "position": {
-        "example": "Seleccione 'largo' si anticipa que el valor del par de divisas aumentará, o 'corto' si anticipa que disminuirá.",
-        "text": "Especifique si su posición de trading para un par de divisas es 'larga' o 'corta'."
       }
     },
     "label": {

@@ -5,6 +5,14 @@
         "example": "Si vous anticipez un taux de change de clôture de 1.3050 pour la paire EUR/USD à la fin de la journée de trading, saisissez 1.3050 comme valeur.",
         "text": "Indiquez le taux de change de clôture que vous anticipez pour une paire de devises à la fin de la journée de trading."
       },
+      "entry_price": {
+        "example": "Si vous prévoyez d'entrer sur le marché pour la paire EUR/USD à un taux de change de 1,2950, saisissez 1,2950 comme valeur.",
+        "text": "Indiquez le taux de change auquel vous prévoyez d'entrer dans une opération pour une paire de devises."
+      },
+      "exit_price": {
+        "example": "Si vous prévoyez de sortir du marché pour la paire EUR/USD à un taux de change de 1,3050, saisissez 1,3050 comme valeur.",
+        "text": "Indiquez le taux de change auquel vous prévoyez de sortir d'une opération pour une paire de devises."
+      },
       "high_price": {
         "example": "Si vous anticipez que le taux de change le plus élevé pour la paire EUR/USD pendant la journée de trading sera de 1,3000, entrez 1,3000 comme valeur.",
         "text": "Indiquez le taux de change le plus élevé que vous anticipez pour une paire de devises."
@@ -29,6 +37,10 @@
         "example": "Si vous prévoyez d'utiliser la méthode des Points Pivots Standard, sélectionnez 'Standard'.",
         "text": "Sélectionnez la méthode de points pivots que vous avez l'intention d'utiliser pour analyser un instrument financier."
       },
+      "position": {
+        "example": "Sélectionnez 'long' si vous anticipez une augmentation de la valeur de la paire de devises, ou 'court' si vous anticipez une diminution.",
+        "text": "Spécifiez si votre position de trading pour une paire de devises est 'longue' ou 'courte'."
+      },
       "position_size": {
         "example": "Par exemple, si vous souhaitez négocier un lot standard de la paire de devises EUR/USD, vous devrez sélectionner l'option 'Lot Standard' dans le menu déroulant et entrer '1' dans le champ de saisie.",
         "instructions": "Entrez la quantité de l'instrument financier que vous négociez en utilisant des unités, des lots standards, des mini lots ou des micro lots. Utilisez le menu déroulant à côté du champ de saisie pour sélectionner la taille de position appropriée pour votre échange."
@@ -44,18 +56,6 @@
       "trend": {
         "example": "Si vous attendez que le marché favorise l'Euro par rapport au Dollar Américain, sélectionnez 'Haut'. Si vous attendez le contraire, sélectionnez 'Bas'.",
         "text": "Spécifiez la tendance du marché que vous anticipez pour une paire de devises, soit 'Haut' pour une tendance à la hausse ou 'Bas' pour une tendance à la baisse."
-      },
-      "entry_price": {
-        "example": "Si vous prévoyez d'entrer sur le marché pour la paire EUR/USD à un taux de change de 1,2950, saisissez 1,2950 comme valeur.",
-        "text": "Indiquez le taux de change auquel vous prévoyez d'entrer dans une opération pour une paire de devises."
-      },
-      "exit_price": {
-        "example": "Si vous prévoyez de sortir du marché pour la paire EUR/USD à un taux de change de 1,3050, saisissez 1,3050 comme valeur.",
-        "text": "Indiquez le taux de change auquel vous prévoyez de sortir d'une opération pour une paire de devises."
-      },
-      "position": {
-        "example": "Sélectionnez 'long' si vous anticipez une augmentation de la valeur de la paire de devises, ou 'court' si vous anticipez une diminution.",
-        "text": "Spécifiez si votre position de trading pour une paire de devises est 'longue' ou 'courte'."
       }
     },
     "label": {

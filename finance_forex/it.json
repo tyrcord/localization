@@ -5,6 +5,14 @@
         "example": "Se prevedi che il tasso di cambio finale per la coppia EUR/USD alla fine della giornata di trading sia 1.3050, inserisci 1.3050 come valore.",
         "text": "Indica il tasso di cambio finale che prevedi per una coppia di valute alla fine della giornata di trading."
       },
+      "entry_price": {
+        "example": "Se prevedi di entrare sul mercato per la coppia EUR/USD con un tasso di cambio di 1,2950, inserisci 1,2950 come valore.",
+        "text": "Indica il tasso di cambio al quale prevedi di entrare in una operazione per una coppia di valute."
+      },
+      "exit_price": {
+        "example": "Se prevedi di uscire dal mercato per la coppia EUR/USD con un tasso di cambio di 1,3050, inserisci 1,3050 come valore.",
+        "text": "Indica il tasso di cambio al quale prevedi di uscire da una operazione per una coppia di valute."
+      },
       "high_price": {
         "example": "Se prevedi che il tasso di cambio più alto per la coppia EUR/USD durante il giorno di trading sarà 1,3000, inserisci 1,3000 come valore.",
         "text": "Indica il tasso di cambio più alto che prevedi per una coppia di valute."
@@ -29,6 +37,10 @@
         "example": "Se intendi utilizzare il metodo Standard Pivot Point, seleziona 'Standard'.",
         "text": "Seleziona il metodo dei punti pivot che intendi utilizzare per analizzare uno strumento finanziario."
       },
+      "position": {
+        "example": "Seleziona 'lungo' se prevedi un aumento del valore della coppia di valute, o 'corto' se prevedi una diminuzione.",
+        "text": "Specifica se la tua posizione di trading per una coppia di valute è 'lunga' o 'corta'."
+      },
       "position_size": {
         "example": "Ad esempio, se si desidera scambiare un lotto standard della coppia di valute EUR/USD, sarà necessario selezionare l'opzione 'Lotto Standard' dal menu a discesa e inserire '1' nel campo di input.",
         "instructions": "Inserisci la quantità dello strumento finanziario che stai scambiando utilizzando unità, lotti standard, mini lotti o micro lotti. Utilizza il menu a discesa accanto al campo di input per selezionare la dimensione della posizione adeguata per il tuo scambio."
@@ -44,18 +56,6 @@
       "trend": {
         "example": "Se ti aspetti che il mercato favorisca l'Euro rispetto al Dollaro Americano, seleziona 'Su'. Se ti aspetti il contrario, seleziona 'Giù'.",
         "text": "Specifica la tendenza del mercato che prevedi per una coppia di valute, sia 'Su' per una tendenza al rialzo o 'Giù' per una tendenza al ribasso."
-      },
-      "entry_price": {
-        "example": "Se prevedi di entrare sul mercato per la coppia EUR/USD con un tasso di cambio di 1,2950, inserisci 1,2950 come valore.",
-        "text": "Indica il tasso di cambio al quale prevedi di entrare in una operazione per una coppia di valute."
-      },
-      "exit_price": {
-        "example": "Se prevedi di uscire dal mercato per la coppia EUR/USD con un tasso di cambio di 1,3050, inserisci 1,3050 come valore.",
-        "text": "Indica il tasso di cambio al quale prevedi di uscire da una operazione per una coppia di valute."
-      },
-      "position": {
-        "example": "Seleziona 'lungo' se prevedi un aumento del valore della coppia di valute, o 'corto' se prevedi una diminuzione.",
-        "text": "Specifica se la tua posizione di trading per una coppia di valute è 'lunga' o 'corta'."
       }
     },
     "label": {
