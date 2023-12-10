@@ -81,6 +81,10 @@
         "example": "Por ejemplo, si su tasa impositiva aplicable es del 25%, por favor introduzca '25'.",
         "instructions": "Introduzca la tasa de impuestos que se aplica a sus ingresos por inversiones o ganancias de capital. Esto debe expresarse como un porcentaje. Asegúrese de usar la tasa que corresponde a su tramo impositivo o la tasa de impuestos específica para el tipo de ingreso que está declarando."
       },
+      "leverage": {
+        "example": "Por ejemplo, si con 1 dólar de su capital, usted toma prestados 9 dólares adicionales, elija el apalancamiento '10:1'.",
+        "instructions": "Seleccione el nivel de apalancamiento financiero para su operación."
+      },
       "operating_expenses": {
         "example": "Por ejemplo, si su negocio gasta $3,500 en alquiler, $2,500 en servicios públicos, $10,000 en salarios y $4,000 en varios gastos administrativos, sumaría estos montos e introduciría '20000'.",
         "instructions": "Introduzca el monto total de los gastos incurridos para las actividades operativas de su negocio. Esto incluye costos como alquiler, servicios públicos, salarios, mantenimiento y otros gastos administrativos necesarios para la operación diaria. No debe incluir impuestos, pagos de intereses u otros gastos no operativos."
@@ -136,10 +140,6 @@
       "vat_rate": {
         "example": "Si el precio antes de impuestos de un producto es de $10 y la tasa de IVA aplicada es del 20%, por favor ingrese 20 como el valor de la tasa.",
         "text": "Se refiere al porcentaje del impuesto al valor agregado (IVA) aplicado a un producto o servicio."
-      },
-      "leverage": {
-        "example": "Por ejemplo, si con 1 dólar de su capital, usted toma prestados 9 dólares adicionales, elija el apalancamiento '10:1'.",
-        "instructions": "Seleccione el nivel de apalancamiento financiero para su operación."
       }
     },
     "label": {
