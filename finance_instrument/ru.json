@@ -76,7 +76,16 @@
       "uruguayan_peso": "Уругвайское песо",
       "vietnamese_dong": "Вьетнамский донг",
       "zambian_kwacha": "Замбийская квача",
-      "zimbabwe_dollar": "Доллар Зимбабве"
+      "zimbabwe_dollar": "Доллар Зимбабве",
+      "belarusian_ruble": "Белорусский Рубль",
+      "kenyan_shilling": "Кенийский Шиллинг",
+      "ghanaian_cedi": "Ганский Седи",
+      "sri_lankan_rupee": "Шри-Ланкийская Рупия",
+      "bulgarian_lev": "Болгарский Лев",
+      "tanzanian_shilling": "Танзанийский Шиллинг",
+      "yemeni_rial": "Йеменский Риал",
+      "bangladeshi_taka": "Бангладешский Така",
+      "jordanian_dinar": "Иорданский Динар"
     },
     "message": {
       "search_instrument": "Поиск финансового инструмента..."

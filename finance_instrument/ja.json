@@ -76,7 +76,16 @@
       "uruguayan_peso": "ウルグアイペソ",
       "vietnamese_dong": "ベトナムドン",
       "zambian_kwacha": "ザンビアクワチャ",
-      "zimbabwe_dollar": "ジンバブエドル"
+      "zimbabwe_dollar": "ジンバブエドル",
+      "belarusian_ruble": "ベラルーシ・ルーブル",
+      "kenyan_shilling": "ケニア・シリング",
+      "ghanaian_cedi": "ガーナ・セディ",
+      "sri_lankan_rupee": "スリランカ・ルピー",
+      "bulgarian_lev": "ブルガリア・レフ",
+      "tanzanian_shilling": "タンザニア・シリング",
+      "yemeni_rial": "イエメン・リアル",
+      "bangladeshi_taka": "バングラデシュ・タカ",
+      "jordanian_dinar": "ヨルダン・ディナール"
     },
     "message": {
       "search_instrument": "金融商品を検索..."

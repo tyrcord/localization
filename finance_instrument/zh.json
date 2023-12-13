@@ -76,7 +76,16 @@
       "uruguayan_peso": "乌拉圭比索",
       "vietnamese_dong": "越南盾",
       "zambian_kwacha": "赞比亚克瓦查",
-      "zimbabwe_dollar": "津巴布韦元"
+      "zimbabwe_dollar": "津巴布韦元",
+      "belarusian_ruble": "白俄罗斯卢布",
+      "kenyan_shilling": "肯尼亚先令",
+      "ghanaian_cedi": "加纳塞地",
+      "sri_lankan_rupee": "斯里兰卡卢比",
+      "bulgarian_lev": "保加利亚列弗",
+      "tanzanian_shilling": "坦桑尼亚先令",
+      "yemeni_rial": "也门里亚尔",
+      "bangladeshi_taka": "孟加拉塔卡",
+      "jordanian_dinar": "约旦第纳尔"
     },
     "message": {
       "search_instrument": "搜索金融工具..."

@@ -76,7 +76,16 @@
       "uruguayan_peso": "Uruguayischer Peso",
       "vietnamese_dong": "Vietnamesischer Đồng",
       "zambian_kwacha": "Sambischer Kwacha",
-      "zimbabwe_dollar": "Simbabwischer Dollar"
+      "zimbabwe_dollar": "Simbabwischer Dollar",
+      "belarusian_ruble": "Weißrussischer Rubel",
+      "kenyan_shilling": "Kenianischer Schilling",
+      "ghanaian_cedi": "Ghanaischer Cedi",
+      "sri_lankan_rupee": "Sri-Lankische Rupie",
+      "bulgarian_lev": "Bulgarischer Lew",
+      "tanzanian_shilling": "Tansanischer Schilling",
+      "yemeni_rial": "Jemenitischer Rial",
+      "bangladeshi_taka": "Bangladeschischer Taka",
+      "jordanian_dinar": "Jordanischer Dinar"
     },
     "message": {
       "search_instrument": "Suche nach einem Finanzinstrument..."
