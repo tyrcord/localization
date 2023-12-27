@@ -47,9 +47,9 @@ function processAndSortJSONFile(filePath) {
 
     // Write the sorted JSON data to the file
     jsonData = JSON.stringify(jsonData, null, 2) + "\n";
-    fs.writeFileSync(filePath, sortedData, "utf8");
+    fs.writeFileSync(filePath, jsonData, "utf8");
 
-    console.log(`Sorted keys in file: ${filePath}`);
+    console.log(`Processed file: ${filePath}`);
   } catch (error) {
     console.error(`Error sorting or renaming JSON file: ${filePath}\n`, error);
   }
@@ -85,7 +85,7 @@ function capitalizeFirstLetterOfSentences(jsonData) {
   if (typeof jsonData === "string") {
     return jsonData.replace(
       sentenceBoundaryRegex,
-      (match, p1, p2) => p1 + " " + p2.toUpperCase()
+      (_, p1, p2) => p1 + " " + p2.toLocaleUpperCase()
     );
   }
 
