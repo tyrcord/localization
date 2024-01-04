@@ -131,6 +131,19 @@
       }
     },
     "label": {
+      "compounding": {
+        "frequency": "Частота начисления сложных процентов",
+        "text": "Капитализация"
+      },
+      "compound": {
+        "interest": "Сложный процент",
+        "text": "Сложный"
+      },
+      "earnings": "Доходы",
+      "deposits": "Депозиты",
+      "withdrawals": "Снятия",
+      "cashflow": "Денежный поток",
+      "period": "Период",
       "account": {
         "balance": "Баланс счета",
         "currency": "Валюта счета",
@@ -192,7 +205,6 @@
         "price_per_unit": "Цена покупки за единицу"
       },
       "close_price": "Цена закрытия",
-      "compound_interest": "Сложные проценты",
       "cost": {
         "of": {
           "goods": {
@@ -426,7 +438,11 @@
         "return": "Общий доход",
         "revenue": "Общий доход",
         "tax": "Общий налог",
-        "text": "Итого"
+        "text": "Итого",
+        "earnings": "Общий доход",
+        "expenses": "Общие расходы",
+        "withdrawals": "Общие снятия",
+        "deposits": "Общие вклады"
       },
       "trade": {
         "size": {

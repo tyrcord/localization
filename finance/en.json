@@ -131,6 +131,19 @@
       }
     },
     "label": {
+      "compounding": {
+        "frequency": "Compounding frequency",
+        "text": "Compounding"
+      },
+      "compound": {
+        "interest": "Compound interest",
+        "text": "Compound"
+      },
+      "earnings": "Earnings",
+      "deposits": "Deposits",
+      "withdrawals": "Withdrawals",
+      "cashflow": "Cash flow",
+      "period": "Period",
       "account": {
         "balance": "Account balance",
         "currency": "Account currency",
@@ -192,7 +205,6 @@
         "price_per_unit": "Buying price per unit"
       },
       "close_price": "Close price",
-      "compound_interest": "Compound interest",
       "cost": {
         "of": {
           "goods": {
@@ -426,7 +438,11 @@
         "return": "Total return",
         "revenue": "Total revenue",
         "tax": "Total taxes",
-        "text": "Total"
+        "text": "Total",
+        "earnings": "Total earnings",
+        "expenses": "Total expenses",
+        "withdrawals": "Total withdrawals",
+        "deposits": "Total deposits"
       },
       "trade": {
         "size": {

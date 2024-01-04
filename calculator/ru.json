@@ -2,7 +2,9 @@
   "calculator": {
     "label": {
       "calculator": "Калькулятор",
-      "calculators": "Калькуляторы"
+      "calculators": "Калькуляторы",
+      "results": "Результаты",
+      "breakdown": "Разбивка"
     },
     "title": {
       "instructions": "Инструкции по использованию этого Калькулятора",

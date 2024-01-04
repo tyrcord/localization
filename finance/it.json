@@ -131,6 +131,19 @@
       }
     },
     "label": {
+      "compounding": {
+        "frequency": "Frequenza di capitalizzazione",
+        "text": "Capitalizzazione"
+      },
+      "compound": {
+        "interest": "Interesse composto",
+        "text": "Composto"
+      },
+      "earnings": "Guadagni",
+      "deposits": "Depositi",
+      "withdrawals": "Prelievi",
+      "cashflow": "Flusso di cassa",
+      "period": "Periodo",
       "account": {
         "balance": "Saldo conto",
         "currency": "Valuta del conto",
@@ -192,7 +205,6 @@
         "price_per_unit": "Prezzo d'acquisto per unità"
       },
       "close_price": "Prezzo di chiusura",
-      "compound_interest": "Interesse composto",
       "cost": {
         "of": {
           "goods": {
@@ -426,7 +438,11 @@
         "return": "Rendimento totale",
         "revenue": "Ricavo totale",
         "tax": "Tasse totali",
-        "text": "Totale"
+        "text": "Totale",
+        "earnings": "Guadagni totali",
+        "expenses": "Spese totali",
+        "withdrawals": "Prelievi totali",
+        "deposits": "Depositi totali"
       },
       "trade": {
         "size": {

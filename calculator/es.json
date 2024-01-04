@@ -2,7 +2,9 @@
   "calculator": {
     "label": {
       "calculator": "Calculadora",
-      "calculators": "Calculadoras"
+      "calculators": "Calculadoras",
+      "results": "Resultados",
+      "breakdown": "Desglose"
     },
     "title": {
       "instructions": "Instrucciones para utilizar esta Calculadora",

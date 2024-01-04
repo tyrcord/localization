@@ -2,7 +2,9 @@
   "calculator": {
     "label": {
       "calculator": "Rechner",
-      "calculators": "Rechner"
+      "calculators": "Rechner",
+      "results": "Ergebnisse",
+      "breakdown": "Aufschlüsselung"
     },
     "title": {
       "instructions": "Anleitung zur Verwendung dieses Rechners",

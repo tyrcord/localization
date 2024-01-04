@@ -2,7 +2,9 @@
   "calculator": {
     "label": {
       "calculator": "Calculator",
-      "calculators": "Calculators"
+      "calculators": "Calculators",
+      "results": "Results",
+      "breakdown": "Breakdown"
     },
     "title": {
       "instructions": "Instructions for using this Calculator",

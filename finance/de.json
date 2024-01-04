@@ -131,6 +131,19 @@
       }
     },
     "label": {
+      "compounding": {
+        "frequency": "Häufigkeit der Zinseszinsbildung",
+        "text": "Zinseszins"
+      },
+      "compound": {
+        "interest": "Zinseszins",
+        "text": "Zusammengesetzt"
+      },
+      "earnings": "Einnahmen",
+      "deposits": "Einlagen",
+      "withdrawals": "Abhebungen",
+      "cashflow": "Cashflow",
+      "period": "Zeitraum",
       "account": {
         "balance": "Kontostand",
         "currency": "Kontowährung",
@@ -192,7 +205,6 @@
         "price_per_unit": "Kaufpreis pro einheit"
       },
       "close_price": "Schlusskurs",
-      "compound_interest": "Zinseszins",
       "cost": {
         "of": {
           "goods": {
@@ -426,7 +438,11 @@
         "return": "Gesamtrendite",
         "revenue": "Gesamteinnahmen",
         "tax": "Gesamtsteuern",
-        "text": "Gesamt"
+        "text": "Gesamt",
+        "earnings": "Gesamteinnahmen",
+        "expenses": "Gesamtausgaben",
+        "withdrawals": "Gesamtabhebungen",
+        "deposits": "Gesamteinlagen"
       },
       "trade": {
         "size": {

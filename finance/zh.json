@@ -131,6 +131,19 @@
       }
     },
     "label": {
+      "compounding": {
+        "frequency": "复利频率",
+        "text": "复利"
+      },
+      "compound": {
+        "interest": "复合利息",
+        "text": "复合"
+      },
+      "earnings": "收益",
+      "deposits": "存款",
+      "withdrawals": "提款",
+      "cashflow": "现金流",
+      "period": "时期",
       "account": {
         "balance": "账户余额",
         "currency": "账户货币",
@@ -192,7 +205,6 @@
         "price_per_unit": "每单位购买价格"
       },
       "close_price": "收盘价",
-      "compound_interest": "复利",
       "cost": {
         "of": {
           "goods": {
@@ -426,7 +438,11 @@
         "return": "总回报",
         "revenue": "总收入",
         "tax": "总税款",
-        "text": "总计"
+        "text": "总计",
+        "earnings": "总收益",
+        "expenses": "总支出",
+        "withdrawals": "总提款",
+        "deposits": "总存款"
       },
       "trade": {
         "size": {
