@@ -1,10 +1,10 @@
 {
   "calculator": {
     "label": {
+      "breakdown": "内訳",
       "calculator": "電卓",
       "calculators": "電卓",
-      "results": "結果",
-      "breakdown": "内訳"
+      "results": "結果"
     },
     "title": {
       "instructions": "この計算機の使用方法",
