@@ -131,13 +131,28 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "附加指标",
+        "contributions": "附加贡献"
+      },
+      "contribution_frequency": "投资频率",
+      "rate_of_return": {
+        "text": "回报率",
+        "all_time": "历史回报率"
+      },
+      "return_frequency": "回报频率",
+      "withdrawal": {
+        "amount": "提款金额",
+        "text": "提款"
+      },
+      "withdrawals": {
+        "amount": "提现金额",
+        "text": "提现"
+      },
       "account": {
         "balance": "账户余额",
         "currency": "账户货币",
         "size": "账户规模"
-      },
-      "additional": {
-        "metrics": "附加指标"
       },
       "additional_tax": {
         "amount": "额外税额",
@@ -461,8 +476,7 @@
         "amount": "增值税金额",
         "rate": "增值税率",
         "text": "增值税"
-      },
-      "withdrawals": "提款"
+      }
     },
     "message": {
       "last_updated_on": "{date}最后更新的汇率"

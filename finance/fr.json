@@ -131,13 +131,28 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Métriques supplémentaires",
+        "contributions": "Contributions supplémentaires"
+      },
+      "contribution_frequency": "Fréquence de contribution",
+      "rate_of_return": {
+        "text": "Taux de rendement",
+        "all_time": "Taux de rendement global"
+      },
+      "return_frequency": "Fréquence de rendement",
+      "withdrawal": {
+        "amount": "Montant du retrait",
+        "text": "Retrait"
+      },
+      "withdrawals": {
+        "amount": "Montant des retraits",
+        "text": "Retraits"
+      },
       "account": {
         "balance": "Solde du compte",
         "currency": "Devise du compte",
         "size": "Taille du compte"
-      },
-      "additional": {
-        "metrics": "Métriques supplémentaires"
       },
       "additional_tax": {
         "amount": "Montant d'imposition additionnel",
@@ -461,8 +476,7 @@
         "amount": "Montant de la TVA",
         "rate": "Taux de TVA",
         "text": "TVA"
-      },
-      "withdrawals": "Retraits"
+      }
     },
     "message": {
       "last_updated_on": "Taux mis à jour le {date}"

@@ -131,13 +131,29 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Metriche aggiuntive",
+        "contributions": "Contributi aggiuntivi"
+      },
+      "contribution_frequency": "Frequenza dei contributi",
+      "rate_of_return": {
+        "text": "Tasso di rendimento",
+        "all_time": "Tasso di rendimento complessivo"
+      },
+      "return_frequency": "Frequenza di rendimento",
+
+      "withdrawal": {
+        "amount": "Importo del prelievo",
+        "text": "Prelievo"
+      },
+      "withdrawals": {
+        "amount": "Importo dei prelievi",
+        "text": "Prelievi"
+      },
       "account": {
         "balance": "Saldo conto",
         "currency": "Valuta del conto",
         "size": "Dimensione conto"
-      },
-      "additional": {
-        "metrics": "Metriche aggiuntive"
       },
       "additional_tax": {
         "amount": "Importo di tasse aggiuntive",
@@ -461,8 +477,7 @@
         "amount": "Importo dell'IVA",
         "rate": "Tasso dell'IVA",
         "text": "IVA"
-      },
-      "withdrawals": "Prelievi"
+      }
     },
     "message": {
       "last_updated_on": "Tassi aggiornati l'ultima volta il {date}"

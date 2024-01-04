@@ -131,13 +131,28 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Métricas adicionales",
+        "contributions": "Contribuciones adicionales"
+      },
+      "contribution_frequency": "Frecuencia de contribución",
+      "rate_of_return": {
+        "text": "Tasa de retorno",
+        "all_time": "Tasa de retorno de todos los tiempos"
+      },
+      "return_frequency": "Frecuencia de retorno",
+      "withdrawal": {
+        "amount": "Cantidad de retiro",
+        "text": "Retiro"
+      },
+      "withdrawals": {
+        "amount": "Importe de retiradas",
+        "text": "Retiradas"
+      },
       "account": {
         "balance": "Saldo de la cuenta",
         "currency": "Moneda de la cuenta",
         "size": "Tamaño de la cuenta"
-      },
-      "additional": {
-        "metrics": "Métricas adicionales"
       },
       "additional_tax": {
         "amount": "Importe de impuesto adicional",
@@ -461,8 +476,7 @@
         "amount": "Cantidad de IVA",
         "rate": "Tasa de IVA",
         "text": "IVA"
-      },
-      "withdrawals": "Retiros"
+      }
     },
     "message": {
       "last_updated_on": "Tasas actualizadas por última vez el {date}"

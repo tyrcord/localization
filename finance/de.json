@@ -131,13 +131,28 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Zusätzliche metriken",
+        "contributions": "Zusätzliche Beiträge"
+      },
+      "contribution_frequency": "Häufigkeit der Beiträge",
+      "rate_of_return": {
+        "text": "Rendite",
+        "all_time": "Rendite über die gesamte Laufzeit"
+      },
+      "return_frequency": "Renditehäufigkeit",
+      "withdrawal": {
+        "amount": "Auszahlungsbetrag",
+        "text": "Auszahlung"
+      },
+      "withdrawals": {
+        "amount": "Betrag der Auszahlungen",
+        "text": "Auszahlungen"
+      },
       "account": {
         "balance": "Kontostand",
         "currency": "Kontowährung",
         "size": "Kontogröße"
-      },
-      "additional": {
-        "metrics": "Zusätzliche metriken"
       },
       "additional_tax": {
         "amount": "Zusätzlicher steuerbetrag",
@@ -461,8 +476,7 @@
         "amount": "MwSt betrag",
         "rate": "MwSt satz",
         "text": "MwSt"
-      },
-      "withdrawals": "Abhebungen"
+      }
     },
     "message": {
       "last_updated_on": "Rates last updated on {date}"

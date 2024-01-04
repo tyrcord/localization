@@ -131,14 +131,30 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Additional metrics",
+        "contributions": "Additional contributions"
+      },
+      "contribution_frequency": "Contribution frequency",
+      "rate_of_return": {
+        "text": "Rate of return",
+        "all_time": "All-time rate of return"
+      },
+      "return_frequency": "Return frequency",
       "account": {
         "balance": "Account balance",
         "currency": "Account currency",
         "size": "Account size"
       },
-      "additional": {
-        "metrics": "Additional metrics"
+      "withdrawal": {
+        "amount": "Withdrawal amount",
+        "text": "Withdrawal"
       },
+      "withdrawals": {
+        "amount": "Withdrawals amount",
+        "text": "Withdrawals"
+      },
+
       "additional_tax": {
         "amount": "Additional tax amount",
         "rate": "Additional tax rate",
@@ -461,8 +477,7 @@
         "amount": "VAT amount",
         "rate": "VAT rate",
         "text": "VAT"
-      },
-      "withdrawals": "Withdrawals"
+      }
     },
     "message": {
       "last_updated_on": "Rates last updated on {date}"

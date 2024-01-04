@@ -131,13 +131,29 @@
       }
     },
     "label": {
+      "additional": {
+        "metrics": "Дополнительные метрики",
+        "contributions": "Дополнительные взносы"
+      },
+      "contribution_frequency": "Частота взносов",
+      "rate_of_return": {
+        "text": "Ставка доходности",
+        "all_time": "Доходность за все время"
+      },
+      "return_frequency": "Частота доходности",
+
+      "withdrawal": {
+        "amount": "Сумма снятия",
+        "text": "Снятие"
+      },
+      "withdrawals": {
+        "amount": "Сумма вывода",
+        "text": "Выводы"
+      },
       "account": {
         "balance": "Баланс счета",
         "currency": "Валюта счета",
         "size": "Размер счета"
-      },
-      "additional": {
-        "metrics": "Дополнительные метрики"
       },
       "additional_tax": {
         "amount": "Сумма дополнительного налога",
@@ -461,8 +477,7 @@
         "amount": "Сумма НДС",
         "rate": "Ставка НДС",
         "text": "НДС"
-      },
-      "withdrawals": "Снятия"
+      }
     },
     "message": {
       "last_updated_on": "Курсы последний раз обновлялись {date}"
