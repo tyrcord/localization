@@ -131,28 +131,14 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "追加のメトリクス",
-        "contributions": "追加の貢献"
-      },
-      "contribution_frequency": "貢献頻度",
-      "rate_of_return": {
-        "text": "リターン率",
-        "all_time": "全期間のリターン率"
-      },
-      "return_frequency": "リターン頻度",
-      "withdrawal": {
-        "amount": "引き出し金額",
-        "text": "引き出し"
-      },
-      "withdrawals": {
-        "amount": "引き出し金額",
-        "text": "引き出し"
-      },
       "account": {
         "balance": "口座残高",
         "currency": "口座の通貨",
         "size": "口座のサイズ"
+      },
+      "additional": {
+        "contributions": "追加の貢献",
+        "metrics": "追加のメトリクス"
       },
       "additional_tax": {
         "amount": "追加税額",
@@ -216,6 +202,7 @@
         "frequency": "複利の頻度",
         "text": "複利"
       },
+      "contribution_frequency": "貢献頻度",
       "cost": {
         "of": {
           "goods": {
@@ -356,6 +343,10 @@
         "price_per_unit": "単位あたりの購入価格"
       },
       "rate": "レート",
+      "rate_of_return": {
+        "all_time": "全期間のリターン率",
+        "text": "リターン率"
+      },
       "real_time_quotes": "リアルタイムの見積もり",
       "regular_addition": "定期的な追加",
       "required_margin": "必要な証拠金",
@@ -363,6 +354,7 @@
       "resistances": "レジスタンス",
       "retained_earnings": "剰余金",
       "retracement": "リトレースメント",
+      "return_frequency": "リターン頻度",
       "return_on_investment": "投資利益率",
       "revenue": "収益",
       "risk": {
@@ -476,6 +468,14 @@
         "amount": "VATの金額",
         "rate": "VATのレート",
         "text": "VAT"
+      },
+      "withdrawal": {
+        "amount": "引き出し金額",
+        "text": "引き出し"
+      },
+      "withdrawals": {
+        "amount": "引き出し金額",
+        "text": "引き出し"
       }
     },
     "message": {

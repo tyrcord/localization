@@ -131,28 +131,14 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "Métricas adicionales",
-        "contributions": "Contribuciones adicionales"
-      },
-      "contribution_frequency": "Frecuencia de contribución",
-      "rate_of_return": {
-        "text": "Tasa de retorno",
-        "all_time": "Tasa de retorno de todos los tiempos"
-      },
-      "return_frequency": "Frecuencia de retorno",
-      "withdrawal": {
-        "amount": "Cantidad de retiro",
-        "text": "Retiro"
-      },
-      "withdrawals": {
-        "amount": "Importe de retiradas",
-        "text": "Retiradas"
-      },
       "account": {
         "balance": "Saldo de la cuenta",
         "currency": "Moneda de la cuenta",
         "size": "Tamaño de la cuenta"
+      },
+      "additional": {
+        "contributions": "Contribuciones adicionales",
+        "metrics": "Métricas adicionales"
       },
       "additional_tax": {
         "amount": "Importe de impuesto adicional",
@@ -216,6 +202,7 @@
         "frequency": "Frecuencia de capitalización",
         "text": "Capitalización"
       },
+      "contribution_frequency": "Frecuencia de contribución",
       "cost": {
         "of": {
           "goods": {
@@ -356,6 +343,10 @@
         "price_per_unit": "Precio de adquisición por unidad"
       },
       "rate": "Tasa",
+      "rate_of_return": {
+        "all_time": "Tasa de retorno de todos los tiempos",
+        "text": "Tasa de retorno"
+      },
       "real_time_quotes": "Cotizaciones en tiempo real",
       "regular_addition": "Aportación regular",
       "required_margin": "Margen requerido",
@@ -363,6 +354,7 @@
       "resistances": "Resistencias",
       "retained_earnings": "Beneficios retenidos",
       "retracement": "Retracción",
+      "return_frequency": "Frecuencia de retorno",
       "return_on_investment": "Retorno de la inversión",
       "revenue": "Ingresos",
       "risk": {
@@ -476,6 +468,14 @@
         "amount": "Cantidad de IVA",
         "rate": "Tasa de IVA",
         "text": "IVA"
+      },
+      "withdrawal": {
+        "amount": "Cantidad de retiro",
+        "text": "Retiro"
+      },
+      "withdrawals": {
+        "amount": "Importe de retiradas",
+        "text": "Retiradas"
       }
     },
     "message": {

@@ -131,28 +131,14 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "Zusätzliche metriken",
-        "contributions": "Zusätzliche Beiträge"
-      },
-      "contribution_frequency": "Häufigkeit der Beiträge",
-      "rate_of_return": {
-        "text": "Rendite",
-        "all_time": "Rendite über die gesamte Laufzeit"
-      },
-      "return_frequency": "Renditehäufigkeit",
-      "withdrawal": {
-        "amount": "Auszahlungsbetrag",
-        "text": "Auszahlung"
-      },
-      "withdrawals": {
-        "amount": "Betrag der Auszahlungen",
-        "text": "Auszahlungen"
-      },
       "account": {
         "balance": "Kontostand",
         "currency": "Kontowährung",
         "size": "Kontogröße"
+      },
+      "additional": {
+        "contributions": "Zusätzliche Beiträge",
+        "metrics": "Zusätzliche metriken"
       },
       "additional_tax": {
         "amount": "Zusätzlicher steuerbetrag",
@@ -216,6 +202,7 @@
         "frequency": "Häufigkeit der Zinseszinsbildung",
         "text": "Zinseszins"
       },
+      "contribution_frequency": "Häufigkeit der Beiträge",
       "cost": {
         "of": {
           "goods": {
@@ -356,6 +343,10 @@
         "price_per_unit": "Ankaufspreis pro einheit"
       },
       "rate": "Satz",
+      "rate_of_return": {
+        "all_time": "Rendite über die gesamte Laufzeit",
+        "text": "Rendite"
+      },
       "real_time_quotes": "Echtzeitkurse",
       "regular_addition": "Regelmäßige hinzufügung",
       "required_margin": "Erforderliche marge",
@@ -363,6 +354,7 @@
       "resistances": "Widerstände",
       "retained_earnings": "Retained earnings",
       "retracement": "Retracement",
+      "return_frequency": "Renditehäufigkeit",
       "return_on_investment": "Return on investment",
       "revenue": "Einnahmen",
       "risk": {
@@ -476,6 +468,14 @@
         "amount": "MwSt betrag",
         "rate": "MwSt satz",
         "text": "MwSt"
+      },
+      "withdrawal": {
+        "amount": "Auszahlungsbetrag",
+        "text": "Auszahlung"
+      },
+      "withdrawals": {
+        "amount": "Betrag der Auszahlungen",
+        "text": "Auszahlungen"
       }
     },
     "message": {

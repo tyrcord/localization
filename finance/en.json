@@ -131,30 +131,15 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "Additional metrics",
-        "contributions": "Additional contributions"
-      },
-      "contribution_frequency": "Contribution frequency",
-      "rate_of_return": {
-        "text": "Rate of return",
-        "all_time": "All-time rate of return"
-      },
-      "return_frequency": "Return frequency",
       "account": {
         "balance": "Account balance",
         "currency": "Account currency",
         "size": "Account size"
       },
-      "withdrawal": {
-        "amount": "Withdrawal amount",
-        "text": "Withdrawal"
+      "additional": {
+        "contributions": "Additional contributions",
+        "metrics": "Additional metrics"
       },
-      "withdrawals": {
-        "amount": "Withdrawals amount",
-        "text": "Withdrawals"
-      },
-
       "additional_tax": {
         "amount": "Additional tax amount",
         "rate": "Additional tax rate",
@@ -217,6 +202,7 @@
         "frequency": "Compounding frequency",
         "text": "Compounding"
       },
+      "contribution_frequency": "Contribution frequency",
       "cost": {
         "of": {
           "goods": {
@@ -357,6 +343,10 @@
         "price_per_unit": "Purchase price per unit"
       },
       "rate": "Rate",
+      "rate_of_return": {
+        "all_time": "All-time rate of return",
+        "text": "Rate of return"
+      },
       "real_time_quotes": "Real-time quotes",
       "regular_addition": "Regular addition",
       "required_margin": "Required margin",
@@ -364,6 +354,7 @@
       "resistances": "Resistances",
       "retained_earnings": "Retained earnings",
       "retracement": "Retracement",
+      "return_frequency": "Return frequency",
       "return_on_investment": "Return on investment",
       "revenue": "Revenue",
       "risk": {
@@ -477,6 +468,14 @@
         "amount": "VAT amount",
         "rate": "VAT rate",
         "text": "VAT"
+      },
+      "withdrawal": {
+        "amount": "Withdrawal amount",
+        "text": "Withdrawal"
+      },
+      "withdrawals": {
+        "amount": "Withdrawals amount",
+        "text": "Withdrawals"
       }
     },
     "message": {

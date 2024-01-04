@@ -131,29 +131,14 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "Métricas adicionais",
-        "contributions": "Contribuições adicionais"
-      },
-      "contribution_frequency": "Frequência de contribuição",
-      "rate_of_return": {
-        "text": "Taxa de retorno",
-        "all_time": "Taxa de retorno de todos os tempos"
-      },
-      "return_frequency": "Frequência de retorno",
-
-      "withdrawal": {
-        "amount": "Montante do levantamento",
-        "text": "Levantamento"
-      },
-      "withdrawals": {
-        "amount": "Valor dos levantamentos",
-        "text": "Levantamentos"
-      },
       "account": {
         "balance": "Saldo da conta",
         "currency": "Moeda da conta",
         "size": "Tamanho da conta"
+      },
+      "additional": {
+        "contributions": "Contribuições adicionais",
+        "metrics": "Métricas adicionais"
       },
       "additional_tax": {
         "amount": "Montante de imposto adicional",
@@ -217,6 +202,7 @@
         "frequency": "Frequência de capitalização",
         "text": "Capitalização"
       },
+      "contribution_frequency": "Frequência de contribuição",
       "cost": {
         "of": {
           "goods": {
@@ -357,6 +343,10 @@
         "price_per_unit": "Preço de aquisição por unidade"
       },
       "rate": "Taxa",
+      "rate_of_return": {
+        "all_time": "Taxa de retorno de todos os tempos",
+        "text": "Taxa de retorno"
+      },
       "real_time_quotes": "Cotações em tempo real",
       "regular_addition": "Adição regular",
       "required_margin": "Margem exigida",
@@ -364,6 +354,7 @@
       "resistances": "Resistências",
       "retained_earnings": "Lucros retidos",
       "retracement": "Retração",
+      "return_frequency": "Frequência de retorno",
       "return_on_investment": "Retorno sobre o investimento",
       "revenue": "Receita",
       "risk": {
@@ -477,6 +468,14 @@
         "amount": "Quantidade de IVA",
         "rate": "Taxa de IVA",
         "text": "IVA"
+      },
+      "withdrawal": {
+        "amount": "Montante do levantamento",
+        "text": "Levantamento"
+      },
+      "withdrawals": {
+        "amount": "Valor dos levantamentos",
+        "text": "Levantamentos"
       }
     },
     "message": {

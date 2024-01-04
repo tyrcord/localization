@@ -131,28 +131,14 @@
       }
     },
     "label": {
-      "additional": {
-        "metrics": "Métriques supplémentaires",
-        "contributions": "Contributions supplémentaires"
-      },
-      "contribution_frequency": "Fréquence de contribution",
-      "rate_of_return": {
-        "text": "Taux de rendement",
-        "all_time": "Taux de rendement global"
-      },
-      "return_frequency": "Fréquence de rendement",
-      "withdrawal": {
-        "amount": "Montant du retrait",
-        "text": "Retrait"
-      },
-      "withdrawals": {
-        "amount": "Montant des retraits",
-        "text": "Retraits"
-      },
       "account": {
         "balance": "Solde du compte",
         "currency": "Devise du compte",
         "size": "Taille du compte"
+      },
+      "additional": {
+        "contributions": "Contributions supplémentaires",
+        "metrics": "Métriques supplémentaires"
       },
       "additional_tax": {
         "amount": "Montant d'imposition additionnel",
@@ -216,6 +202,7 @@
         "frequency": "Fréquence de capitalisation",
         "text": "Capitalisation"
       },
+      "contribution_frequency": "Fréquence de contribution",
       "cost": {
         "of": {
           "goods": {
@@ -356,6 +343,10 @@
         "price_per_unit": "Prix d'acquisition par unité"
       },
       "rate": "Taux",
+      "rate_of_return": {
+        "all_time": "Taux de rendement global",
+        "text": "Taux de rendement"
+      },
       "real_time_quotes": "Cotations en temps réel",
       "regular_addition": "Ajout régulier",
       "required_margin": "Marge requise",
@@ -363,6 +354,7 @@
       "resistances": "Résistances",
       "retained_earnings": "Bénéfices non distribués",
       "retracement": "Retracement",
+      "return_frequency": "Fréquence de rendement",
       "return_on_investment": "Retour sur investissement",
       "revenue": "Revenu",
       "risk": {
@@ -476,6 +468,14 @@
         "amount": "Montant de la TVA",
         "rate": "Taux de TVA",
         "text": "TVA"
+      },
+      "withdrawal": {
+        "amount": "Montant du retrait",
+        "text": "Retrait"
+      },
+      "withdrawals": {
+        "amount": "Montant des retraits",
+        "text": "Retraits"
       }
     },
     "message": {
