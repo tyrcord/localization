@@ -440,7 +440,6 @@
     },
     "question": {
       "are_you_sure": "Are you sure?",
-      "export_data_pdf": "Would you like to generate a PDF version of this data?",
       "generate": {
         "data": {
           "pdf": "Would you like to generate a PDF version of this data?",
