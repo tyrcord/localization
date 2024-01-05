@@ -471,10 +471,12 @@
       },
       "withdrawal": {
         "amount": "Montant du retrait",
+        "frequency": "Fréquence de retrait",
         "text": "Retrait"
       },
       "withdrawals": {
         "amount": "Montant des retraits",
+        "frequency": "Fréquences des retraits",
         "text": "Retraits"
       }
     },

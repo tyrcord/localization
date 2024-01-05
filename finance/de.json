@@ -471,10 +471,12 @@
       },
       "withdrawal": {
         "amount": "Auszahlungsbetrag",
+        "frequency": "Auszahlungshäufigkeit",
         "text": "Auszahlung"
       },
       "withdrawals": {
         "amount": "Betrag der Auszahlungen",
+        "frequency": "Häufigkeit der Auszahlungen",
         "text": "Auszahlungen"
       }
     },

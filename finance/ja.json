@@ -470,12 +470,14 @@
         "text": "VAT"
       },
       "withdrawal": {
-        "amount": "引き出し金額",
-        "text": "引き出し"
+        "amount": "出金額",
+        "frequency": "出金頻度",
+        "text": "出金"
       },
       "withdrawals": {
-        "amount": "引き出し金額",
-        "text": "引き出し"
+        "amount": "出金額合計",
+        "frequency": "出金の頻度",
+        "text": "出金合計"
       }
     },
     "message": {

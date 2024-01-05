@@ -471,10 +471,12 @@
       },
       "withdrawal": {
         "amount": "Montante do levantamento",
+        "frequency": "Frequência de levantamento",
         "text": "Levantamento"
       },
       "withdrawals": {
-        "amount": "Valor dos levantamentos",
+        "amount": "Montante dos levantamentos",
+        "frequency": "Frequência dos levantamentos",
         "text": "Levantamentos"
       }
     },

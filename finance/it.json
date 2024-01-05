@@ -471,10 +471,12 @@
       },
       "withdrawal": {
         "amount": "Importo del prelievo",
+        "frequency": "Frequenza di prelievo",
         "text": "Prelievo"
       },
       "withdrawals": {
         "amount": "Importo dei prelievi",
+        "frequency": "Frequenza dei prelievi",
         "text": "Prelievi"
       }
     },

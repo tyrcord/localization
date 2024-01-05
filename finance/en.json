@@ -471,10 +471,12 @@
       },
       "withdrawal": {
         "amount": "Withdrawal amount",
+        "frequency": "Withdrawal frequency",
         "text": "Withdrawal"
       },
       "withdrawals": {
         "amount": "Withdrawals amount",
+        "frequency": "Withdrawals frequency",
         "text": "Withdrawals"
       }
     },

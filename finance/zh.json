@@ -471,11 +471,13 @@
       },
       "withdrawal": {
         "amount": "提款金额",
+        "frequency": "提款频率",
         "text": "提款"
       },
       "withdrawals": {
-        "amount": "提现金额",
-        "text": "提现"
+        "amount": "提款总额",
+        "frequency": "提款频率",
+        "text": "提款总计"
       }
     },
     "message": {

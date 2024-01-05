@@ -471,11 +471,13 @@
       },
       "withdrawal": {
         "amount": "Cantidad de retiro",
+        "frequency": "Frecuencia de retiro",
         "text": "Retiro"
       },
       "withdrawals": {
-        "amount": "Importe de retiradas",
-        "text": "Retiradas"
+        "amount": "Cantidad de retiros",
+        "frequency": "Frecuencia de retiros",
+        "text": "Retiros"
       }
     },
     "message": {
