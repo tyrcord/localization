@@ -362,6 +362,7 @@
         "effective": "Effective risk",
         "in_percentage": "Risk in percentage",
         "ratio": "Risk ratio",
+        "type": "Risk type",
         "reward": {
           "ratio": "Risk-reward ratio",
           "text": "Risk-reward"
@@ -403,7 +404,8 @@
           "text": "Stop loss",
           "with_slippage": "Stop loss with slippage"
         },
-        "text": "Stop loss"
+        "text": "Stop loss",
+        "type": "Stop loss type"
       },
       "stop_loss_take_profit": "Stop Loss/Take Profit",
       "subtotal": "Subtotal",
@@ -418,7 +420,8 @@
           "text": "Take profit",
           "with_slippage": "Take profit with slippage"
         },
-        "text": "Take profit"
+        "text": "Take profit",
+        "type": "Take profit type"
       },
       "tax": {
         "amount": "Tax amount",
@@ -489,7 +492,15 @@
       "interest_rate": "Select an interest rate",
       "leverage": "Select a leverage",
       "primary_currency": "Select a primary currency",
-      "secondary_currency": "Select a secondary currency"
+      "secondary_currency": "Select a secondary currency",
+      "pivot_point_method": "Select a pivot point method",
+      "return_frequency": "Select a return frequency",
+      "risk_type": "Select a risk type",
+      "stop_loss_type": "Select a stop loss type",
+      "take_profit_type": "Select a take profit type",
+      "tax_rate": "Select a tax rate",
+      "compounding_frequency": "Select a compounding frequency",
+      "contribution_frequency": "Select a contribution frequency"
     },
     "warning": {
       "risk_reward_ratio": "The risk-reward ratio is less than 2."
