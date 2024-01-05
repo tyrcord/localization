@@ -362,13 +362,13 @@
         "effective": "Effective risk",
         "in_percentage": "Risk in percentage",
         "ratio": "Risk ratio",
-        "type": "Risk type",
         "reward": {
           "ratio": "Risk-reward ratio",
           "text": "Risk-reward"
         },
         "text": "Risk",
-        "tolerated": "Tolerated risk"
+        "tolerated": "Tolerated risk",
+        "type": "Risk type"
       },
       "sales": {
         "commission": "Sales commission",
@@ -488,19 +488,19 @@
     },
     "select": {
       "account_currency": "Select your account currency",
+      "compounding_frequency": "Select a compounding frequency",
+      "contribution_frequency": "Select a contribution frequency",
       "currency": "Select a currency",
       "interest_rate": "Select an interest rate",
       "leverage": "Select a leverage",
-      "primary_currency": "Select a primary currency",
-      "secondary_currency": "Select a secondary currency",
       "pivot_point_method": "Select a pivot point method",
+      "primary_currency": "Select a primary currency",
       "return_frequency": "Select a return frequency",
       "risk_type": "Select a risk type",
+      "secondary_currency": "Select a secondary currency",
       "stop_loss_type": "Select a stop loss type",
       "take_profit_type": "Select a take profit type",
-      "tax_rate": "Select a tax rate",
-      "compounding_frequency": "Select a compounding frequency",
-      "contribution_frequency": "Select a contribution frequency"
+      "tax_rate": "Select a tax rate"
     },
     "warning": {
       "risk_reward_ratio": "The risk-reward ratio is less than 2."

@@ -488,19 +488,19 @@
     },
     "select": {
       "account_currency": "Seleziona la valuta del tuo conto",
+      "compounding_frequency": "Seleziona una frequenza di capitalizzazione",
+      "contribution_frequency": "Seleziona una frequenza di contributo",
       "currency": "Seleziona una valuta",
       "interest_rate": "Seleziona un tasso di interesse",
       "leverage": "Seleziona un leverage",
-      "primary_currency": "Seleziona una valuta principale",
-      "secondary_currency": "Seleziona una valuta secondaria",
       "pivot_point_method": "Seleziona un metodo di punto pivot",
+      "primary_currency": "Seleziona una valuta principale",
       "return_frequency": "Seleziona una frequenza di rendimento",
       "risk_type": "Seleziona un tipo di rischio",
+      "secondary_currency": "Seleziona una valuta secondaria",
       "stop_loss_type": "Seleziona un tipo di stop loss",
       "take_profit_type": "Seleziona un tipo di presa di profitto",
-      "tax_rate": "Seleziona una aliquota fiscale",
-      "compounding_frequency": "Seleziona una frequenza di capitalizzazione",
-      "contribution_frequency": "Seleziona una frequenza di contributo"
+      "tax_rate": "Seleziona una aliquota fiscale"
     },
     "warning": {
       "risk_reward_ratio": "Il rapporto rischio-rendimento è inferiore a 2."

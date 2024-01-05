@@ -488,19 +488,19 @@
     },
     "select": {
       "account_currency": "Выберите валюту вашего счета",
+      "compounding_frequency": "Выберите частоту начисления сложных процентов",
+      "contribution_frequency": "Выберите частоту взносов",
       "currency": "Выберите валюту",
       "interest_rate": "Выберите процентную ставку",
       "leverage": "Выберите плечо",
-      "primary_currency": "Выберите основную валюту",
-      "secondary_currency": "Выберите вторичную валюту",
       "pivot_point_method": "Выберите метод точки поворота",
+      "primary_currency": "Выберите основную валюту",
       "return_frequency": "Выберите частоту доходности",
       "risk_type": "Выберите тип риска",
+      "secondary_currency": "Выберите вторичную валюту",
       "stop_loss_type": "Выберите тип стоп-лосса",
       "take_profit_type": "Выберите тип фиксации прибыли",
-      "tax_rate": "Выберите налоговую ставку",
-      "compounding_frequency": "Выберите частоту начисления сложных процентов",
-      "contribution_frequency": "Выберите частоту взносов"
+      "tax_rate": "Выберите налоговую ставку"
     },
     "warning": {
       "risk_reward_ratio": "Отношение риска и вознаграждения меньше 2."

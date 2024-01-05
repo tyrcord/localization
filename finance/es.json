@@ -488,19 +488,19 @@
     },
     "select": {
       "account_currency": "Seleccione la moneda de su cuenta",
+      "compounding_frequency": "Seleccione una frecuencia de capitalización",
+      "contribution_frequency": "Seleccione una frecuencia de contribución",
       "currency": "Seleccione una moneda",
       "interest_rate": "Seleccione una tasa de interés",
       "leverage": "Seleccione un apalancamiento",
-      "primary_currency": "Seleccione una moneda principal",
-      "secondary_currency": "Seleccione una moneda secundaria",
       "pivot_point_method": "Seleccione un método de punto de pivote",
+      "primary_currency": "Seleccione una moneda principal",
       "return_frequency": "Seleccione una frecuencia de retorno",
       "risk_type": "Seleccione un tipo de riesgo",
+      "secondary_currency": "Seleccione una moneda secundaria",
       "stop_loss_type": "Seleccione un tipo de stop loss",
       "take_profit_type": "Seleccione un tipo de toma de ganancias",
-      "tax_rate": "Seleccione una tasa impositiva",
-      "compounding_frequency": "Seleccione una frecuencia de capitalización",
-      "contribution_frequency": "Seleccione una frecuencia de contribución"
+      "tax_rate": "Seleccione una tasa impositiva"
     },
     "warning": {
       "risk_reward_ratio": "El ratio riesgo-recompensa es inferior a 2."
