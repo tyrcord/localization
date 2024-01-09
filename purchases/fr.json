@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "Bénéficiez de mises à jour plus rapides des taux de change.",
       "unlimited": {
-        "pdf": "Profitez de la génération de PDF illimitée."
+        "pdf": "Génération illimitée de PDF.",
+        "csv": "Génération illimitée de CSV."
+      },
+      "faster": {
+        "startup": "Démarrage de l'application plus rapide."
       }
     },
     "label": {

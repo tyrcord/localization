@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "Benefit from quicker updates of exchange rates.",
       "unlimited": {
-        "pdf": "Experience limitless PDF generation."
+        "pdf": "Unlimited PDF generation.",
+        "csv": "Unlimited CSV generation."
+      },
+      "faster": {
+        "startup": "Faster application startup."
       }
     },
     "label": {

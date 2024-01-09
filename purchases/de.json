@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "Profitieren Sie von schnelleren Aktualisierungen der Wechselkurse.",
       "unlimited": {
-        "pdf": "Erleben Sie grenzenlose PDF-Erstellung."
+        "pdf": "Unbegrenzte PDF-Erstellung.",
+        "csv": "Unbegrenzte CSV-Erstellung."
+      },
+      "faster": {
+        "startup": "Schnellerer Anwendungsstart."
       }
     },
     "label": {

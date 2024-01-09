@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "Beneficie de atualizações mais rápidas das taxas de câmbio.",
       "unlimited": {
-        "pdf": "Experimente a geração ilimitada de PDF."
+        "pdf": "Geração ilimitada de PDF.",
+        "csv": "Geração ilimitada de CSV."
+      },
+      "faster": {
+        "startup": "Inicialização mais rápida da aplicação."
       }
     },
     "label": {

@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "為替レートのより速い更新を利用してください。",
       "unlimited": {
-        "pdf": "無制限のPDF生成を体験しましょう。"
+        "pdf": "無制限のPDF生成。",
+        "csv": "無制限のCSV生成。"
+      },
+      "faster": {
+        "startup": "より高速なアプリケーション起動。"
       }
     },
     "label": {

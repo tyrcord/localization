@@ -37,7 +37,11 @@
       },
       "quicker_refresh_rates": "享受更快的汇率更新速度。",
       "unlimited": {
-        "pdf": "体验无限的PDF生成。"
+        "pdf": "无限PDF生成。",
+        "csv": "无限CSV生成。"
+      },
+      "faster": {
+        "startup": "应用程序启动更快。"
       }
     },
     "label": {
