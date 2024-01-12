@@ -381,45 +381,38 @@
       "example": "Example:",
       "failed_to": {
         "generate": {
-          "pdf": "A problem was encountered while creating the PDF file.",
-          "text": "A problem was encountered while creating the text file.",
-          "file": "A problem was encountered while creating the file.",
+          "csv": "A problem was encountered while creating the CSV file.",
           "excel": "A problem was encountered while creating the Excel file.",
-          "csv": "A problem was encountered while creating the CSV file."
+          "file": "A problem was encountered while creating the file.",
+          "pdf": "A problem was encountered while creating the PDF file.",
+          "text": "A problem was encountered while creating the text file."
         },
         "load": {
+          "csv": "A problem was encountered while loading the CSV file.",
           "data": "A problem was encountered while loading the data.",
-          "pdf": "A problem was encountered while loading the PDF file.",
-          "text": "A problem was encountered while loading the text file.",
-          "file": "A problem was encountered while loading the file.",
           "excel": "A problem was encountered while loading the Excel file.",
-          "csv": "A problem was encountered while loading the CSV file."
+          "file": "A problem was encountered while loading the file.",
+          "pdf": "A problem was encountered while loading the PDF file.",
+          "text": "A problem was encountered while loading the text file."
         },
         "perform": {
           "action": "A problem was encountered while performing the action."
         },
         "save": {
+          "csv": "A problem was encountered while saving the CSV file.",
           "data": "A problem was encountered while saving the data.",
-          "pdf": "A problem was encountered while saving the PDF file.",
-          "text": "A problem was encountered while saving the text file.",
-          "file": "A problem was encountered while saving the file.",
           "excel": "A problem was encountered while saving the Excel file.",
-          "csv": "A problem was encountered while saving the CSV file."
+          "file": "A problem was encountered while saving the file.",
+          "pdf": "A problem was encountered while saving the PDF file.",
+          "text": "A problem was encountered while saving the text file."
         }
       },
       "finally": "Finally!",
       "generating": {
-        "pdf": "Generating PDF file...",
         "csv": "Generating CSV file...",
         "excel": "Generating Excel file...",
+        "pdf": "Generating PDF file...",
         "text": "Generation in progress..."
-      },
-      "ready": {
-        "text": "Ready!",
-        "pdf": "PDF file ready!",
-        "csv": "CSV file ready!",
-        "excel": "Excel file ready!",
-        "file": "File ready!"
       },
       "have_wonderful_day": "Have a wonderful day!",
       "last_updated_on": "Last updated on {date}",
@@ -438,6 +431,13 @@
       "performing": "Performing...",
       "please_wait": "Please wait...",
       "processing": "Processing...",
+      "ready": {
+        "csv": "CSV file ready!",
+        "excel": "Excel file ready!",
+        "file": "File ready!",
+        "pdf": "PDF file ready!",
+        "text": "Ready!"
+      },
       "require": {
         "internet_connection": "An internet connection is required."
       },

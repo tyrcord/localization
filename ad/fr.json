@@ -19,10 +19,10 @@
     "message": {
       "discover_other_app": "Jetez un œil à nos autres applications gratuites!",
       "enjoy_your_reward": {
-        "text": "Profitez de votre récompense !",
-        "pdf": "Félicitations ! Votre fichier PDF est prêt. Bonne lecture !",
-        "csv": "Félicitations ! Votre fichier CSV est prêt. Bonne lecture !",
-        "excel": "Félicitations ! Votre fichier Excel est prêt. Bonne lecture !"
+        "csv": "Félicitations ! Votre fichier CSV est prêt. Bonne lecture !",
+        "excel": "Félicitations ! Votre fichier Excel est prêt. Bonne lecture !",
+        "pdf": "Félicitations ! Votre fichier PDF est prêt. Bonne lecture !",
+        "text": "Profitez de votre récompense !"
       },
       "go_ad_free": "Profitez d'une expérience sans publicité !",
       "lucky_you": "Vous avez de la chance!",
@@ -30,11 +30,11 @@
       "say_goodbye_to_ads": "Dites adieu aux publicités !",
       "watch_ad": {
         "unlock": {
+          "csv": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en CSV !",
+          "excel": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données dans un fichier Excel !",
           "feature": "Regardez une courte publicité pour débloquer cette fonction!",
           "feature_plural": "Regardez une courte publicité pour débloquer ces fonctions!",
-          "pdf": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en PDF !",
-          "csv": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en CSV !",
-          "excel": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données dans un fichier Excel !"
+          "pdf": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en PDF !"
         }
       }
     }
