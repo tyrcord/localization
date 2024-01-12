@@ -18,8 +18,12 @@
     },
     "message": {
       "discover_other_app": "Jetez un œil à nos autres applications gratuites!",
-      "enjoy_your_pdf_report_reward": "Félicitations! Votre rapport PDF est prêt à être téléchargé. Bonne lecture !",
-      "enjoy_your_reward": "Profitez de votre récompense!",
+      "enjoy_your_reward": {
+        "text": "Profitez de votre récompense !",
+        "pdf": "Félicitations ! Votre fichier PDF est prêt. Bonne lecture !",
+        "csv": "Félicitations ! Votre fichier CSV est prêt. Bonne lecture !",
+        "excel": "Félicitations ! Votre fichier Excel est prêt. Bonne lecture !"
+      },
       "go_ad_free": "Profitez d'une expérience sans publicité !",
       "lucky_you": "Vous avez de la chance!",
       "no_ads_now": "Pas de publicités pour le moment. Profitez de l'application!",
@@ -28,7 +32,9 @@
         "unlock": {
           "feature": "Regardez une courte publicité pour débloquer cette fonction!",
           "feature_plural": "Regardez une courte publicité pour débloquer ces fonctions!",
-          "pdf": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données au format PDF!"
+          "pdf": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en PDF !",
+          "csv": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données en CSV !",
+          "excel": "Regardez une courte publicité pour débloquer la possibilité d'exporter vos données dans un fichier Excel !"
         }
       }
     }
