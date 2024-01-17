@@ -38,7 +38,9 @@
       "mmbtu": "MMBtu",
       "ounce": "オンス",
       "pound": "ポンド",
-      "unit": "ユニット"
+      "unit": "ユニット",
+      "ton": "トン",
+      "bushel": "ブッシェル"
     }
   }
 }

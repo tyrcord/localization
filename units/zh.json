@@ -38,7 +38,9 @@
       "mmbtu": "MMBtu",
       "ounce": "盎司",
       "pound": "磅",
-      "unit": "单位"
+      "unit": "单位",
+      "ton": "吨",
+      "bushel": "蒲式耳"
     }
   }
 }

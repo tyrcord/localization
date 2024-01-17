@@ -38,7 +38,9 @@
       "mmbtu": "MMBtu",
       "ounce": "oz",
       "pound": "lb",
-      "unit": "Unidade"
+      "unit": "Unidade",
+      "ton": "tonelada",
+      "bushel": "bushel"
     }
   }
 }

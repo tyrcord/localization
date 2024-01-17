@@ -38,7 +38,9 @@
       "mmbtu": "MMBtu",
       "ounce": "oz",
       "pound": "lb",
-      "unit": "Unité"
+      "unit": "Unité",
+      "ton": "tonne",
+      "bushel": "boisseau"
     }
   }
 }
