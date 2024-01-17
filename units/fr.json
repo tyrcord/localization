@@ -2,6 +2,7 @@
   "units": {
     "label": {
       "barrel": "baril",
+      "bushel": "boisseau",
       "count": {
         "barrel": {
           "few": "{} barils",
@@ -38,9 +39,8 @@
       "mmbtu": "MMBtu",
       "ounce": "oz",
       "pound": "lb",
-      "unit": "Unité",
       "ton": "tonne",
-      "bushel": "boisseau"
+      "unit": "Unité"
     }
   }
 }

@@ -2,6 +2,7 @@
   "units": {
     "label": {
       "barrel": "bbl",
+      "bushel": "bu",
       "count": {
         "barrel": {
           "few": "{} barrels",
@@ -38,9 +39,8 @@
       "mmbtu": "MMBtu",
       "ounce": "oz",
       "pound": "lb",
-      "unit": "Unit",
       "ton": "ton",
-      "bushel": "bu"
+      "unit": "Unit"
     }
   }
 }

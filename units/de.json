@@ -2,6 +2,7 @@
   "units": {
     "label": {
       "barrel": "Fass",
+      "bushel": "Bushel",
       "count": {
         "barrel": {
           "few": "{} Fässer",
@@ -38,9 +39,8 @@
       "mmbtu": "MMBtu",
       "ounce": "oz",
       "pound": "lb",
-      "unit": "Einheit",
       "ton": "Tonne",
-      "bushel": "Bushel"
+      "unit": "Einheit"
     }
   }
 }
