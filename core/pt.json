@@ -383,6 +383,7 @@
       "copied_to_clipboard": "Copiado para a área de transferência!",
       "copied_value_to_clipboard": "Copiado {value} para a área de transferência!",
       "dark_mode_support": "Suporte ao modo escuro.",
+      "erase_all_content_and_settings_explanation": "Esta ação irá eliminar permanentemente todos os dados desta aplicação, incluindo as suas definições pessoais, preferências e informações guardadas. Este processo é irreversível.",
       "example": "Exemplo:",
       "failed_to": {
         "generate": {
@@ -461,11 +462,11 @@
       "warning": "Aviso!",
       "welcome": "Bem-vindo!",
       "whats_new": "O que há de novo?",
-      "whoops": "Ops!",
-      "erase_all_content_and_settings_explanation": "Esta ação irá eliminar permanentemente todos os dados desta aplicação, incluindo as suas definições pessoais, preferências e informações guardadas. Este processo é irreversível."
+      "whoops": "Ops!"
     },
     "question": {
       "are_you_sure": "Tem certeza?",
+      "erase_all_content_and_settings": "Tem a certeza de que quer apagar todo o conteúdo e definições?",
       "export": {
         "data": {
           "as": {
@@ -482,8 +483,7 @@
           "excel": "Gostaria de gerar uma versão em Excel destes dados?",
           "pdf": "Gostaria de gerar uma versão em PDF destes dados?"
         }
-      },
-      "erase_all_content_and_settings": "Tem a certeza de que quer apagar todo o conteúdo e definições?"
+      }
     },
     "select": {
       "country": "Selecione um país",

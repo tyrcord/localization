@@ -383,6 +383,7 @@
       "copied_to_clipboard": "Copiato negli appunti!",
       "copied_value_to_clipboard": "Copiato {value} negli appunti!",
       "dark_mode_support": "Supporto per la modalità scura.",
+      "erase_all_content_and_settings_explanation": "Questa azione eliminerà definitivamente tutti i dati da questa app, inclusi le tue impostazioni personali, preferenze e informazioni salvate. Questo processo è irreversibile.",
       "example": "Esempio:",
       "failed_to": {
         "generate": {
@@ -461,11 +462,11 @@
       "warning": "Attenzione!",
       "welcome": "Benvenuto!",
       "whats_new": "Cosa c'è di nuovo?",
-      "whoops": "Ops!",
-      "erase_all_content_and_settings_explanation": "Questa azione eliminerà definitivamente tutti i dati da questa app, inclusi le tue impostazioni personali, preferenze e informazioni salvate. Questo processo è irreversibile."
+      "whoops": "Ops!"
     },
     "question": {
       "are_you_sure": "Sei sicuro?",
+      "erase_all_content_and_settings": "Sei sicuro di voler cancellare tutti i contenuti e le impostazioni?",
       "export": {
         "data": {
           "as": {
@@ -482,8 +483,7 @@
           "excel": "Vuoi generare una versione Excel di questi dati?",
           "pdf": "Vuoi generare una versione PDF di questi dati?"
         }
-      },
-      "erase_all_content_and_settings": "Sei sicuro di voler cancellare tutti i contenuti e le impostazioni?"
+      }
     },
     "select": {
       "country": "Seleziona un paese",
