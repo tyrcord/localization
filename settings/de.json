@@ -33,7 +33,21 @@
         "text": "Datenschutz"
       },
       "rate_us": "Bewerten sie uns",
-      "reset_settings": "Standard wiederherstellen",
+      "restore": {
+        "defaults": "Standardeinstellungen wiederherstellen",
+        "settings": "Einstellungen wiederherstellen"
+      },
+      "reset": {
+        "text": "Zurücksetzen",
+        "all": {
+          "content_settings": "Alle Inhalte und Einstellungen zurücksetzen"
+        }
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "Alle Inhalte und Einstellungen löschen"
+        }
+      },
       "settings": "Einstellungen",
       "submit_bug_report": "Fehlerbericht senden",
       "system": "System",
@@ -45,7 +59,8 @@
     },
     "message": {
       "last_modified": "Zuletzt geändert: {date}",
-      "thanks_support": "Vielen Dank für Ihre Unterstützung!"
+      "thanks_support": "Vielen Dank für Ihre Unterstützung!",
+      "erase_all_content_and_settings_explanation": "Diese Aktion wird alle Daten aus dieser App dauerhaft löschen, einschließlich Ihrer persönlichen Einstellungen, Vorlieben und gespeicherten Informationen. Dieser Vorgang ist nicht umkehrbar."
     },
     "note": {
       "appearance": "Personalisieren Sie Ihr Erlebnis, indem Sie ein Design auswählen, das zu Ihrem Stil passt.",
@@ -55,7 +70,8 @@
     },
     "question": {
       "do_you_enjoy_our_app": "Wenn Ihnen unsere App gefällt, würden Sie sich einen Moment Zeit nehmen, um sie zu bewerten?",
-      "do_you_like_our_app": "Gefällt Ihnen unsere App?"
+      "do_you_like_our_app": "Gefällt Ihnen unsere App?",
+      "erase_all_content_and_settings": "Sind Sie sicher, dass Sie alle Inhalte und Einstellungen löschen möchten?"
     },
     "select": {
       "language": "Wählen Sie die gewünschte Sprache aus."

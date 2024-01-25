@@ -33,7 +33,21 @@
         "text": "Privacidad"
       },
       "rate_us": "Califícanos",
-      "reset_settings": "Restaurar configuración",
+      "restore": {
+        "defaults": "Restaurar valores predeterminados",
+        "settings": "Restaurar configuraciones"
+      },
+      "reset": {
+        "text": "Restablecer",
+        "all": {
+          "content_settings": "Restablecer todos los contenidos y configuraciones"
+        }
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "Borrar todo el contenido y ajustes"
+        }
+      },
       "settings": "Configuración",
       "submit_bug_report": "Enviar un informe de error",
       "system": "Sistema",
@@ -45,7 +59,8 @@
     },
     "message": {
       "last_modified": "Última modificación: {date}",
-      "thanks_support": "¡Gracias por su apoyo!"
+      "thanks_support": "¡Gracias por su apoyo!",
+      "erase_all_content_and_settings_explanation": "Esta acción eliminará permanentemente todos los datos de esta aplicación, incluyendo sus ajustes personales, preferencias e información guardada. Este proceso es irreversible."
     },
     "note": {
       "appearance": "Personaliza tu experiencia seleccionando un tema que se adapte a tu estilo.",
@@ -55,7 +70,8 @@
     },
     "question": {
       "do_you_enjoy_our_app": "Si encuentra útil nuestra aplicación, ¿estaría dispuesto a dedicar unos minutos para calificarla?",
-      "do_you_like_our_app": "¿Le gusta nuestra aplicación?"
+      "do_you_like_our_app": "¿Le gusta nuestra aplicación?",
+      "erase_all_content_and_settings": "¿Está seguro de que quiere borrar todo el contenido y los ajustes?"
     },
     "select": {
       "language": "Seleccione el idioma que desea utilizar."

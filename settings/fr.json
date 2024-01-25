@@ -33,7 +33,21 @@
         "text": "Confidentialité"
       },
       "rate_us": "Évaluez-nous",
-      "reset_settings": "Rétablir les paramètres",
+      "restore": {
+        "defaults": "Restaurer les valeurs par défaut",
+        "settings": "Restaurer les paramètres"
+      },
+      "reset": {
+        "text": "Réinitialiser",
+        "all": {
+          "content_settings": "Réinitialiser tous les contenus et paramètres"
+        }
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "Effacer tous les contenus et réglages"
+        }
+      },
       "settings": "Paramètres",
       "submit_bug_report": "Soumettre un rapport de bug",
       "system": "Système",
@@ -45,7 +59,8 @@
     },
     "message": {
       "last_modified": "Dernière modification : {date}",
-      "thanks_support": "Merci pour votre soutien !"
+      "thanks_support": "Merci pour votre soutien !",
+      "erase_all_content_and_settings_explanation": "Cette action supprimera définitivement toutes les données de cette application, y compris vos paramètres personnels, préférences et informations enregistrées. Ce processus est irréversible."
     },
     "note": {
       "appearance": "Personnalisez votre expérience en sélectionnant un thème qui correspond à votre style.",
@@ -55,7 +70,8 @@
     },
     "question": {
       "do_you_enjoy_our_app": "Si vous trouvez notre application utile, seriez-vous prêt à prendre quelques instants pour la noter ?",
-      "do_you_like_our_app": "Appréciez-vous notre application ?"
+      "do_you_like_our_app": "Appréciez-vous notre application ?",
+      "erase_all_content_and_settings": "Êtes-vous sûr de vouloir effacer tous les contenus et réglages ?"
     },
     "select": {
       "language": "Sélectionnez la langue que vous souhaitez utiliser."
