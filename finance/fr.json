@@ -168,6 +168,7 @@
       }
     },
     "label": {
+      "effective_annual_rate": "Taux annuel effectif",
       "account": {
         "balance": "Solde du compte",
         "currency": "Devise du compte",

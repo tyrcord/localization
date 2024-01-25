@@ -168,6 +168,7 @@
       }
     },
     "label": {
+      "effective_annual_rate": "Tasa anual efectiva",
       "account": {
         "balance": "Saldo de la cuenta",
         "currency": "Moneda de la cuenta",

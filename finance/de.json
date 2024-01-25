@@ -168,6 +168,7 @@
       }
     },
     "label": {
+      "effective_annual_rate": "Effektiver Jahreszins",
       "account": {
         "balance": "Kontostand",
         "currency": "Kontowährung",

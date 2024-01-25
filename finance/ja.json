@@ -168,6 +168,7 @@
       }
     },
     "label": {
+      "effective_annual_rate": "実効年率",
       "account": {
         "balance": "口座残高",
         "currency": "口座の通貨",
