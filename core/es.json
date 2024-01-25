@@ -33,6 +33,11 @@
       "several_reasons": "Podría haber varias razones:"
     },
     "label": {
+      "erase": {
+        "all": {
+          "content_and_settings": "Borrar todo el contenido y ajustes"
+        }
+      },
       "accept": "Aceptar",
       "accepted": "Aceptado",
       "active": "Activo",

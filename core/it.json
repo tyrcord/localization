@@ -369,6 +369,11 @@
         "out": "Riduci",
         "reset": "Reimposta zoom",
         "text": "Zoom"
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "Cancella tutti i contenuti e le impostazioni"
+        }
       }
     },
     "message": {

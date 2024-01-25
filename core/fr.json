@@ -369,6 +369,11 @@
         "out": "Zoom arrière",
         "reset": "Réinitialiser le zoom",
         "text": "Zoom"
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "Effacer tous les contenus et réglages"
+        }
       }
     },
     "message": {

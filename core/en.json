@@ -33,6 +33,11 @@
       "several_reasons": "There could be several reasons:"
     },
     "label": {
+      "erase": {
+        "all": {
+          "content_and_settings": "Erase all content and settings"
+        }
+      },
       "accept": "Accept",
       "accepted": "Accepted",
       "active": "Active",

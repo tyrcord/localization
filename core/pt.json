@@ -154,6 +154,11 @@
         "from": "Importar de",
         "text": "Importar"
       },
+      "erase": {
+        "all": {
+          "content_and_settings": "Apagar todo o conteúdo e definições"
+        }
+      },
       "in_progress": "Em progresso",
       "inactive": "Inativo",
       "incomplete": "Incompleto",

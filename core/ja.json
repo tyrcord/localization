@@ -369,6 +369,11 @@
         "out": "ズームアウト",
         "reset": "ズームリセット",
         "text": "ズーム"
+      },
+      "erase": {
+        "all": {
+          "content_and_settings": "すべてのコンテンツと設定を消去"
+        }
       }
     },
     "message": {
