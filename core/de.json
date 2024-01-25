@@ -33,11 +33,6 @@
       "several_reasons": "Es könnte mehrere Gründe geben:"
     },
     "label": {
-      "erase": {
-        "all": {
-          "content_and_settings": "Alle Inhalte und Einstellungen löschen"
-        }
-      },
       "accept": "Akzeptieren",
       "accepted": "Akzeptiert",
       "active": "Aktiv",
@@ -114,6 +109,11 @@
       },
       "entries": "Eingänge",
       "entry": "Eingang",
+      "erase": {
+        "all": {
+          "content_and_settings": "Alle Inhalte und Einstellungen löschen"
+        }
+      },
       "error": "Fehler",
       "example": "Beispiel",
       "exit": {

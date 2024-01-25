@@ -109,6 +109,11 @@
       },
       "entries": "エントリー",
       "entry": "エントリー",
+      "erase": {
+        "all": {
+          "content_and_settings": "すべてのコンテンツと設定を消去"
+        }
+      },
       "error": "エラー",
       "example": "例",
       "exit": {
@@ -369,11 +374,6 @@
         "out": "ズームアウト",
         "reset": "ズームリセット",
         "text": "ズーム"
-      },
-      "erase": {
-        "all": {
-          "content_and_settings": "すべてのコンテンツと設定を消去"
-        }
       }
     },
     "message": {
