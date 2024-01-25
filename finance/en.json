@@ -168,7 +168,6 @@
       }
     },
     "label": {
-      "effective_annual_rate": "Effective annual rate",
       "account": {
         "balance": "Account balance",
         "currency": "Account currency",
@@ -262,6 +261,7 @@
       },
       "duration_years": "Duration in years",
       "earnings": "Earnings",
+      "effective_annual_rate": "Effective annual rate",
       "ending": {
         "balance": "Ending balance",
         "principal": "Ending principal"

@@ -168,7 +168,6 @@
       }
     },
     "label": {
-      "effective_annual_rate": "Эффективная годовая ставка",
       "account": {
         "balance": "Баланс счета",
         "currency": "Валюта счета",
@@ -262,6 +261,7 @@
       },
       "duration_years": "Продолжительность в годах",
       "earnings": "Доходы",
+      "effective_annual_rate": "Эффективная годовая ставка",
       "ending": {
         "balance": "Конечный баланс",
         "principal": "Конечный основной капитал"

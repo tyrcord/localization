@@ -168,7 +168,6 @@
       }
     },
     "label": {
-      "effective_annual_rate": "Tasso annuo effettivo",
       "account": {
         "balance": "Saldo conto",
         "currency": "Valuta del conto",
@@ -262,6 +261,7 @@
       },
       "duration_years": "Durata in anni",
       "earnings": "Guadagni",
+      "effective_annual_rate": "Tasso annuo effettivo",
       "ending": {
         "balance": "Saldo finale",
         "principal": "Capitale finale"

@@ -168,7 +168,6 @@
       }
     },
     "label": {
-      "effective_annual_rate": "Effektiver Jahreszins",
       "account": {
         "balance": "Kontostand",
         "currency": "Kontowährung",
@@ -262,6 +261,7 @@
       },
       "duration_years": "Dauer in jahren",
       "earnings": "Einnahmen",
+      "effective_annual_rate": "Effektiver Jahreszins",
       "ending": {
         "balance": "Endguthaben",
         "principal": "Endkapital"

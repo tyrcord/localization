@@ -168,7 +168,6 @@
       }
     },
     "label": {
-      "effective_annual_rate": "Taxa anual efetiva",
       "account": {
         "balance": "Saldo da conta",
         "currency": "Moeda da conta",
@@ -262,6 +261,7 @@
       },
       "duration_years": "Duração em anos",
       "earnings": "Ganhos",
+      "effective_annual_rate": "Taxa anual efetiva",
       "ending": {
         "balance": "Saldo final",
         "principal": "Principal final"
