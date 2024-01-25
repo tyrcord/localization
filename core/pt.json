@@ -272,7 +272,12 @@
         "text": "Relatório"
       },
       "required": "Obrigatório",
-      "reset": "Resetar",
+      "reset": {
+        "all": {
+          "content_settings": "Redefinir todos os conteúdos e configurações"
+        },
+        "text": "Redefinir"
+      },
       "results": "Resultados",
       "resumed": "Retomado",
       "retry": "Tentar novamente",
@@ -456,7 +461,8 @@
       "warning": "Aviso!",
       "welcome": "Bem-vindo!",
       "whats_new": "O que há de novo?",
-      "whoops": "Ops!"
+      "whoops": "Ops!",
+      "erase_all_content_and_settings_explanation": "Esta ação irá eliminar permanentemente todos os dados desta aplicação, incluindo as suas definições pessoais, preferências e informações guardadas. Este processo é irreversível."
     },
     "question": {
       "are_you_sure": "Tem certeza?",
@@ -476,7 +482,8 @@
           "excel": "Gostaria de gerar uma versão em Excel destes dados?",
           "pdf": "Gostaria de gerar uma versão em PDF destes dados?"
         }
-      }
+      },
+      "erase_all_content_and_settings": "Tem a certeza de que quer apagar todo o conteúdo e definições?"
     },
     "select": {
       "country": "Selecione um país",

@@ -272,7 +272,12 @@
         "text": "Rapport"
       },
       "required": "Requis",
-      "reset": "Réinitialiser",
+      "reset": {
+        "all": {
+          "content_settings": "Réinitialiser tous les contenus et paramètres"
+        },
+        "text": "Réinitialiser"
+      },
       "results": "Résultats",
       "resumed": "Repris",
       "retry": "Réessayer",
@@ -456,7 +461,8 @@
       "warning": "Attention !",
       "welcome": "Bienvenue !",
       "whats_new": "Quoi de neuf ?",
-      "whoops": "Oups !"
+      "whoops": "Oups !",
+      "erase_all_content_and_settings_explanation": "Cette action supprimera définitivement toutes les données de cette application, y compris vos paramètres personnels, préférences et informations enregistrées. Ce processus est irréversible."
     },
     "question": {
       "are_you_sure": "Êtes-vous sûr(e) ?",
@@ -476,7 +482,8 @@
           "excel": "Souhaitez-vous générer une version Excel de ces données?",
           "pdf": "Souhaitez-vous générer une version PDF de ces données?"
         }
-      }
+      },
+      "erase_all_content_and_settings": "Êtes-vous sûr de vouloir effacer tous les contenus et réglages ?"
     },
     "select": {
       "country": "Sélectionnez un pays",

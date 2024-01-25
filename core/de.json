@@ -272,7 +272,12 @@
         "text": "Bericht"
       },
       "required": "Erforderlich",
-      "reset": "Zurücksetzen",
+      "reset": {
+        "all": {
+          "content_settings": "Alle Inhalte und Einstellungen zurücksetzen"
+        },
+        "text": "Zurücksetzen"
+      },
       "results": "Ergebnisse",
       "resumed": "Fortgesetzt",
       "retry": "Erneut versuchen",
@@ -456,7 +461,8 @@
       "warning": "Achtung!",
       "welcome": "Willkommen!",
       "whats_new": "Was gibt's Neues?",
-      "whoops": "Hoppla!"
+      "whoops": "Hoppla!",
+      "erase_all_content_and_settings_explanation": "Diese Aktion wird alle Daten aus dieser App dauerhaft löschen, einschließlich Ihrer persönlichen Einstellungen, Vorlieben und gespeicherten Informationen. Dieser Vorgang ist nicht umkehrbar."
     },
     "question": {
       "are_you_sure": "Sind Sie sicher?",
@@ -476,7 +482,8 @@
           "excel": "Möchten Sie eine Excel-Version dieser Daten erstellen?",
           "pdf": "Möchten Sie eine PDF-Version dieser Daten erstellen?"
         }
-      }
+      },
+      "erase_all_content_and_settings": "Sind Sie sicher, dass Sie alle Inhalte und Einstellungen löschen möchten?"
     },
     "select": {
       "country": "Wählen Sie ein Land",

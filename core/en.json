@@ -272,7 +272,12 @@
         "text": "Report"
       },
       "required": "Required",
-      "reset": "Reset",
+      "reset": {
+        "all": {
+          "content_settings": "Reset all content and settings"
+        },
+        "text": "Reset"
+      },
       "results": "Results",
       "resumed": "Resumed",
       "retry": "Retry",
@@ -456,7 +461,8 @@
       "warning": "Warning!",
       "welcome": "Welcome!",
       "whats_new": "What's new?",
-      "whoops": "Whoops!"
+      "whoops": "Whoops!",
+      "erase_all_content_and_settings_explanation": "This action will permanently delete all data from this app, including your personal settings, preferences, and saved information. This process is irreversible."
     },
     "question": {
       "are_you_sure": "Are you sure?",
@@ -476,7 +482,8 @@
           "excel": "Would you like to generate an Excel version of this data?",
           "pdf": "Would you like to generate a PDF version of this data?"
         }
-      }
+      },
+      "erase_all_content_and_settings": "Are you sure you want to erase all content and settings?"
     },
     "select": {
       "country": "Select a country",

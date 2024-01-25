@@ -272,7 +272,12 @@
         "text": "Rapporto"
       },
       "required": "Richiesto",
-      "reset": "Reimpostare",
+      "reset": {
+        "all": {
+          "content_settings": "Reimposta tutti i contenuti e le impostazioni"
+        },
+        "text": "Reimpostare"
+      },
       "results": "Risultati",
       "resumed": "Ripreso",
       "retry": "Riprova",
@@ -456,7 +461,8 @@
       "warning": "Attenzione!",
       "welcome": "Benvenuto!",
       "whats_new": "Cosa c'è di nuovo?",
-      "whoops": "Ops!"
+      "whoops": "Ops!",
+      "erase_all_content_and_settings_explanation": "Questa azione eliminerà definitivamente tutti i dati da questa app, inclusi le tue impostazioni personali, preferenze e informazioni salvate. Questo processo è irreversibile."
     },
     "question": {
       "are_you_sure": "Sei sicuro?",
@@ -476,7 +482,8 @@
           "excel": "Vuoi generare una versione Excel di questi dati?",
           "pdf": "Vuoi generare una versione PDF di questi dati?"
         }
-      }
+      },
+      "erase_all_content_and_settings": "Sei sicuro di voler cancellare tutti i contenuti e le impostazioni?"
     },
     "select": {
       "country": "Seleziona un paese",
