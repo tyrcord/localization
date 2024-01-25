@@ -19,6 +19,11 @@
       "dark": "ダーク",
       "default": "デフォルト",
       "disclaimer": "免責事項",
+      "erase": {
+        "all": {
+          "content_and_settings": "すべてのコンテンツと設定を消去"
+        }
+      },
       "help_and_support": "ヘルプとサポート",
       "homepage": "ホーム",
       "language": "言語",
@@ -33,20 +38,15 @@
         "text": "プライバシー"
       },
       "rate_us": "評価する",
+      "reset": {
+        "all": {
+          "content_settings": "すべてのコンテンツと設定をリセット"
+        },
+        "text": "リセット"
+      },
       "restore": {
         "defaults": "デフォルトを復元",
         "settings": "設定を復元"
-      },
-      "reset": {
-        "text": "リセット",
-        "all": {
-          "content_settings": "すべてのコンテンツと設定をリセット"
-        }
-      },
-      "erase": {
-        "all": {
-          "content_and_settings": "すべてのコンテンツと設定を消去"
-        }
       },
       "settings": "設定",
       "submit_bug_report": "バグレポートを送信",
@@ -58,9 +58,9 @@
       "version": "バージョン: {version}"
     },
     "message": {
+      "erase_all_content_and_settings_explanation": "この操作を実行すると、個人設定、好み、保存された情報を含むこのアプリのすべてのデータが完全に削除されます。このプロセスは元に戻すことができません。",
       "last_modified": "最終更新日：{date}",
-      "thanks_support": "ご支援ありがとうございます！",
-      "erase_all_content_and_settings_explanation": "この操作を実行すると、個人設定、好み、保存された情報を含むこのアプリのすべてのデータが完全に削除されます。このプロセスは元に戻すことができません。"
+      "thanks_support": "ご支援ありがとうございます！"
     },
     "note": {
       "appearance": "スタイルに合ったテーマを選択して、体験をカスタマイズしましょう。",

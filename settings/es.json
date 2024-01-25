@@ -19,6 +19,11 @@
       "dark": "Oscuro",
       "default": "Predeterminado",
       "disclaimer": "Aviso legal",
+      "erase": {
+        "all": {
+          "content_and_settings": "Borrar todo el contenido y ajustes"
+        }
+      },
       "help_and_support": "Ayuda y soporte",
       "homepage": "Inicio",
       "language": "Idioma",
@@ -33,20 +38,15 @@
         "text": "Privacidad"
       },
       "rate_us": "Califícanos",
+      "reset": {
+        "all": {
+          "content_settings": "Restablecer todos los contenidos y configuraciones"
+        },
+        "text": "Restablecer"
+      },
       "restore": {
         "defaults": "Restaurar valores predeterminados",
         "settings": "Restaurar configuraciones"
-      },
-      "reset": {
-        "text": "Restablecer",
-        "all": {
-          "content_settings": "Restablecer todos los contenidos y configuraciones"
-        }
-      },
-      "erase": {
-        "all": {
-          "content_and_settings": "Borrar todo el contenido y ajustes"
-        }
       },
       "settings": "Configuración",
       "submit_bug_report": "Enviar un informe de error",
@@ -58,9 +58,9 @@
       "version": "Versión: {version}"
     },
     "message": {
+      "erase_all_content_and_settings_explanation": "Esta acción eliminará permanentemente todos los datos de esta aplicación, incluyendo sus ajustes personales, preferencias e información guardada. Este proceso es irreversible.",
       "last_modified": "Última modificación: {date}",
-      "thanks_support": "¡Gracias por su apoyo!",
-      "erase_all_content_and_settings_explanation": "Esta acción eliminará permanentemente todos los datos de esta aplicación, incluyendo sus ajustes personales, preferencias e información guardada. Este proceso es irreversible."
+      "thanks_support": "¡Gracias por su apoyo!"
     },
     "note": {
       "appearance": "Personaliza tu experiencia seleccionando un tema que se adapte a tu estilo.",

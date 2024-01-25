@@ -19,6 +19,11 @@
       "dark": "深色",
       "default": "默认",
       "disclaimer": "免责声明",
+      "erase": {
+        "all": {
+          "content_and_settings": "清除所有内容和设置"
+        }
+      },
       "help_and_support": "帮助与支持",
       "homepage": "主页",
       "language": "语言",
@@ -33,15 +38,15 @@
         "text": "隐私"
       },
       "rate_us": "评价我们",
+      "reset": {
+        "all": {
+          "content_settings": "重置所有内容和设置"
+        },
+        "text": "重置"
+      },
       "restore": {
         "defaults": "恢复默认设置",
         "settings": "恢复设置"
-      },
-      "reset": {
-        "text": "重置",
-        "all": {
-          "content_settings": "重置所有内容和设置"
-        }
       },
       "settings": "设置",
       "submit_bug_report": "提交错误报告",
@@ -50,17 +55,12 @@
       "user_input": "用户输入",
       "user_inputs": "用户输入",
       "user_settings": "用户设置",
-      "version": "版本：{version}",
-      "erase": {
-        "all": {
-          "content_and_settings": "清除所有内容和设置"
-        }
-      }
+      "version": "版本：{version}"
     },
     "message": {
+      "erase_all_content_and_settings_explanation": "此操作将永久删除此应用中的所有数据，包括您的个人设置、偏好和保存的信息。此过程不可逆。",
       "last_modified": "最后修改时间：{date}",
-      "thanks_support": "感谢您的支持！",
-      "erase_all_content_and_settings_explanation": "此操作将永久删除此应用中的所有数据，包括您的个人设置、偏好和保存的信息。此过程不可逆。"
+      "thanks_support": "感谢您的支持！"
     },
     "note": {
       "appearance": "通过选择适合您风格的主题来个性化您的体验。",

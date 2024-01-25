@@ -19,6 +19,11 @@
       "dark": "Escuro",
       "default": "Padrão",
       "disclaimer": "Aviso legal",
+      "erase": {
+        "all": {
+          "content_and_settings": "Apagar todo o conteúdo e definições"
+        }
+      },
       "help_and_support": "Ajuda e suporte",
       "homepage": "Página inicial",
       "language": "Idioma",
@@ -33,15 +38,15 @@
         "text": "Privacidade"
       },
       "rate_us": "Avalie-nos",
+      "reset": {
+        "all": {
+          "content_settings": "Redefinir todos os conteúdos e configurações"
+        },
+        "text": "Redefinir"
+      },
       "restore": {
         "defaults": "Restaurar padrões",
         "settings": "Restaurar configurações"
-      },
-      "reset": {
-        "text": "Redefinir",
-        "all": {
-          "content_settings": "Redefinir todos os conteúdos e configurações"
-        }
       },
       "settings": "Configurações",
       "submit_bug_report": "Enviar relatório de bug",
@@ -50,17 +55,12 @@
       "user_input": "Entrada do usuário",
       "user_inputs": "Entradas do usuário",
       "user_settings": "Configurações do usuário",
-      "version": "Versão: {version}",
-      "erase": {
-        "all": {
-          "content_and_settings": "Apagar todo o conteúdo e definições"
-        }
-      }
+      "version": "Versão: {version}"
     },
     "message": {
+      "erase_all_content_and_settings_explanation": "Esta ação irá eliminar permanentemente todos os dados desta aplicação, incluindo as suas definições pessoais, preferências e informações guardadas. Este processo é irreversível.",
       "last_modified": "Última modificação: {date}",
-      "thanks_support": "Obrigado pelo seu apoio!",
-      "erase_all_content_and_settings_explanation": "Esta ação irá eliminar permanentemente todos os dados desta aplicação, incluindo as suas definições pessoais, preferências e informações guardadas. Este processo é irreversível."
+      "thanks_support": "Obrigado pelo seu apoio!"
     },
     "note": {
       "appearance": "Personalize sua experiência selecionando um tema que combine com seu estilo.",
