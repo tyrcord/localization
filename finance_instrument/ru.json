@@ -143,7 +143,27 @@
       "wheat": "Пшеница",
       "yemeni_rial": "Йеменский Риал",
       "zambian_kwacha": "Замбийская квача",
-      "zimbabwe_dollar": "Доллар Зимбабве"
+      "zimbabwe_dollar": "Доллар Зимбабве",
+      "albanian_lek": "Албанский лек",
+      "armenian_dram": "Армянский драм",
+      "angolan_kwanza": "Ангольская кванза",
+      "aruban_florin": "Арубанский флорин",
+      "bosnia_and_herzegovina_convertible_mark": "Конвертируемая марка Боснии и Герцеговины",
+      "cfp_franc": "Франк КФП",
+      "west_african_cfa_franc": "Западноафриканский франк СФА",
+      "east_caribbean_dollar": "Восточно-карибский доллар",
+      "uzbekistani_som": "Узбекский сум",
+      "ugandan_shilling": "Угандийский шиллинг",
+      "trinidad_and_tobago_dollar": "Доллар Тринидада и Тобаго",
+      "tongan_paanga": "Тонганская паанга",
+      "turkmenistani_manat": "Туркменский манат",
+      "tajikistani_somoni": "Таджикистанский сомони",
+      "comorian_franc": "Коморский франк",
+      "haitian_gourde": "Гаитянский гурд",
+      "honduran_lempira": "Гондурасская лемпира",
+      "omani_rial": "Оманский риал",
+      "dominican_peso": "Доминиканское песо",
+      "djiboutian_franc": "Джибутийский франк"
     },
     "message": {
       "search_instrument": "Поиск финансового инструмента..."

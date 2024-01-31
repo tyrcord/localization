@@ -143,7 +143,27 @@
       "wheat": "小麦",
       "yemeni_rial": "イエメン・リアル",
       "zambian_kwacha": "ザンビアクワチャ",
-      "zimbabwe_dollar": "ジンバブエドル"
+      "zimbabwe_dollar": "ジンバブエドル",
+      "albanian_lek": "アルバニア・レク",
+      "armenian_dram": "アルメニア・ドラム",
+      "angolan_kwanza": "アンゴラ・クワンザ",
+      "aruban_florin": "アルバ・フロリン",
+      "bosnia_and_herzegovina_convertible_mark": "ボスニア・ヘルツェゴビナ兌換マルク",
+      "cfp_franc": "CFPフラン",
+      "west_african_cfa_franc": "西アフリカCFAフラン",
+      "east_caribbean_dollar": "東カリブドル",
+      "uzbekistani_som": "ウズベキスタン・ソム",
+      "ugandan_shilling": "ウガンダ・シリング",
+      "trinidad_and_tobago_dollar": "トリニダード・トバゴ・ドル",
+      "tongan_paanga": "トンガ・パアンガ",
+      "turkmenistani_manat": "トルクメニスタン・マナト",
+      "tajikistani_somoni": "タジキスタン・ソモニ",
+      "comorian_franc": "コモロ・フラン",
+      "haitian_gourde": "ハイチ・グルド",
+      "honduran_lempira": "ホンジュラス・レンピラ",
+      "omani_rial": "オマーン・リアル",
+      "dominican_peso": "ドミニカ共和国ペソ",
+      "djiboutian_franc": "ジブチ・フラン"
     },
     "message": {
       "search_instrument": "金融商品を検索..."

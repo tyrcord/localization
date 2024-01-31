@@ -143,7 +143,27 @@
       "wheat": "Blé",
       "yemeni_rial": "Rial Yéménite",
       "zambian_kwacha": "Kwacha zambien",
-      "zimbabwe_dollar": "Dollar zimbabwéen"
+      "zimbabwe_dollar": "Dollar zimbabwéen",
+      "albanian_lek": "Lek Albanais",
+      "armenian_dram": "Dram Arménien",
+      "angolan_kwanza": "Kwanza Angolais",
+      "aruban_florin": "Florin Arubais",
+      "bosnia_and_herzegovina_convertible_mark": "Mark Convertible de Bosnie-Herzégovine",
+      "cfp_franc": "Franc CFP",
+      "west_african_cfa_franc": "Franc CFA d'Afrique de l'Ouest",
+      "east_caribbean_dollar": "Dollar des Caraïbes Orientales",
+      "uzbekistani_som": "Som Ouzbek",
+      "ugandan_shilling": "Shilling Ougandais",
+      "trinidad_and_tobago_dollar": "Dollar de Trinité-et-Tobago",
+      "tongan_paanga": "Pa'anga Tongien",
+      "turkmenistani_manat": "Manat Turkmène",
+      "tajikistani_somoni": "Somoni Tadjik",
+      "comorian_franc": "Franc Comorien",
+      "haitian_gourde": "Gourde Haïtienne",
+      "honduran_lempira": "Lempira Hondurien",
+      "omani_rial": "Rial Omanais",
+      "dominican_peso": "Peso Dominicain",
+      "djiboutian_franc": "Franc Djiboutien"
     },
     "message": {
       "search_instrument": "Rechercher un instrument financier..."
