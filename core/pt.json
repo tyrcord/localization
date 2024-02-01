@@ -374,7 +374,9 @@
         "out": "Diminuir zoom",
         "reset": "Redefinir zoom",
         "text": "Zoom"
-      }
+      },
+      "included": "Incluído",
+      "excluded": "Excluído"
     },
     "message": {
       "action": {

@@ -106,6 +106,10 @@
         "example": "Si un produit coûte 10 $ avant taxes et qu'il est soumis à un taux de TVA de 20 %, inscrivez 10 comme valeur hors taxe",
         "text": "Désigne le prix d'un produit ou service avant l'ajout de la taxe sur la valeur ajoutée (TVA). La TVA est une taxe sur la consommation imposée lors de la vente de produits et services dans de nombreux pays."
       },
+      "price_after_vat": {
+        "example": "Si un produit coûte 10 $ avant taxes et est soumis à un taux de TVA de 20 %, le prix après TVA serait de 12 $. Entrez 12 comme valeur.",
+        "text": "Fait référence au prix total d'un produit ou d'un service après l'ajout de la taxe sur la valeur ajoutée (TVA). C'est le prix de vente au détail que les consommateurs paient. La TVA est une taxe sur la consommation qui est appliquée à la vente de biens et services dans de nombreux pays."
+      },
       "rate_of_return": {
         "example": "Si vous prévoyez un rendement de 2 % par mois, vous devez saisir 2 comme taux de rendement.",
         "text": "Symbolise le taux de rendement sur une période définie."

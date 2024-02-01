@@ -374,7 +374,9 @@
         "out": "Zoom out",
         "reset": "Reset zoom",
         "text": "Zoom"
-      }
+      },
+      "included": "Included",
+      "excluded": "Excluded"
     },
     "message": {
       "action": {

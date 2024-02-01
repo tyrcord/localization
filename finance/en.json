@@ -106,6 +106,10 @@
         "example": "If a product costs $10 before taxes and is subject to a VAT rate of 20%, enter 10 as the pre-tax value.",
         "text": "Refers to the price of a product or service before the addition of the value-added tax (VAT). VAT is a tax on consumption imposed when products and services are sold in many countries."
       },
+      "price_after_vat": {
+        "example": "If a product costs $10 before taxes and is subject to a VAT rate of 20%, the price after VAT would be $12, enter 12 as the value.",
+        "text": "Refers to the total price of a product or service after the addition of the value-added tax (VAT). This is the retail price that consumers pay. VAT is a tax on consumption that is applied to the sale of goods and services in many countries."
+      },
       "rate_of_return": {
         "example": "If you anticipate a return of 2% per month, you should enter 2 as the rate of return.",
         "text": "Symbolizes the rate of return over a defined period."

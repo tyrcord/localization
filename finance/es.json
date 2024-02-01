@@ -106,6 +106,10 @@
         "example": "Si un producto cuesta $10 antes de impuestos y está sujeto a una tasa de IVA del 20%, ingrese 10 como el valor antes de impuestos.",
         "text": "Se refiere al precio de un producto o servicio antes de la adición del impuesto al valor agregado (IVA). El IVA es un impuesto al consumo que se impone cuando se venden productos y servicios en muchos países."
       },
+      "price_after_vat": {
+        "example": "Si un producto cuesta $10 antes de impuestos y está sujeto a un tipo de IVA del 20%, el precio después del IVA sería de $12, introduzca 12 como valor.",
+        "text": "Se refiere al precio total de un producto o servicio después de la adición del impuesto sobre el valor añadido (IVA). Este es el precio de venta al público que pagan los consumidores. El IVA es un impuesto al consumo que se aplica a la venta de bienes y servicios en muchos países."
+      },
       "rate_of_return": {
         "example": "Si anticipa un retorno del 2% por mes, debe ingresar 2 como la tasa de retorno.",
         "text": "Simboliza la tasa de retorno durante un período definido."

@@ -374,7 +374,9 @@
         "out": "Zoom arrière",
         "reset": "Réinitialiser le zoom",
         "text": "Zoom"
-      }
+      },
+      "included": "Inclus",
+      "excluded": "Exclu"
     },
     "message": {
       "action": {

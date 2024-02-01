@@ -374,7 +374,9 @@
         "out": "Herauszoomen",
         "reset": "Zoom zurücksetzen",
         "text": "Zoom"
-      }
+      },
+      "included": "Inklusive",
+      "excluded": "Ausgeschlossen"
     },
     "message": {
       "action": {

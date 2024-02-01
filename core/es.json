@@ -374,7 +374,9 @@
         "out": "Alejar",
         "reset": "Restablecer zoom",
         "text": "Zoom"
-      }
+      },
+      "included": "Incluido",
+      "excluded": "Excluido"
     },
     "message": {
       "action": {

@@ -374,7 +374,9 @@
         "out": "ズームアウト",
         "reset": "ズームリセット",
         "text": "ズーム"
-      }
+      },
+      "included": "含まれる",
+      "excluded": "除外される"
     },
     "message": {
       "action": {
