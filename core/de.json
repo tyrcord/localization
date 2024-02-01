@@ -116,6 +116,7 @@
       },
       "error": "Fehler",
       "example": "Beispiel",
+      "excluded": "Ausgeschlossen",
       "exit": {
         "fullscreen": "Vollbild beenden",
         "pip": "Bild-in-bild beenden",
@@ -161,6 +162,7 @@
       },
       "in_progress": "In bearbeitung",
       "inactive": "Inaktiv",
+      "included": "Inklusive",
       "incomplete": "Unvollständig",
       "info": "Info",
       "inputs": "Eingaben",
@@ -374,9 +376,7 @@
         "out": "Herauszoomen",
         "reset": "Zoom zurücksetzen",
         "text": "Zoom"
-      },
-      "included": "Inklusive",
-      "excluded": "Ausgeschlossen"
+      }
     },
     "message": {
       "action": {
