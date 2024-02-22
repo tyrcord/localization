@@ -29,21 +29,21 @@
         }
       }
     },
-    "years": {
-      "zero": "{years} an",
-      "one": "{years} an",
-      "two": "{years} ans",
-      "few": "{years} ans",
-      "many": "{years} ans",
-      "other": "{years} ans"
-    },
     "yearMonth": {
-      "zero": "{years} an, {months} mois",
-      "one": "{years} an, {months} mois",
-      "two": "{years} ans, {months} mois",
       "few": "{years} ans, {months} mois",
       "many": "{years} ans, {months} mois",
-      "other": "{years} ans, {months} mois"
+      "one": "{years} an, {months} mois",
+      "other": "{years} ans, {months} mois",
+      "two": "{years} ans, {months} mois",
+      "zero": "{years} an, {months} mois"
+    },
+    "years": {
+      "few": "{years} ans",
+      "many": "{years} ans",
+      "one": "{years} an",
+      "other": "{years} ans",
+      "two": "{years} ans",
+      "zero": "{years} an"
     }
   }
 }

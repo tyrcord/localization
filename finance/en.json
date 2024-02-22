@@ -263,6 +263,11 @@
         "per_unit": "Discount per unit",
         "rate": "Discount rate"
       },
+      "duration": {
+        "double": {
+          "investment": "Duration to double investment"
+        }
+      },
       "duration_years": "Duration in years",
       "earnings": "Earnings",
       "effective_annual_rate": "Effective annual rate",
@@ -527,11 +532,6 @@
         "amount": "Withdrawals amount",
         "frequency": "Withdrawals frequency",
         "text": "Withdrawals"
-      },
-      "duration": {
-        "double": {
-          "investment": "Duration to double investment"
-        }
       }
     },
     "message": {

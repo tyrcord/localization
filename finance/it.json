@@ -263,6 +263,11 @@
         "per_unit": "Sconto per unità",
         "rate": "Tasso di sconto"
       },
+      "duration": {
+        "double": {
+          "investment": "Durata per raddoppiare l'investimento"
+        }
+      },
       "duration_years": "Durata in anni",
       "earnings": "Guadagni",
       "effective_annual_rate": "Tasso annuo effettivo",
@@ -527,11 +532,6 @@
         "amount": "Importo dei prelievi",
         "frequency": "Frequenza dei prelievi",
         "text": "Prelievi"
-      },
-      "duration": {
-        "double": {
-          "investment": "Durata per raddoppiare l'investimento"
-        }
       }
     },
     "message": {

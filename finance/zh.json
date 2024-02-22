@@ -263,6 +263,11 @@
         "per_unit": "每单位折扣",
         "rate": "折扣率"
       },
+      "duration": {
+        "double": {
+          "investment": "投资翻倍的时间"
+        }
+      },
       "duration_years": "年份持续时间",
       "earnings": "收益",
       "effective_annual_rate": "有效年利率",
@@ -527,11 +532,6 @@
         "amount": "提款总额",
         "frequency": "提款频率",
         "text": "提款总计"
-      },
-      "duration": {
-        "double": {
-          "investment": "投资翻倍的时间"
-        }
       }
     },
     "message": {

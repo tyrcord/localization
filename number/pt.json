@@ -29,21 +29,21 @@
         }
       }
     },
-    "years": {
-      "zero": "{years} ano",
-      "one": "{years} ano",
-      "two": "{years} anos",
-      "few": "{years} anos",
-      "many": "{years} anos",
-      "other": "{years} anos"
-    },
     "yearMonth": {
-      "zero": "{years} ano, {months} mês",
-      "one": "{years} ano, {months} mês",
-      "two": "{years} anos, {months} meses",
       "few": "{years} anos, {months} meses",
       "many": "{years} anos, {months} meses",
-      "other": "{years} anos, {months} meses"
+      "one": "{years} ano, {months} mês",
+      "other": "{years} anos, {months} meses",
+      "two": "{years} anos, {months} meses",
+      "zero": "{years} ano, {months} mês"
+    },
+    "years": {
+      "few": "{years} anos",
+      "many": "{years} anos",
+      "one": "{years} ano",
+      "other": "{years} anos",
+      "two": "{years} anos",
+      "zero": "{years} ano"
     }
   }
 }
