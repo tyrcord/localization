@@ -527,6 +527,11 @@
         "amount": "提款总额",
         "frequency": "提款频率",
         "text": "提款总计"
+      },
+      "duration": {
+        "double": {
+          "investment": "投资翻倍的时间"
+        }
       }
     },
     "message": {

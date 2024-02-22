@@ -527,6 +527,11 @@
         "amount": "Withdrawals amount",
         "frequency": "Withdrawals frequency",
         "text": "Withdrawals"
+      },
+      "duration": {
+        "double": {
+          "investment": "Duration to double investment"
+        }
       }
     },
     "message": {

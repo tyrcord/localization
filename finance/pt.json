@@ -527,6 +527,11 @@
         "amount": "Montante dos levantamentos",
         "frequency": "Frequência dos levantamentos",
         "text": "Levantamentos"
+      },
+      "duration": {
+        "double": {
+          "investment": "Duração para duplicar o investimento"
+        }
       }
     },
     "message": {

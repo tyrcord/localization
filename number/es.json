@@ -28,6 +28,22 @@
           "other": "{num}.º"
         }
       }
+    },
+    "years": {
+      "zero": "{years} año",
+      "one": "{years} año",
+      "two": "{years} años",
+      "few": "{years} años",
+      "many": "{years} años",
+      "other": "{years} años"
+    },
+    "yearMonth": {
+      "zero": "{years} año, {months} mes",
+      "one": "{years} año, {months} mes",
+      "two": "{years} años, {months} meses",
+      "few": "{years} años, {months} meses",
+      "many": "{years} años, {months} meses",
+      "other": "{years} años, {months} meses"
     }
   }
 }

@@ -527,6 +527,11 @@
         "amount": "Montant des retraits",
         "frequency": "Fréquences des retraits",
         "text": "Retraits"
+      },
+      "duration": {
+        "double": {
+          "investment": "Durée pour doubler l'investissement"
+        }
       }
     },
     "message": {

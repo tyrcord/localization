@@ -527,6 +527,11 @@
         "amount": "Importo dei prelievi",
         "frequency": "Frequenza dei prelievi",
         "text": "Prelievi"
+      },
+      "duration": {
+        "double": {
+          "investment": "Durata per raddoppiare l'investimento"
+        }
       }
     },
     "message": {

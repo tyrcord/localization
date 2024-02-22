@@ -527,6 +527,11 @@
         "amount": "出金額合計",
         "frequency": "出金の頻度",
         "text": "出金合計"
+      },
+      "duration": {
+        "double": {
+          "investment": "投資を倍増させるまでの期間"
+        }
       }
     },
     "message": {

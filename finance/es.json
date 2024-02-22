@@ -527,6 +527,11 @@
         "amount": "Cantidad de retiros",
         "frequency": "Frecuencia de retiros",
         "text": "Retiros"
+      },
+      "duration": {
+        "double": {
+          "investment": "Duración para duplicar la inversión"
+        }
       }
     },
     "message": {

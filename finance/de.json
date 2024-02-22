@@ -527,6 +527,11 @@
         "amount": "Betrag der Auszahlungen",
         "frequency": "Häufigkeit der Auszahlungen",
         "text": "Auszahlungen"
+      },
+      "duration": {
+        "double": {
+          "investment": "Dauer, um die Investition zu verdoppeln"
+        }
       }
     },
     "message": {
