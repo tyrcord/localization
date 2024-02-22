@@ -5,6 +5,14 @@
       "percent": "Percent",
       "percentage": "Percentage"
     },
+    "months": {
+      "few": "{} months",
+      "many": "{} months",
+      "one": "{} month",
+      "other": "{} months",
+      "two": "{} months",
+      "zero": "{} month"
+    },
     "ordinal": {
       "short": {
         "first": {
@@ -28,14 +36,6 @@
           "other": "{num}rd"
         }
       }
-    },
-    "months": {
-      "few": "{} months",
-      "many": "{} months",
-      "one": "{} month",
-      "other": "{} months",
-      "two": "{} months",
-      "zero": "{} month"
     },
     "years": {
       "few": "{} years",

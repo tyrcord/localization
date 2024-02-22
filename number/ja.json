@@ -5,6 +5,14 @@
       "percent": "パーセント",
       "percentage": "パーセンテージ"
     },
+    "months": {
+      "few": "{}ヶ月",
+      "many": "{}ヶ月",
+      "one": "{}ヶ月",
+      "other": "{}ヶ月",
+      "two": "{}ヶ月",
+      "zero": "{}ヶ月"
+    },
     "ordinal": {
       "short": {
         "first": {
@@ -28,14 +36,6 @@
           "other": "第{num}位"
         }
       }
-    },
-    "months": {
-      "few": "{}ヶ月",
-      "many": "{}ヶ月",
-      "one": "{}ヶ月",
-      "other": "{}ヶ月",
-      "two": "{}ヶ月",
-      "zero": "{}ヶ月"
     },
     "years": {
       "few": "{}年",
