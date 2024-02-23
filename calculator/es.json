@@ -4,7 +4,10 @@
       "breakdown": "Desglose",
       "calculator": "Calculadora",
       "calculators": "Calculadoras",
-      "results": "Resultados"
+      "results": "Resultados",
+      "more": {
+        "results": "Más Resultados"
+      }
     },
     "title": {
       "instructions": "Instrucciones para utilizar esta Calculadora",

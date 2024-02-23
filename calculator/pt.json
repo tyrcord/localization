@@ -4,7 +4,10 @@
       "breakdown": "Desdobramento",
       "calculator": "Calculadora",
       "calculators": "Calculadoras",
-      "results": "Resultados"
+      "results": "Resultados",
+      "more": {
+        "results": "Mais Resultados"
+      }
     },
     "title": {
       "instructions": "Instruções para utilizar esta Calculadora",

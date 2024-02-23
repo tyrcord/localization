@@ -4,7 +4,10 @@
       "breakdown": "Breakdown",
       "calculator": "Calculator",
       "calculators": "Calculators",
-      "results": "Results"
+      "results": "Results",
+      "more": {
+        "results": "More Results"
+      }
     },
     "title": {
       "instructions": "Instructions for using this Calculator",
