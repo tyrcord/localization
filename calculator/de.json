@@ -4,10 +4,10 @@
       "breakdown": "Aufschlüsselung",
       "calculator": "Rechner",
       "calculators": "Rechner",
-      "results": "Ergebnisse",
       "more": {
         "results": "Weitere Ergebnisse"
-      }
+      },
+      "results": "Ergebnisse"
     },
     "title": {
       "instructions": "Anleitung zur Verwendung dieses Rechners",

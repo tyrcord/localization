@@ -4,10 +4,10 @@
       "breakdown": "Répartition",
       "calculator": "Calculatrice",
       "calculators": "Calculatrices",
-      "results": "Résultats",
       "more": {
         "results": "Plus de Résultats"
-      }
+      },
+      "results": "Résultats"
     },
     "title": {
       "instructions": "Instructions pour utiliser cette Calculatrice",
