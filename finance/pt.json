@@ -501,11 +501,11 @@
         "return": "Retorno total",
         "revenue": "Receita total",
         "tax": {
-          "text": "Impostos totais",
           "amount": {
-            "text": "Montante total do imposto",
-            "paid": "Montante total do imposto pago"
-          }
+            "paid": "Montante total do imposto pago",
+            "text": "Montante total do imposto"
+          },
+          "text": "Impostos totais"
         },
         "text": "Total",
         "withdrawals": "Levantamentos totais"

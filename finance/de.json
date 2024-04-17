@@ -501,11 +501,11 @@
         "return": "Gesamtrendite",
         "revenue": "Gesamteinnahmen",
         "tax": {
-          "text": "Gesamtsteuern",
           "amount": {
-            "text": "Gesamtbetrag der Steuer",
-            "paid": "Bezahlter Gesamtsteuerbetrag"
-          }
+            "paid": "Bezahlter Gesamtsteuerbetrag",
+            "text": "Gesamtbetrag der Steuer"
+          },
+          "text": "Gesamtsteuern"
         },
         "text": "Gesamt",
         "withdrawals": "Gesamtabhebungen"
