@@ -61,6 +61,7 @@
       "have_not_acquired_premium_version": "No ha adquirido la versión premium.",
       "one_time_payment": "Este es un pago único y no genera cargos recurrentes.",
       "premium_version_restored": "Se han restaurado correctamente tus funciones Premium.",
+      "premium_upgrade_offer": "También puede optar por la versión premium para eliminar los anuncios y acceder a todas las funciones.",
       "purchase": {
         "cancelled": "Compra cancelada.",
         "failed": "Compra fallida.",

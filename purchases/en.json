@@ -61,6 +61,7 @@
       "have_not_acquired_premium_version": "You haven't acquired the premium version.",
       "one_time_payment": "This is a one-time payment and does not incur any recurring charges.",
       "premium_version_restored": "Your premium features have been successfully reinstated.",
+      "premium_upgrade_offer": "You can also opt for the premium version to eliminate ads and access all features.",
       "purchase": {
         "cancelled": "Purchase cancelled.",
         "failed": "Purchase failed.",
