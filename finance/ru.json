@@ -406,9 +406,9 @@
       "retained_earnings": "Нераспределенная прибыль",
       "retracement": "Ретрейсмент",
       "return_frequency": "Частота доходности",
-      "return_on_investment": "Рентабельность инвестиций",
       "return_on_capital": "Рентабельность капитала",
       "return_on_equity": "Рентабельность собственного капитала",
+      "return_on_investment": "Рентабельность инвестиций",
       "revenue": "Выручка",
       "risk": {
         "amount": "Сумма риска",
