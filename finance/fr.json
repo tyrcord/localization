@@ -407,6 +407,8 @@
       "retracement": "Retracement",
       "return_frequency": "Fréquence de rendement",
       "return_on_investment": "Retour sur investissement",
+      "return_on_capital": "Retour sur capital",
+      "return_on_equity": "Retour sur capitaux propres",
       "revenue": "Revenu",
       "risk": {
         "amount": "Montant à risque",

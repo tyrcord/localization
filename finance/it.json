@@ -407,6 +407,8 @@
       "retracement": "Ritracimento",
       "return_frequency": "Frequenza di rendimento",
       "return_on_investment": "Rendimento dell'investimento",
+      "return_on_capital": "Rendimento del capitale",
+      "return_on_equity": "Rendimento del capitale proprio",
       "revenue": "Entrate",
       "risk": {
         "amount": "Importo a rischio",
